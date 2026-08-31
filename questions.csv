@@ -4,3 +4,8 @@ round_id,released_at,deadline_at,question_id,question_text,option_a,option_b,opt
 1,2026-08-31T04:48:44Z,2026-08-31T05:48:44Z,q0094,A contract signed on 12 December 2026 has a 346-day settlement period. On what date does it settle?,16 November 2027,24 November 2027,23 November 2027,23 December 2027
 1,2026-08-31T04:48:44Z,2026-08-31T05:48:44Z,q0113,"An investment of $47,500.00 grows at 8% compounded annually. What is its value after 6 years?","$69,793.08","$70,300.00","$75,376.53","$22,800.00"
 1,2026-08-31T04:48:44Z,2026-08-31T05:48:44Z,q0138,"Fixed costs are $39,000.00. Each unit sells for $128.00 with a variable cost of $76.00. How many units must be sold to break even?",191 units,513 units,750 units,305 units
+7,2026-08-31T11:22:21Z,2026-08-31T12:22:21Z,q0049,A retailer sells 439 units at $7.60 each. What is total revenue?,"$3,260.40","$3,775.40","$3,412.40","$3,336.40"
+7,2026-08-31T11:22:21Z,2026-08-31T12:22:21Z,q0093,"A monthly headcount series runs 6, 11, 16, 21, 26. If the pattern continues, what is the next value?",41,26,31,36
+7,2026-08-31T11:22:21Z,2026-08-31T12:22:21Z,q0131,"A $7,920.00 marketing budget is split between two channels in the ratio 4:3. What does the first channel receive?","$3,394.29","$4,525.71","$1,131.43","$10,560.00"
+7,2026-08-31T11:22:21Z,2026-08-31T12:22:21Z,q0151,"An invoice for $3,861.61 is settled at an exchange rate of 1.3595. What is the converted amount?","4,863.70","5,249.86","5,636.02","2,840.46"
+7,2026-08-31T11:22:21Z,2026-08-31T12:22:21Z,q0178,A contract signed on 13 April 2026 has a 196-day settlement period. On what date does it settle?,26 October 2026,27 October 2026,25 November 2026,19 October 2026
