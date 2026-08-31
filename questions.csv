@@ -1,0 +1,6 @@
+round_id,released_at,deadline_at,question_id,question_text,option_a,option_b,option_c,option_d
+1,2026-08-31T04:48:44Z,2026-08-31T05:48:44Z,q0043,"An invoice for $2,910.20 is settled at an exchange rate of 1.6146. What is the converted amount?","4,407.79","4,698.81","4,989.83","1,802.43"
+1,2026-08-31T04:48:44Z,2026-08-31T05:48:44Z,q0083,"A $7,680.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$2,560.00","$5,120.00","$15,360.00","$1,280.00"
+1,2026-08-31T04:48:44Z,2026-08-31T05:48:44Z,q0094,A contract signed on 12 December 2026 has a 346-day settlement period. On what date does it settle?,16 November 2027,24 November 2027,23 November 2027,23 December 2027
+1,2026-08-31T04:48:44Z,2026-08-31T05:48:44Z,q0113,"An investment of $47,500.00 grows at 8% compounded annually. What is its value after 6 years?","$69,793.08","$70,300.00","$75,376.53","$22,800.00"
+1,2026-08-31T04:48:44Z,2026-08-31T05:48:44Z,q0138,"Fixed costs are $39,000.00. Each unit sells for $128.00 with a variable cost of $76.00. How many units must be sold to break even?",191 units,513 units,750 units,305 units
