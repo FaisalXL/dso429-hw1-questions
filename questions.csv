@@ -89,3 +89,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 18,3,2026-08-31T22:00:29Z,2026-08-31T23:05:29Z,q0046,A contract signed on 5 December 2026 has a 208-day settlement period. On what date does it settle?,24 June 2027,2 July 2027,1 July 2027,31 July 2027
 18,4,2026-08-31T22:00:29Z,2026-08-31T23:05:29Z,q0012,"A support queue holds 21 billing tickets, 12 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",76.7%,27.9%,95.5%,48.8%
 18,5,2026-08-31T22:00:29Z,2026-08-31T23:05:29Z,q0087,"A product line generates $8,000.00 in revenue against $3,824.15 in cost of goods sold. What is the gross margin?",47.8%,109.2%,52.2%,35.3%
+19,1,2026-08-31T23:00:30Z,2026-09-01T00:05:30Z,q0040,An item listed at $242.91 is discounted by 15%. What is the sale price?,$36.44,$206.47,$279.35,$227.91
+19,2,2026-08-31T23:00:30Z,2026-09-01T00:05:30Z,q0098,Quarterly revenue moved from $700.00 to $923.00. What is the percentage change?,-31.9%,24.2%,131.9%,31.9%
+19,3,2026-08-31T23:00:30Z,2026-09-01T00:05:30Z,q0031,"An invoice for $5,561.94 is settled at an exchange rate of 1.2601. What is the converted amount?","7,008.60","4,413.89","6,452.41","7,564.79"
+19,4,2026-08-31T23:00:30Z,2026-09-01T00:05:30Z,q0139,"An invoice for $6,403.94 is settled at an exchange rate of 1.3376. What is the converted amount?","7,925.52","8,565.91","9,206.30","4,787.63"
+19,5,2026-08-31T23:00:30Z,2026-09-01T00:05:30Z,q0179,"A $5,190.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$3,114.00","$1,038.00","$2,076.00","$7,785.00"
