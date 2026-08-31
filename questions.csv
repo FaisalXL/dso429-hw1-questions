@@ -84,3 +84,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 17,3,2026-08-31T21:00:29Z,2026-08-31T22:05:29Z,q0042,"Fixed costs are $73,000.00. Each unit sells for $37.00 with a variable cost of $20.00. How many units must be sold to break even?","1,973 units","3,650 units","4,294 units","1,281 units"
 17,4,2026-08-31T21:00:29Z,2026-08-31T22:05:29Z,q0021,"A monthly headcount series runs 15, 20, 25, 30, 35. If the pattern continues, what is the next value?",50,35,40,45
 17,5,2026-08-31T21:00:29Z,2026-08-31T22:05:29Z,q0157,A retailer sells 398 units at $74.77 each. What is total revenue?,"$30,156.46","$29,010.76","$30,506.16","$29,758.46"
+18,1,2026-08-31T22:00:29Z,2026-08-31T23:05:29Z,q0053,"An investment of $31,000.00 grows at 14% compounded annually. What is its value after 7 years?","$30,380.00","$77,570.33","$61,380.00","$68,044.15"
+18,2,2026-08-31T22:00:29Z,2026-08-31T23:05:29Z,q0119,"A $7,830.00 marketing budget is split between two channels in the ratio 5:2. What does the first channel receive?","$19,575.00","$2,237.14","$5,592.86","$1,118.57"
+18,3,2026-08-31T22:00:29Z,2026-08-31T23:05:29Z,q0046,A contract signed on 5 December 2026 has a 208-day settlement period. On what date does it settle?,24 June 2027,2 July 2027,1 July 2027,31 July 2027
+18,4,2026-08-31T22:00:29Z,2026-08-31T23:05:29Z,q0012,"A support queue holds 21 billing tickets, 12 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",76.7%,27.9%,95.5%,48.8%
+18,5,2026-08-31T22:00:29Z,2026-08-31T23:05:29Z,q0087,"A product line generates $8,000.00 in revenue against $3,824.15 in cost of goods sold. What is the gross margin?",47.8%,109.2%,52.2%,35.3%
