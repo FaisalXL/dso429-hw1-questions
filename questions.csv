@@ -44,8 +44,8 @@ round_id,released_at,deadline_at,question_id,question_text,option_a,option_b,opt
 9,2026-08-31T13:27:19Z,2026-08-31T14:27:19Z,q0090,"Fixed costs are $20,000.00. Each unit sells for $160.00 with a variable cost of $97.00. How many units must be sold to break even?",78 units,206 units,317 units,125 units
 9,2026-08-31T13:27:19Z,2026-08-31T14:27:19Z,q0183,"A product line generates $7,250.00 in revenue against $5,302.69 in cost of goods sold. What is the gross margin?",73.1%,26.9%,36.7%,15.5%
 9,2026-08-31T13:27:19Z,2026-08-31T14:27:19Z,q0192,A retailer sells 701 units at $32.00 each. What is total revenue?,"$22,752.00","$22,432.00","$23,133.00","$22,112.00"
-10,2026-08-31T13:47:16Z,2026-08-31T14:47:16Z,q0048,"A support queue holds 23 billing tickets, 14 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",33.3%,88.1%,121.1%,54.8%
-10,2026-08-31T13:47:16Z,2026-08-31T14:47:16Z,q0074,Quarterly revenue moved from $900.00 to $681.00. What is the percentage change?,-24.3%,-32.2%,24.3%,75.7%
-10,2026-08-31T13:47:16Z,2026-08-31T14:47:16Z,q0101,"An investment of $23,000.00 grows at 2% compounded annually. What is its value after 7 years?","$3,220.00","$25,901.74","$26,419.77","$26,220.00"
-10,2026-08-31T13:47:16Z,2026-08-31T14:47:16Z,q0103,"An invoice for $4,096.31 is settled at an exchange rate of 1.3961. What is the converted amount?","5,718.86","2,934.11","5,309.23","6,128.49"
-10,2026-08-31T13:47:16Z,2026-08-31T14:47:16Z,q0136,An item listed at $717.07 is discounted by 35%. What is the sale price?,$250.97,$682.07,$466.10,$968.04
+10,2026-08-31T13:47:28Z,2026-08-31T14:47:28Z,q0048,"A support queue holds 23 billing tickets, 14 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",33.3%,88.1%,121.1%,54.8%
+10,2026-08-31T13:47:28Z,2026-08-31T14:47:28Z,q0074,Quarterly revenue moved from $900.00 to $681.00. What is the percentage change?,-24.3%,-32.2%,24.3%,75.7%
+10,2026-08-31T13:47:28Z,2026-08-31T14:47:28Z,q0101,"An investment of $23,000.00 grows at 2% compounded annually. What is its value after 7 years?","$3,220.00","$25,901.74","$26,419.77","$26,220.00"
+10,2026-08-31T13:47:28Z,2026-08-31T14:47:28Z,q0103,"An invoice for $4,096.31 is settled at an exchange rate of 1.3961. What is the converted amount?","5,718.86","2,934.11","5,309.23","6,128.49"
+10,2026-08-31T13:47:28Z,2026-08-31T14:47:28Z,q0136,An item listed at $717.07 is discounted by 35%. What is the sale price?,$250.97,$682.07,$466.10,$968.04
