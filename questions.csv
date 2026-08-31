@@ -79,3 +79,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 16,3,2026-08-31T19:51:34Z,2026-08-31T20:56:34Z,q0080,Region A had 66 orders averaging $34.00; region B had 41 orders averaging $71.00. What is the overall average order value?,78.11,48.18,52.50,56.82
 16,4,2026-08-31T19:51:34Z,2026-08-31T20:56:34Z,q0024,"A support queue holds 24 billing tickets, 16 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",43.6%,29.1%,72.7%,77.4%
 16,5,2026-08-31T19:51:34Z,2026-08-31T20:56:34Z,q0114,"Fixed costs are $7,000.00. Each unit sells for $196.00 with a variable cost of $22.00. How many units must be sold to break even?",40 units,36 units,318 units,32 units
+17,1,2026-08-31T21:00:29Z,2026-08-31T22:05:29Z,q0170,"Quarterly revenue moved from $2,300.00 to $3,504.00. What is the percentage change?",-52.3%,52.3%,34.4%,152.3%
+17,2,2026-08-31T21:00:29Z,2026-08-31T22:05:29Z,q0189,"A monthly headcount series runs 28, 40, 52, 64, 76. If the pattern continues, what is the next value?",76,100,112,88
+17,3,2026-08-31T21:00:29Z,2026-08-31T22:05:29Z,q0042,"Fixed costs are $73,000.00. Each unit sells for $37.00 with a variable cost of $20.00. How many units must be sold to break even?","1,973 units","3,650 units","4,294 units","1,281 units"
+17,4,2026-08-31T21:00:29Z,2026-08-31T22:05:29Z,q0021,"A monthly headcount series runs 15, 20, 25, 30, 35. If the pattern continues, what is the next value?",50,35,40,45
+17,5,2026-08-31T21:00:29Z,2026-08-31T22:05:29Z,q0157,A retailer sells 398 units at $74.77 each. What is total revenue?,"$30,156.46","$29,010.76","$30,506.16","$29,758.46"
