@@ -69,3 +69,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 14,3,2026-08-31T18:00:28Z,2026-08-31T19:05:28Z,q0068,Region A had 71 orders averaging $83.00; region B had 32 orders averaging $52.00. What is the overall average order value?,61.63,67.50,106.44,73.37
 14,4,2026-08-31T18:00:28Z,2026-08-31T19:05:28Z,q0039,"A product line generates $69,000.00 in revenue against $31,723.00 in cost of goods sold. What is the gross margin?",37.0%,54.0%,117.5%,46.0%
 14,5,2026-08-31T18:00:28Z,2026-08-31T19:05:28Z,q0180,"A support queue holds 15 billing tickets, 10 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",107.1%,34.5%,51.7%,86.2%
+15,1,2026-08-31T19:00:33Z,2026-08-31T20:05:33Z,q0059,"A $7,530.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$4,302.86","$5,647.50","$3,227.14","$1,075.71"
+15,2,2026-08-31T19:00:33Z,2026-08-31T20:05:33Z,q0056,Region A had 159 orders averaging $31.00; region B had 100 orders averaging $20.00. What is the overall average order value?,25.50,24.25,26.75,43.58
+15,3,2026-08-31T19:00:33Z,2026-08-31T20:05:33Z,q0169,A retailer sells 372 units at $41.25 each. What is total revenue?,"$14,932.50","$15,717.00","$15,757.50","$15,345.00"
+15,4,2026-08-31T19:00:33Z,2026-08-31T20:05:33Z,q0105,"A monthly headcount series runs 36, 39, 42, 45, 48. If the pattern continues, what is the next value?",54,51,48,57
+15,5,2026-08-31T19:00:33Z,2026-08-31T20:05:33Z,q0166,A contract signed on 8 March 2026 has a 78-day settlement period. On what date does it settle?,25 May 2026,26 May 2026,18 May 2026,24 June 2026
