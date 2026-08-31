@@ -74,3 +74,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 15,3,2026-08-31T19:00:33Z,2026-08-31T20:05:33Z,q0169,A retailer sells 372 units at $41.25 each. What is total revenue?,"$14,932.50","$15,717.00","$15,757.50","$15,345.00"
 15,4,2026-08-31T19:00:33Z,2026-08-31T20:05:33Z,q0105,"A monthly headcount series runs 36, 39, 42, 45, 48. If the pattern continues, what is the next value?",54,51,48,57
 15,5,2026-08-31T19:00:33Z,2026-08-31T20:05:33Z,q0166,A contract signed on 8 March 2026 has a 78-day settlement period. On what date does it settle?,25 May 2026,26 May 2026,18 May 2026,24 June 2026
+16,1,2026-08-31T19:51:34Z,2026-08-31T20:56:34Z,q0199,Region A had 51 orders averaging $35.00; region B had 119 orders averaging $85.00. What is the overall average order value?,70.00,50.00,100.00,60.00
+16,2,2026-08-31T19:51:34Z,2026-08-31T20:56:34Z,q0133,A retailer sells 973 units at $47.06 each. What is total revenue?,"$46,259.98","$45,318.78","$46,762.38","$45,789.38"
+16,3,2026-08-31T19:51:34Z,2026-08-31T20:56:34Z,q0080,Region A had 66 orders averaging $34.00; region B had 41 orders averaging $71.00. What is the overall average order value?,78.11,48.18,52.50,56.82
+16,4,2026-08-31T19:51:34Z,2026-08-31T20:56:34Z,q0024,"A support queue holds 24 billing tickets, 16 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",43.6%,29.1%,72.7%,77.4%
+16,5,2026-08-31T19:51:34Z,2026-08-31T20:56:34Z,q0114,"Fixed costs are $7,000.00. Each unit sells for $196.00 with a variable cost of $22.00. How many units must be sold to break even?",40 units,36 units,318 units,32 units
