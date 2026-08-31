@@ -49,3 +49,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 10,3,2026-08-31T13:47:16Z,2026-08-31T14:47:16Z,q0048,"A support queue holds 23 billing tickets, 14 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",33.3%,88.1%,121.1%,54.8%
 10,4,2026-08-31T13:47:16Z,2026-08-31T14:47:16Z,q0136,An item listed at $717.07 is discounted by 35%. What is the sale price?,$250.97,$682.07,$466.10,$968.04
 10,5,2026-08-31T13:47:16Z,2026-08-31T14:47:16Z,q0074,Quarterly revenue moved from $900.00 to $681.00. What is the percentage change?,-24.3%,-32.2%,24.3%,75.7%
+11,1,2026-08-31T14:50:34Z,2026-08-31T15:55:34Z,q0020,Region A had 113 orders averaging $36.00; region B had 164 orders averaging $80.00. What is the overall average order value?,58.00,62.05,53.95,104.80
+11,2,2026-08-31T14:50:34Z,2026-08-31T15:55:34Z,q0096,"A support queue holds 13 billing tickets, 17 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",44.7%,34.2%,52.0%,78.9%
+11,3,2026-08-31T14:50:34Z,2026-08-31T15:55:34Z,q0174,"Fixed costs are $24,500.00. Each unit sells for $143.00 with a variable cost of $69.00. How many units must be sold to break even?",331 units,171 units,116 units,355 units
+11,4,2026-08-31T14:50:34Z,2026-08-31T15:55:34Z,q0045,"A monthly headcount series runs 9, 18, 27, 36, 45. If the pattern continues, what is the next value?",72,63,45,54
+11,5,2026-08-31T14:50:34Z,2026-08-31T15:55:34Z,q0128,Region A had 124 orders averaging $31.00; region B had 169 orders averaging $58.00. What is the overall average order value?,42.43,44.50,46.57,80.75
