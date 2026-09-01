@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-09-01T21:15:58.597902Z",
+  "generated_at": "2026-09-01T21:17:32.776036Z",
   "dataset": "live",
   "period": "train",
   "train_rounds": 12,
   "latest_round": 3,
   "rounds_closed": 2,
+  "unregistered_submissions": 8,
   "students": [
     {
       "student_id": "faisal",
