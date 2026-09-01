@@ -4,3 +4,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 1,3,2026-09-01T19:08:37Z,2026-09-01T20:13:37Z,q0430,A retailer sells 326 units at $52.57 each. What is total revenue?,"$16,612.12","$17,663.52","$17,463.82","$17,137.82"
 1,4,2026-09-01T19:08:37Z,2026-09-01T20:13:37Z,q0154,A contract signed on 14 February 2026 has a 110-day settlement period. On what date does it settle?,4 June 2026,5 June 2026,4 July 2026,28 May 2026
 1,5,2026-09-01T19:08:37Z,2026-09-01T20:13:37Z,q1569,Region A had 194 orders averaging $65.00; region B had 37 orders averaging $53.00. What is the overall average order value?,54.92,75.11,59.00,63.08
+2,1,2026-09-01T20:01:00Z,2026-09-01T21:06:00Z,q0151,"An invoice for $7,878.09 is settled at an exchange rate of 1.4987. What is the converted amount?","11,019.08","5,256.62","11,806.89","12,594.70"
+2,2,2026-09-01T20:01:00Z,2026-09-01T21:06:00Z,q0178,A contract signed on 27 January 2026 has a 153-day settlement period. On what date does it settle?,22 June 2026,29 June 2026,30 June 2026,29 July 2026
+2,3,2026-09-01T20:01:00Z,2026-09-01T21:06:00Z,q1108,An item listed at $188.85 is discounted by 35%. What is the sale price?,$254.95,$122.75,$153.85,$66.10
+2,4,2026-09-01T20:01:00Z,2026-09-01T21:06:00Z,q0568,"A monthly headcount series runs 27, 37, 47, 57, 67. If the pattern continues, what is the next value?",97,77,87,67
+2,5,2026-09-01T20:01:00Z,2026-09-01T21:06:00Z,q1103,"A $6,900.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$4,600.00","$4,140.00","$2,760.00","$1,380.00"

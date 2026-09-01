@@ -26,6 +26,20 @@
         "q0430",
         "q1569"
       ]
+    },
+    {
+      "round_id": 2,
+      "period": "train",
+      "released_at": "2026-09-01T20:01:00Z",
+      "deadline_at": "2026-09-01T21:06:00Z",
+      "closed": false,
+      "voided": false,
+      "status": "open",
+      "submitted_at": null,
+      "reason": "no submission",
+      "n_correct": 0,
+      "n_questions": 5,
+      "wrong": []
     }
   ]
 }
