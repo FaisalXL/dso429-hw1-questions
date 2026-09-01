@@ -144,3 +144,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 29,3,2026-09-01T08:46:14Z,2026-09-01T09:51:14Z,q0168,"A support queue holds 20 billing tickets, 24 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",57.1%,36.4%,80.0%,43.6%
 29,4,2026-09-01T08:46:14Z,2026-09-01T09:51:14Z,q0089,"An investment of $42,000.00 grows at 2% compounded annually. What is its value after 3 years?","$43,696.80","$44,520.00","$2,520.00","$44,570.74"
 29,5,2026-09-01T08:46:14Z,2026-09-01T09:51:14Z,q0081,"A monthly headcount series runs 32, 41, 50, 59, 68. If the pattern continues, what is the next value?",86,77,95,68
+30,1,2026-09-01T09:47:54Z,2026-09-01T10:52:54Z,q0078,"Fixed costs are $30,000.00. Each unit sells for $155.00 with a variable cost of $114.00. How many units must be sold to break even?",263 units,194 units,112 units,732 units
+30,2,2026-09-01T09:47:54Z,2026-09-01T10:52:54Z,q0200,"A monthly headcount series runs 13, 26, 39, 52, 65. If the pattern continues, what is the next value?",78,91,65,104
+30,3,2026-09-01T09:47:54Z,2026-09-01T10:52:54Z,q0146,"Quarterly revenue moved from $2,300.00 to $2,748.00. What is the percentage change?",-19.5%,19.5%,119.5%,16.3%
+30,4,2026-09-01T09:47:54Z,2026-09-01T10:52:54Z,q0076,An item listed at $598.01 is discounted by 40%. What is the sale price?,$837.21,$239.20,$358.81,$558.01
+30,5,2026-09-01T09:47:54Z,2026-09-01T10:52:54Z,q0171,"A product line generates $40,250.00 in revenue against $31,505.21 in cost of goods sold. What is the gross margin?",21.7%,12.2%,27.8%,78.3%
