@@ -179,3 +179,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 36,3,2026-09-01T15:46:10Z,2026-09-01T16:51:10Z,q0177,"A monthly headcount series runs 6, 9, 12, 15, 18. If the pattern continues, what is the next value?",27,18,21,24
 36,4,2026-09-01T15:46:10Z,2026-09-01T16:51:10Z,q0097,A retailer sells 551 units at $65.93 each. What is total revenue?,"$36,986.73","$35,668.13","$36,878.43","$36,327.43"
 36,5,2026-09-01T15:46:10Z,2026-09-01T16:51:10Z,q0175,"An invoice for $2,381.51 is settled at an exchange rate of 1.7987. What is the converted amount?","4,283.62","4,045.47","1,324.02","4,521.77"
+37,1,2026-09-01T17:00:50Z,2026-09-01T18:05:50Z,q0182,Quarterly revenue moved from $250.00 to $168.00. What is the percentage change?,32.8%,67.2%,-48.8%,-32.8%
+37,2,2026-09-01T17:00:50Z,2026-09-01T18:05:50Z,q0032,Region A had 52 orders averaging $58.00; region B had 153 orders averaging $57.00. What is the overall average order value?,57.50,57.25,76.71,57.75
+37,3,2026-09-01T17:00:50Z,2026-09-01T18:05:50Z,q0186,"Fixed costs are $14,000.00. Each unit sells for $117.00 with a variable cost of $72.00. How many units must be sold to break even?",74 units,311 units,194 units,120 units
+37,4,2026-09-01T17:00:50Z,2026-09-01T18:05:50Z,q0107,"A $1,290.00 marketing budget is split between two channels in the ratio 3:6. What does the first channel receive?",$860.00,$143.33,$645.00,$430.00
+37,5,2026-09-01T17:00:50Z,2026-09-01T18:05:50Z,q0143,"A $1,050.00 marketing budget is split between two channels in the ratio 4:6. What does the first channel receive?",$105.00,$700.00,$630.00,$420.00
