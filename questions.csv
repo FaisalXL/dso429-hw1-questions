@@ -174,3 +174,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 35,3,2026-09-01T15:00:58Z,2026-09-01T16:05:58Z,q0008,Region A had 103 orders averaging $74.00; region B had 137 orders averaging $62.00. What is the overall average order value?,67.15,68.85,68.00,117.64
 35,4,2026-09-01T15:00:58Z,2026-09-01T16:05:58Z,q0041,"An investment of $32,000.00 grows at 12% compounded annually. What is its value after 4 years?","$15,360.00","$50,352.62","$47,360.00","$44,957.70"
 35,5,2026-09-01T15:00:58Z,2026-09-01T16:05:58Z,q0057,"A monthly headcount series runs 27, 42, 57, 72, 87. If the pattern continues, what is the next value?",87,102,132,117
+36,1,2026-09-01T15:46:10Z,2026-09-01T16:51:10Z,q0037,A retailer sells 150 units at $22.03 each. What is total revenue?,"$3,454.50","$3,524.80","$3,304.50","$3,084.20"
+36,2,2026-09-01T15:46:10Z,2026-09-01T16:51:10Z,q0195,An item listed at $608.62 is discounted by 10%. What is the sale price?,$547.76,$669.48,$598.62,$60.86
+36,3,2026-09-01T15:46:10Z,2026-09-01T16:51:10Z,q0177,"A monthly headcount series runs 6, 9, 12, 15, 18. If the pattern continues, what is the next value?",27,18,21,24
+36,4,2026-09-01T15:46:10Z,2026-09-01T16:51:10Z,q0097,A retailer sells 551 units at $65.93 each. What is total revenue?,"$36,986.73","$35,668.13","$36,878.43","$36,327.43"
+36,5,2026-09-01T15:46:10Z,2026-09-01T16:51:10Z,q0175,"An invoice for $2,381.51 is settled at an exchange rate of 1.7987. What is the converted amount?","4,283.62","4,045.47","1,324.02","4,521.77"
