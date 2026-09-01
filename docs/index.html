@@ -206,7 +206,7 @@
   .r.late { border-left-color: var(--late); }
   .r.missed { border-left-color: var(--missed); }
   .r b { display: block; font-weight: 600; }
-  .r em { font-style: normal; color: var(--ink-faint); }
+  .r em { display: block; font-style: normal; color: var(--ink-faint); }
 
   footer {
     margin-top: 2.5rem; padding-top: 1.2rem;
@@ -246,7 +246,7 @@
           <th>Student</th>
           <th style="min-width:9rem">Timeline</th>
           <th class="num">Streak</th>
-          <th class="num">Rounds</th>
+          <th class="num" id="roundsHead">Rounds</th>
           <th class="num">Uptime</th>
           <th class="num" id="accHead">Accuracy</th>
         </tr>
@@ -286,12 +286,18 @@ function renderMeta(d) {
   b.hidden = false;
   b.innerHTML = train
     ? `<b>Practice period — rounds 1–${d.train_rounds}.</b> Scores are shown so you can
-       tune your pipeline, and none of it counts toward your grade.`
+       tune your pipeline, and none of it counts toward your grade. Uptime shows
+       "—" until the graded rounds begin, and a round only counts once its
+       deadline has passed.`
     : `<b>Graded period — round ${d.train_rounds + 1} onward.</b> Scores are hidden from
        here on. You can still see whether each submission arrived, which is what tells
        you your pipeline is alive.`;
   if (!train) b.style.borderLeftColor = "var(--hit)";
   document.getElementById("accHead").textContent = train ? "Accuracy" : "";
+  // During practice the "Rounds" column counts practice rounds, because there
+  // are no graded ones yet -- and a column of zeroes reads as failure.
+  document.getElementById("roundsHead").textContent =
+    train ? "Practice rounds" : "Rounds";
 }
 
 function strip(rounds) {
@@ -311,7 +317,8 @@ function detailPanel(d) {
       ? new Date(r.submitted_at).toLocaleTimeString() : (r.reason || "—");
     return `<div class="r ${r.status}">
               <b>Round ${r.round_id}${r.period === "train" ? " · practice" : ""}</b>
-              <em>${r.status} · ${sub}</em>${score ? `<em>${score} correct</em>` : ""}
+              <em>${r.status} · ${sub}</em>
+              ${score ? `<em>${score} correct</em>` : ""}
             </div>`;
   }).join("");
   return `<div class="panel">
@@ -360,8 +367,9 @@ async function render() {
       <td class="who"><b>${s.name}</b><span>${s.email_masked}</span></td>
       <td><div class="strip">${details[i] ? strip(details[i].rounds) : ""}</div></td>
       <td class="num streak ${s.streak === 0 ? "zero" : ""}">${s.streak}</td>
-      <td class="num">${s.hits}/${s.eligible}</td>
-      <td class="num">${pct(s.uptime_pct)}</td>
+      <td class="num">${s.eligible > 0 ? `${s.hits}/${s.eligible}`
+                        : `${s.train_hits}/${s.train_rounds}`}</td>
+      <td class="num">${s.eligible > 0 ? pct(s.uptime_pct) : "—"}</td>
       <td class="num">${pct(s.accuracy_pct)}</td>
     </tr>`).join("");
 
