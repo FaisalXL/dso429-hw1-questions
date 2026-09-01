@@ -14,3 +14,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 3,3,2026-09-01T21:00:54Z,2026-09-01T22:05:54Z,q0311,"A support queue holds 13 billing tickets, 3 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",12.5%,118.2%,66.7%,54.2%
 3,4,2026-09-01T21:00:54Z,2026-09-01T22:05:54Z,q0911,"Fixed costs are $9,000.00. Each unit sells for $189.00 with a variable cost of $83.00. How many units must be sold to break even?",85 units,33 units,48 units,108 units
 3,5,2026-09-01T21:00:54Z,2026-09-01T22:05:54Z,q1416,"A monthly headcount series runs 27, 44, 61, 78, 95. If the pattern continues, what is the next value?",129,146,112,95
+4,1,2026-09-01T22:00:39Z,2026-09-01T23:05:39Z,q1239,"Fixed costs are $43,000.00. Each unit sells for $91.00 with a variable cost of $46.00. How many units must be sold to break even?",935 units,473 units,314 units,956 units
+4,2,2026-09-01T22:00:39Z,2026-09-01T23:05:39Z,q0699,"A monthly headcount series runs 37, 41, 45, 49, 53. If the pattern continues, what is the next value?",65,57,61,53
+4,3,2026-09-01T22:00:39Z,2026-09-01T23:05:39Z,q0566,An invoice for $683.86 is settled at an exchange rate of 0.8952. What is the converted amount?,612.19,543.81,680.58,763.92
+4,4,2026-09-01T22:00:39Z,2026-09-01T23:05:39Z,q0659,An item listed at $501.63 is discounted by 40%. What is the sale price?,$200.65,$300.98,$461.63,$702.28
+4,5,2026-09-01T22:00:39Z,2026-09-01T23:05:39Z,q0946,"An investment of $13,000.00 grows at 9% compounded annually. What is its value after 2 years?","$2,340.00","$14,170.00","$15,445.30","$15,340.00"
