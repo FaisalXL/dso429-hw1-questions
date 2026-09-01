@@ -119,3 +119,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 24,3,2026-09-01T04:00:29Z,2026-09-01T05:05:29Z,q0001,A retailer sells 538 units at $28.10 each. What is total revenue?,"$15,117.80","$15,398.80","$14,836.80","$15,655.80"
 24,4,2026-09-01T04:00:29Z,2026-09-01T05:05:29Z,q0023,"A $5,730.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$2,292.00","$1,146.00","$3,438.00","$8,595.00"
 24,5,2026-09-01T04:00:29Z,2026-09-01T05:05:29Z,q0067,"An invoice for $7,293.06 is settled at an exchange rate of 0.6893. What is the converted amount?","5,756.41","5,027.11","4,297.80","10,580.39"
+25,1,2026-09-01T05:00:31Z,2026-09-01T06:05:31Z,q0108,"A support queue holds 17 billing tickets, 9 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",121.4%,83.9%,29.0%,54.8%
+25,2,2026-09-01T05:00:31Z,2026-09-01T06:05:31Z,q0084,"A support queue holds 21 billing tickets, 13 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",42.9%,75.0%,69.4%,26.5%
+25,3,2026-09-01T05:00:31Z,2026-09-01T06:05:31Z,q0161,"An investment of $26,000.00 grows at 6% compounded annually. What is its value after 4 years?","$6,240.00","$32,240.00","$32,824.40","$30,966.42"
+25,4,2026-09-01T05:00:31Z,2026-09-01T06:05:31Z,q0145,A retailer sells 193 units at $6.19 each. What is total revenue?,"$1,194.67","$1,256.57","$1,132.77","$1,387.67"
+25,5,2026-09-01T05:00:31Z,2026-09-01T06:05:31Z,q0120,"A support queue holds 7 billing tickets, 13 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",44.8%,69.0%,24.1%,31.8%
