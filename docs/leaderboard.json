@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-01T22:30:46.405571Z",
+  "generated_at": "2026-09-01T23:00:51.322741Z",
   "dataset": "live",
   "period": "train",
   "train_rounds": 12,
-  "latest_round": 4,
+  "latest_round": 5,
   "rounds_closed": 3,
   "unregistered_submissions": 3,
   "students": [
@@ -17,7 +17,7 @@
       "uptime_pct": 0.0,
       "train_hits": 2,
       "train_rounds": 3,
-      "accuracy_pct": 20.0
+      "accuracy_pct": 53.3
     }
   ]
 }
