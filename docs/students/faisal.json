@@ -19,6 +19,13 @@
       "status": "hit",
       "submitted_at": "2026-09-01T19:22:00.192Z",
       "reason": null,
+      "attempts": [
+        {
+          "at": "2026-09-01T19:22:00.192Z",
+          "on_time": true,
+          "counted": true
+        }
+      ],
       "n_correct": 2,
       "n_questions": 5,
       "wrong": [
@@ -37,6 +44,13 @@
       "status": "hit",
       "submitted_at": "2026-09-01T20:45:43.978Z",
       "reason": null,
+      "attempts": [
+        {
+          "at": "2026-09-01T20:45:43.978Z",
+          "on_time": true,
+          "counted": true
+        }
+      ],
       "n_correct": 1,
       "n_questions": 5,
       "wrong": [
@@ -56,6 +70,7 @@
       "status": "open",
       "submitted_at": null,
       "reason": "no submission",
+      "attempts": [],
       "n_correct": 0,
       "n_questions": 5,
       "wrong": []
