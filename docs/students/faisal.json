@@ -17,11 +17,15 @@
       "closed": false,
       "voided": false,
       "status": "open",
-      "submitted_at": null,
-      "reason": "no submission",
-      "n_correct": 0,
+      "submitted_at": "2026-09-01T19:22:00.192Z",
+      "reason": null,
+      "n_correct": 2,
       "n_questions": 5,
-      "wrong": []
+      "wrong": [
+        "q0376",
+        "q0430",
+        "q1569"
+      ]
     }
   ]
 }
