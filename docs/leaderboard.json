@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T23:51:10.198241Z",
+  "generated_at": "2026-09-01T23:56:58.015121Z",
   "dataset": "live",
   "period": "train",
   "train_rounds": 12,
@@ -18,6 +18,18 @@
       "train_hits": 3,
       "train_rounds": 4,
       "accuracy_pct": 65.0
+    },
+    {
+      "student_id": "lucky",
+      "name": "Lucky Luciano",
+      "email_masked": "ca****@gmail.com",
+      "streak": 0,
+      "hits": 0,
+      "eligible": 0,
+      "uptime_pct": 0.0,
+      "train_hits": 0,
+      "train_rounds": 4,
+      "accuracy_pct": 0.0
     }
   ]
 }
