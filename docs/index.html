@@ -224,6 +224,7 @@
     <p class="eyebrow">DSO 429 · Homework 1</p>
     <h1>Pipeline Status</h1>
     <div class="meta" id="meta"><span>loading…</span></div>
+    <div class="banner sim" id="stale" hidden></div>
     <div class="banner sim" id="sim" hidden><b>Simulated data.</b>
       These seven students are scripts with deliberately different failure modes,
       run against the real pipeline on a compressed clock. Nobody real is on this board.</div>
@@ -281,6 +282,20 @@ function renderMeta(d) {
 
   const sim = document.getElementById("sim");
   sim.hidden = d.dataset !== "simulation";
+
+  // The tick's scoring step is continue-on-error, so publishing never stops
+  // for a scoring hiccup -- which means the board can freeze while everything
+  // else looks healthy. Say so loudly rather than showing plausible-looking
+  // numbers that are hours old.
+  const ageMin = (Date.now() - Date.parse(d.generated_at)) / 60000;
+  const stale = document.getElementById("stale");
+  stale.hidden = ageMin < 45;
+  if (!stale.hidden) {
+    stale.innerHTML = `<b>This board is ${Math.round(ageMin)} minutes out of date.</b>
+      Scoring has not run since ${new Date(d.generated_at).toLocaleString()}.
+      Questions are still being published \u2014 that runs separately \u2014 but
+      the numbers below are stale.`;
+  }
 
   const b = document.getElementById("banner");
   b.hidden = false;
