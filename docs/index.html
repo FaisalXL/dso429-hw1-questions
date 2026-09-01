@@ -330,10 +330,21 @@ function detailPanel(d) {
       ? `${r.n_correct}/${r.n_questions}` : "";
     const sub = r.submitted_at
       ? new Date(r.submitted_at).toLocaleTimeString() : (r.reason || "—");
+    // Show every attempt, not just the one that counted. Nothing is ever
+    // deleted; without this the others are invisible and a dispute means
+    // digging through the raw backup by hand.
+    const tries = (r.attempts || []);
+    const extra = tries.length > 1
+      ? `<em>${tries.length} submissions · ` +
+        tries.map(a => (a.counted ? "\u25CF" : "\u25CB") +
+                        new Date(a.at).toLocaleTimeString() +
+                        (a.on_time ? "" : " late")).join(", ") + `</em>`
+      : "";
     return `<div class="r ${r.status}">
               <b>Round ${r.round_id}${r.period === "train" ? " · practice" : ""}</b>
               <em>${r.status} · ${sub}</em>
               ${score ? `<em>${score} correct</em>` : ""}
+              ${extra}
             </div>`;
   }).join("");
   return `<div class="panel">
