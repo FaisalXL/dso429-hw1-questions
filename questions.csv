@@ -139,3 +139,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 28,3,2026-09-01T07:46:14Z,2026-09-01T08:51:14Z,q0079,"An invoice for $4,475.88 is settled at an exchange rate of 1.5739. What is the converted amount?","7,492.18","6,597.00","2,843.81","7,044.59"
 28,4,2026-09-01T07:46:14Z,2026-09-01T08:51:14Z,q0106,A contract signed on 8 April 2026 has a 259-day settlement period. On what date does it settle?,16 December 2026,22 January 2027,23 December 2026,24 December 2026
 28,5,2026-09-01T07:46:14Z,2026-09-01T08:51:14Z,q0109,A retailer sells 957 units at $47.01 each. What is total revenue?,"$45,945.57","$44,518.47","$45,458.67","$44,988.57"
+29,1,2026-09-01T08:46:14Z,2026-09-01T09:51:14Z,q0004,An item listed at $534.35 is discounted by 40%. What is the sale price?,$213.74,$494.35,$320.61,$748.09
+29,2,2026-09-01T08:46:14Z,2026-09-01T09:51:14Z,q0163,An invoice for $421.41 is settled at an exchange rate of 0.7714. What is the converted amount?,367.22,325.08,282.93,546.29
+29,3,2026-09-01T08:46:14Z,2026-09-01T09:51:14Z,q0168,"A support queue holds 20 billing tickets, 24 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",57.1%,36.4%,80.0%,43.6%
+29,4,2026-09-01T08:46:14Z,2026-09-01T09:51:14Z,q0089,"An investment of $42,000.00 grows at 2% compounded annually. What is its value after 3 years?","$43,696.80","$44,520.00","$2,520.00","$44,570.74"
+29,5,2026-09-01T08:46:14Z,2026-09-01T09:51:14Z,q0081,"A monthly headcount series runs 32, 41, 50, 59, 68. If the pattern continues, what is the next value?",86,77,95,68
