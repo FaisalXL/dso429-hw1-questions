@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-09-01T18:21:33.180582Z",
+  "dataset": "simulation",
+  "period": "test",
+  "train_rounds": 12,
+  "latest_round": 40,
+  "rounds_closed": 40,
+  "students": [
+    {
+      "student_id": "s01",
+      "name": "Automated + accurate",
+      "email_masked": "s****@test.local",
+      "streak": 40,
+      "hits": 28,
+      "eligible": 28,
+      "uptime_pct": 100.0,
+      "accuracy_pct": null
+    },
+    {
+      "student_id": "s06",
+      "name": "Longest-option heuristic",
+      "email_masked": "s****@test.local",
+      "streak": 28,
+      "hits": 28,
+      "eligible": 28,
+      "uptime_pct": 100.0,
+      "accuracy_pct": null
+    },
+    {
+      "student_id": "s03",
+      "name": "Laptop sleeps overnight",
+      "email_masked": "s****@test.local",
+      "streak": 10,
+      "hits": 20,
+      "eligible": 28,
+      "uptime_pct": 78.6,
+      "accuracy_pct": null
+    },
+    {
+      "student_id": "s02",
+      "name": "Automated, zero AI (all B)",
+      "email_masked": "s****@test.local",
+      "streak": 2,
+      "hits": 25,
+      "eligible": 28,
+      "uptime_pct": 96.4,
+      "accuracy_pct": null
+    },
+    {
+      "student_id": "s05",
+      "name": "Manual, waking hours only",
+      "email_masked": "s****@test.local",
+      "streak": 1,
+      "hits": 11,
+      "eligible": 28,
+      "uptime_pct": 46.4,
+      "accuracy_pct": null
+    },
+    {
+      "student_id": "s04",
+      "name": "Flaky pipeline (80% up)",
+      "email_masked": "s****@test.local",
+      "streak": 0,
+      "hits": 20,
+      "eligible": 28,
+      "uptime_pct": 78.6,
+      "accuracy_pct": null
+    },
+    {
+      "student_id": "s07",
+      "name": "Never got it working",
+      "email_masked": "s****@test.local",
+      "streak": 0,
+      "hits": 2,
+      "eligible": 28,
+      "uptime_pct": 14.3,
+      "accuracy_pct": null
+    }
+  ]
+}

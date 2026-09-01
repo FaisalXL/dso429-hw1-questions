@@ -1,0 +1,383 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DSO 429 — Homework 1 Status</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+  :root {
+    --paper:     #FAFAF8;
+    --raised:    #FFFFFF;
+    --ink:       #17191A;
+    --ink-soft:  #565C5A;
+    --ink-faint: #8A918E;
+    --rule:      #E2E4E0;
+    --rule-soft: #EFF0ED;
+
+    --hit:    #2E7D5B;
+    --late:   #B07D18;
+    --missed: #B3453A;
+    --open:   #C9CDCB;
+
+    --mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+    --sans: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper:     #101211;
+      --raised:    #181B1A;
+      --ink:       #E8EAE7;
+      --ink-soft:  #A0A8A4;
+      --ink-faint: #6E7672;
+      --rule:      #262A28;
+      --rule-soft: #1D2120;
+
+      --hit:    #4FA97D;
+      --late:   #D2A040;
+      --missed: #D4685A;
+      --open:   #333937;
+    }
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 15px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap { max-width: 68rem; margin: 0 auto; padding: 2.5rem 1.25rem 5rem; }
+
+  /* ---- header ---- */
+
+  header { border-bottom: 2px solid var(--ink); padding-bottom: 1.25rem; }
+
+  .eyebrow {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin: 0 0 0.6rem;
+  }
+
+  h1 {
+    font-family: var(--mono);
+    font-weight: 600;
+    font-size: clamp(1.6rem, 4vw, 2.1rem);
+    letter-spacing: -0.02em;
+    margin: 0 0 0.9rem;
+  }
+
+  .meta { display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem; align-items: center; }
+
+  .badge {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.28rem 0.6rem;
+    border: 1.5px solid currentColor;
+    border-radius: 2px;
+  }
+  .badge.train { color: var(--late); }
+  .badge.test  { color: var(--hit); }
+
+  .meta span { font-family: var(--mono); font-size: 0.78rem; color: var(--ink-soft); }
+  .meta b { color: var(--ink); font-weight: 600; }
+
+  .banner {
+    margin: 1.25rem 0 0;
+    padding: 0.85rem 1rem;
+    border-left: 2.5px solid var(--late);
+    background: var(--rule-soft);
+    font-size: 0.88rem;
+    color: var(--ink-soft);
+  }
+  .banner b { color: var(--ink); }
+  .banner.sim { border-left-color: var(--missed); }
+
+  /* ---- legend ---- */
+
+  .legend {
+    display: flex; flex-wrap: wrap; gap: 1rem;
+    margin: 1.75rem 0 0.6rem;
+    font-family: var(--mono); font-size: 0.7rem;
+    letter-spacing: 0.05em; color: var(--ink-faint);
+  }
+  .legend i { display: inline-block; width: 0.7rem; height: 0.7rem; margin-right: 0.35rem;
+              border-radius: 1px; vertical-align: -1px; }
+
+  /* ---- table ---- */
+
+  .scroller { overflow-x: auto; }
+
+  table { width: 100%; border-collapse: collapse; min-width: 44rem; }
+
+  th {
+    font-family: var(--mono);
+    font-size: 0.66rem;
+    font-weight: 500;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    text-align: left;
+    padding: 0 0.7rem 0.5rem 0;
+    border-bottom: 1px solid var(--ink);
+    white-space: nowrap;
+  }
+  th.num { text-align: right; }
+
+  td {
+    padding: 0.62rem 0.7rem 0.62rem 0;
+    border-bottom: 1px solid var(--rule-soft);
+    vertical-align: middle;
+  }
+  td.num {
+    text-align: right;
+    font-family: var(--mono);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  tr.row { cursor: pointer; }
+  tr.row:hover td { background: var(--rule-soft); }
+  tr.row:focus-visible { outline: 2px solid var(--hit); outline-offset: -2px; }
+
+  .rank { font-family: var(--mono); color: var(--ink-faint); font-size: 0.8rem; }
+  .who b { font-weight: 600; }
+  .who span {
+    display: block;
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    color: var(--ink-faint);
+  }
+
+  .streak { font-weight: 600; }
+  .streak.zero { color: var(--missed); }
+
+  /* ---- timeline strip ---- */
+
+  .strip { display: flex; gap: 1px; min-width: 9rem; }
+  .strip i {
+    flex: 1 1 auto;
+    height: 1.1rem;
+    min-width: 2px;
+    background: var(--open);
+    border-radius: 1px;
+  }
+  .strip i.hit { background: var(--hit); }
+  .strip i.late { background: var(--late); }
+  .strip i.missed { background: var(--missed); }
+  .strip i.train { opacity: 0.42; }
+
+  /* ---- detail ---- */
+
+  tr.detail td { padding: 0; border-bottom: 1px solid var(--rule); }
+  .panel { background: var(--raised); padding: 1.1rem 1.1rem 1.3rem; }
+  .panel h3 {
+    font-family: var(--mono); font-size: 0.72rem; font-weight: 600;
+    letter-spacing: 0.11em; text-transform: uppercase;
+    color: var(--ink-faint); margin: 0 0 0.8rem;
+  }
+  .rounds {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr));
+    gap: 0.4rem;
+  }
+  .r {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    padding: 0.4rem 0.5rem;
+    border-left: 2.5px solid var(--open);
+    background: var(--rule-soft);
+  }
+  .r.hit { border-left-color: var(--hit); }
+  .r.late { border-left-color: var(--late); }
+  .r.missed { border-left-color: var(--missed); }
+  .r b { display: block; font-weight: 600; }
+  .r em { font-style: normal; color: var(--ink-faint); }
+
+  footer {
+    margin-top: 2.5rem; padding-top: 1.2rem;
+    border-top: 1px solid var(--rule);
+    font-size: 0.8rem; color: var(--ink-faint); max-width: 44rem;
+  }
+
+  .loading { padding: 3rem 0; color: var(--ink-faint); font-family: var(--mono); }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <p class="eyebrow">DSO 429 · Homework 1</p>
+    <h1>Pipeline Status</h1>
+    <div class="meta" id="meta"><span>loading…</span></div>
+    <div class="banner sim" id="sim" hidden><b>Simulated data.</b>
+      These seven students are scripts with deliberately different failure modes,
+      run against the real pipeline on a compressed clock. Nobody real is on this board.</div>
+    <div class="banner" id="banner" hidden></div>
+  </header>
+
+  <div class="legend">
+    <span><i style="background:var(--hit)"></i>on time</span>
+    <span><i style="background:var(--late)"></i>late</span>
+    <span><i style="background:var(--missed)"></i>missed</span>
+    <span><i style="background:var(--open)"></i>open / not yet due</span>
+    <span style="opacity:.5"><i style="background:var(--hit);opacity:.42"></i>practice round</span>
+  </div>
+
+  <div class="scroller">
+    <table>
+      <thead>
+        <tr>
+          <th style="width:2.5rem"></th>
+          <th>Student</th>
+          <th style="min-width:9rem">Timeline</th>
+          <th class="num">Streak</th>
+          <th class="num">Rounds</th>
+          <th class="num">Uptime</th>
+          <th class="num" id="accHead">Accuracy</th>
+        </tr>
+      </thead>
+      <tbody id="body">
+        <tr><td colspan="7" class="loading">fetching leaderboard…</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const pct = v => (v === null || v === undefined) ? "—" : v.toFixed(1) + "%";
+
+async function load() {
+  // Cache-bust the fetch. GitHub Pages caches aggressively, and a status board
+  // showing a ten-minute-old picture is worse than one that says it is stale.
+  const res = await fetch("leaderboard.json?t=" + Date.now(), { cache: "no-store" });
+  if (!res.ok) throw new Error("leaderboard.json " + res.status);
+  return res.json();
+}
+
+function renderMeta(d) {
+  const train = d.period === "train";
+  document.getElementById("meta").innerHTML = `
+    <span class="badge ${d.period}">${train ? "practice" : "graded"}</span>
+    <span>round <b>${d.latest_round}</b></span>
+    <span><b>${d.rounds_closed}</b> closed</span>
+    <span>updated <b>${new Date(d.generated_at).toLocaleTimeString()}</b></span>`;
+
+  const sim = document.getElementById("sim");
+  sim.hidden = d.dataset !== "simulation";
+
+  const b = document.getElementById("banner");
+  b.hidden = false;
+  b.innerHTML = train
+    ? `<b>Practice period — rounds 1–${d.train_rounds}.</b> Scores are shown so you can
+       tune your pipeline, and none of it counts toward your grade.`
+    : `<b>Graded period — round ${d.train_rounds + 1} onward.</b> Scores are hidden from
+       here on. You can still see whether each submission arrived, which is what tells
+       you your pipeline is alive.`;
+  if (!train) b.style.borderLeftColor = "var(--hit)";
+  document.getElementById("accHead").textContent = train ? "Accuracy" : "";
+}
+
+function strip(rounds) {
+  return rounds.map(r => {
+    const cls = [r.status === "open" ? "" : r.status, r.period === "train" ? "train" : ""]
+      .filter(Boolean).join(" ");
+    const when = new Date(r.released_at).toLocaleString();
+    return `<i class="${cls}" title="Round ${r.round_id} · ${r.period} · ${r.status}\n${when}"></i>`;
+  }).join("");
+}
+
+function detailPanel(d) {
+  const cells = d.rounds.map(r => {
+    const score = (r.n_correct !== null && r.n_correct !== undefined)
+      ? `${r.n_correct}/${r.n_questions}` : "";
+    const sub = r.submitted_at
+      ? new Date(r.submitted_at).toLocaleTimeString() : (r.reason || "—");
+    return `<div class="r ${r.status}">
+              <b>Round ${r.round_id}${r.period === "train" ? " · practice" : ""}</b>
+              <em>${r.status} · ${sub}</em>${score ? `<em>${score} correct</em>` : ""}
+            </div>`;
+  }).join("");
+  return `<div class="panel">
+            <h3>${d.name} — every round</h3>
+            <div class="rounds">${cells}</div>
+          </div>`;
+}
+
+async function toggle(tr, id) {
+  const next = tr.nextElementSibling;
+  if (next && next.classList.contains("detail")) { next.remove(); return; }
+  document.querySelectorAll("tr.detail").forEach(e => e.remove());
+
+  const row = document.createElement("tr");
+  row.className = "detail";
+  row.innerHTML = `<td colspan="7"><div class="panel">loading…</div></td>`;
+  tr.after(row);
+
+  try {
+    const r = await fetch(`students/${id}.json?t=` + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error(r.status);
+    row.querySelector("td").innerHTML = detailPanel(await r.json());
+  } catch (e) {
+    row.querySelector("td").innerHTML =
+      `<div class="panel"><h3>No detail available</h3></div>`;
+  }
+}
+
+async function render() {
+  let d;
+  try { d = await load(); }
+  catch (e) {
+    document.getElementById("body").innerHTML =
+      `<tr><td colspan="7" class="loading">could not load leaderboard.json — ${e.message}</td></tr>`;
+    return;
+  }
+  renderMeta(d);
+
+  const details = await Promise.all(d.students.map(s =>
+    fetch(`students/${s.student_id}.json?t=` + Date.now(), { cache: "no-store" })
+      .then(r => r.ok ? r.json() : null).catch(() => null)));
+
+  document.getElementById("body").innerHTML = d.students.map((s, i) => `
+    <tr class="row" tabindex="0" data-id="${s.student_id}">
+      <td class="rank">${i + 1}</td>
+      <td class="who"><b>${s.name}</b><span>${s.email_masked}</span></td>
+      <td><div class="strip">${details[i] ? strip(details[i].rounds) : ""}</div></td>
+      <td class="num streak ${s.streak === 0 ? "zero" : ""}">${s.streak}</td>
+      <td class="num">${s.hits}/${s.eligible}</td>
+      <td class="num">${pct(s.uptime_pct)}</td>
+      <td class="num">${pct(s.accuracy_pct)}</td>
+    </tr>`).join("");
+
+  document.querySelectorAll("tr.row").forEach(tr => {
+    const go = () => toggle(tr, tr.dataset.id);
+    tr.addEventListener("click", go);
+    tr.addEventListener("keydown", e => { if (e.key === "Enter") { e.preventDefault(); go(); } });
+  });
+
+  document.getElementById("foot").textContent =
+    `Click any row for a round-by-round breakdown. Refreshes automatically every 60 seconds. `
+    + `Streak counts consecutive most-recent rounds submitted on time.`;
+}
+
+render();
+setInterval(render, 60000);
+</script>
+</body>
+</html>
