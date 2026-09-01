@@ -129,3 +129,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 26,3,2026-09-01T06:00:28Z,2026-09-01T07:05:28Z,q0035,"A $1,080.00 marketing budget is split between two channels in the ratio 4:5. What does the first channel receive?",$120.00,$864.00,$480.00,$600.00
 26,4,2026-09-01T06:00:28Z,2026-09-01T07:05:28Z,q0193,"Quarterly revenue moved from $2,550.00 to $1,334.00. What is the percentage change?",52.3%,-91.2%,47.7%,-47.7%
 26,5,2026-09-01T06:00:28Z,2026-09-01T07:05:28Z,q0141,"A monthly headcount series runs 29, 44, 59, 74, 89. If the pattern continues, what is the next value?",134,119,89,104
+27,1,2026-09-01T07:00:26Z,2026-09-01T08:05:26Z,q0126,"Fixed costs are $24,000.00. Each unit sells for $138.00 with a variable cost of $74.00. How many units must be sold to break even?",375 units,113 units,174 units,324 units
+27,2,2026-09-01T07:00:26Z,2026-09-01T08:05:26Z,q0005,"An investment of $11,000.00 grows at 15% compounded annually. What is its value after 5 years?","$8,250.00","$22,124.93","$19,250.00","$19,239.07"
+27,3,2026-09-01T07:00:26Z,2026-09-01T08:05:26Z,q0172,An item listed at $91.60 is discounted by 25%. What is the sale price?,$22.90,$68.70,$66.60,$114.50
+27,4,2026-09-01T07:00:26Z,2026-09-01T08:05:26Z,q0129,"A monthly headcount series runs 33, 48, 63, 78, 93. If the pattern continues, what is the next value?",108,93,138,123
+27,5,2026-09-01T07:00:26Z,2026-09-01T08:05:26Z,q0047,"A $8,250.00 marketing budget is split between two channels in the ratio 4:3. What does the first channel receive?","$4,714.29","$1,178.57","$3,535.71","$11,000.00"
