@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T12:30:25.321044Z",
+  "generated_at": "2026-09-02T12:53:48.415292Z",
   "dataset": "live",
   "period": "test",
   "train_rounds": 12,
@@ -495,7 +495,7 @@
       "hits": 0,
       "eligible": 0,
       "uptime_pct": 0.0,
-      "train_hits": 10,
+      "train_hits": 9,
       "train_rounds": 12,
       "accuracy_pct": null
     },

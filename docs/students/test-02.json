@@ -335,9 +335,15 @@
       "closed": false,
       "voided": false,
       "status": "open",
-      "submitted_at": null,
-      "reason": "no submission",
-      "attempts": [],
+      "submitted_at": "2026-09-02T12:51:23.006Z",
+      "reason": null,
+      "attempts": [
+        {
+          "at": "2026-09-02T12:51:23.006Z",
+          "on_time": true,
+          "counted": true
+        }
+      ],
       "n_correct": null,
       "n_questions": 5,
       "wrong": null

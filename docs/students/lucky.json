@@ -226,11 +226,17 @@
       "deadline_at": "2026-09-02T06:05:40Z",
       "closed": true,
       "voided": true,
-      "status": "missed",
-      "submitted_at": null,
-      "reason": "no submission",
-      "attempts": [],
-      "n_correct": 0,
+      "status": "late",
+      "submitted_at": "2026-09-02T12:47:32.107Z",
+      "reason": "late",
+      "attempts": [
+        {
+          "at": "2026-09-02T12:47:32.107Z",
+          "on_time": false,
+          "counted": true
+        }
+      ],
+      "n_correct": 5,
       "n_questions": 5,
       "wrong": []
     },
@@ -241,11 +247,17 @@
       "deadline_at": "2026-09-02T07:05:38Z",
       "closed": true,
       "voided": true,
-      "status": "missed",
-      "submitted_at": null,
-      "reason": "no submission",
-      "attempts": [],
-      "n_correct": 0,
+      "status": "late",
+      "submitted_at": "2026-09-02T12:47:52.102Z",
+      "reason": "late",
+      "attempts": [
+        {
+          "at": "2026-09-02T12:47:52.102Z",
+          "on_time": false,
+          "counted": true
+        }
+      ],
+      "n_correct": 5,
       "n_questions": 5,
       "wrong": []
     },
@@ -256,10 +268,16 @@
       "deadline_at": "2026-09-02T08:05:26Z",
       "closed": true,
       "voided": true,
-      "status": "missed",
-      "submitted_at": null,
-      "reason": "no submission",
-      "attempts": [],
+      "status": "late",
+      "submitted_at": "2026-09-02T12:48:27.687Z",
+      "reason": "late",
+      "attempts": [
+        {
+          "at": "2026-09-02T12:48:27.687Z",
+          "on_time": false,
+          "counted": true
+        }
+      ],
       "n_correct": null,
       "n_questions": 5,
       "wrong": null
@@ -271,10 +289,16 @@
       "deadline_at": "2026-09-02T09:05:27Z",
       "closed": true,
       "voided": true,
-      "status": "missed",
-      "submitted_at": null,
-      "reason": "no submission",
-      "attempts": [],
+      "status": "late",
+      "submitted_at": "2026-09-02T12:49:01.380Z",
+      "reason": "late",
+      "attempts": [
+        {
+          "at": "2026-09-02T12:49:01.380Z",
+          "on_time": false,
+          "counted": true
+        }
+      ],
       "n_correct": null,
       "n_questions": 5,
       "wrong": null
@@ -286,10 +310,16 @@
       "deadline_at": "2026-09-02T10:05:27Z",
       "closed": true,
       "voided": true,
-      "status": "missed",
-      "submitted_at": null,
-      "reason": "no submission",
-      "attempts": [],
+      "status": "late",
+      "submitted_at": "2026-09-02T12:49:32.483Z",
+      "reason": "late",
+      "attempts": [
+        {
+          "at": "2026-09-02T12:49:32.483Z",
+          "on_time": false,
+          "counted": true
+        }
+      ],
       "n_correct": null,
       "n_questions": 5,
       "wrong": null
@@ -301,10 +331,16 @@
       "deadline_at": "2026-09-02T11:05:23Z",
       "closed": true,
       "voided": true,
-      "status": "missed",
-      "submitted_at": null,
-      "reason": "no submission",
-      "attempts": [],
+      "status": "late",
+      "submitted_at": "2026-09-02T12:49:49.950Z",
+      "reason": "late",
+      "attempts": [
+        {
+          "at": "2026-09-02T12:49:49.950Z",
+          "on_time": false,
+          "counted": true
+        }
+      ],
       "n_correct": null,
       "n_questions": 5,
       "wrong": null
@@ -316,10 +352,16 @@
       "deadline_at": "2026-09-02T12:05:26Z",
       "closed": true,
       "voided": true,
-      "status": "missed",
-      "submitted_at": null,
-      "reason": "no submission",
-      "attempts": [],
+      "status": "late",
+      "submitted_at": "2026-09-02T12:50:22.061Z",
+      "reason": "late",
+      "attempts": [
+        {
+          "at": "2026-09-02T12:50:22.061Z",
+          "on_time": false,
+          "counted": true
+        }
+      ],
       "n_correct": null,
       "n_questions": 5,
       "wrong": null
@@ -332,9 +374,15 @@
       "closed": false,
       "voided": false,
       "status": "open",
-      "submitted_at": null,
-      "reason": "no submission",
-      "attempts": [],
+      "submitted_at": "2026-09-02T12:50:53.258Z",
+      "reason": null,
+      "attempts": [
+        {
+          "at": "2026-09-02T12:50:53.258Z",
+          "on_time": true,
+          "counted": true
+        }
+      ],
       "n_correct": null,
       "n_questions": 5,
       "wrong": null
