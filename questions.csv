@@ -109,3 +109,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 22,3,2026-09-02T16:00:24Z,2026-09-02T17:05:24Z,q1055,A contract signed on 5 December 2026 has a 389-day settlement period. On what date does it settle?,22 December 2027,29 December 2027,28 January 2028,30 December 2027
 22,4,2026-09-02T16:00:24Z,2026-09-02T17:05:24Z,q1662,"An investment of $15,000.00 grows at 3% compounded annually. What is its value after 4 years?","$16,390.90","$16,882.63","$16,800.00","$1,800.00"
 22,5,2026-09-02T16:00:24Z,2026-09-02T17:05:24Z,q0039,"A product line generates $48,500.00 in revenue against $39,268.24 in cost of goods sold. What is the gross margin?",81.0%,19.0%,10.5%,23.5%
+23,1,2026-09-02T17:00:28Z,2026-09-02T18:05:28Z,q0417,"A support queue holds 24 billing tickets, 10 technical tickets and 3 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",91.9%,64.9%,27.0%,184.6%
+23,2,2026-09-02T17:00:28Z,2026-09-02T18:05:28Z,q0966,Quarterly revenue moved from $500.00 to $644.00. What is the percentage change?,-28.8%,22.4%,128.8%,28.8%
+23,3,2026-09-02T17:00:28Z,2026-09-02T18:05:28Z,q0995,"An invoice for $4,553.60 is settled at an exchange rate of 1.1295. What is the converted amount?","5,143.29","4,031.52","4,687.93","5,598.65"
+23,4,2026-09-02T17:00:28Z,2026-09-02T18:05:28Z,q1341,An item listed at $91.78 is discounted by 5%. What is the sale price?,$4.59,$86.78,$96.37,$87.19
+23,5,2026-09-02T17:00:28Z,2026-09-02T18:05:28Z,q1305,"Quarterly revenue moved from $4,300.00 to $4,076.00. What is the percentage change?",94.8%,5.2%,-5.5%,-5.2%
