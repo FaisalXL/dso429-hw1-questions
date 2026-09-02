@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-02T20:00:49.124778Z",
+  "generated_at": "2026-09-02T20:30:35.450378Z",
   "dataset": "live",
   "period": "test",
   "train_rounds": 12,
   "latest_round": 26,
-  "rounds_closed": 24,
+  "rounds_closed": 25,
   "unregistered_submissions": 3,
   "students": [
     {
       "student_id": "faisal",
       "name": "Faisal (TA test)",
       "email_masked": "jr****@gmail.com",
-      "streak": 7,
+      "streak": 8,
       "hits": 1,
       "eligible": 1,
       "uptime_pct": 100.0,
