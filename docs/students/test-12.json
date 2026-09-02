@@ -233,6 +233,21 @@
       "n_correct": 0,
       "n_questions": 5,
       "wrong": []
+    },
+    {
+      "round_id": 12,
+      "period": "train",
+      "released_at": "2026-09-02T06:00:38Z",
+      "deadline_at": "2026-09-02T07:05:38Z",
+      "closed": false,
+      "voided": false,
+      "status": "open",
+      "submitted_at": null,
+      "reason": "no submission",
+      "attempts": [],
+      "n_correct": 0,
+      "n_questions": 5,
+      "wrong": []
     }
   ]
 }
