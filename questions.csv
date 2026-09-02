@@ -134,3 +134,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 27,3,2026-09-02T21:00:27Z,2026-09-02T22:05:27Z,q1326,A retailer sells 209 units at $28.50 each. What is total revenue?,"$6,165.50","$5,956.50","$6,241.50","$5,671.50"
 27,4,2026-09-02T21:00:27Z,2026-09-02T22:05:27Z,q0756,"Fixed costs are $76,500.00. Each unit sells for $39.00 with a variable cost of $23.00. How many units must be sold to break even?","3,326 units","1,234 units","4,781 units","1,962 units"
 27,5,2026-09-02T21:00:27Z,2026-09-02T22:05:27Z,q0982,"Fixed costs are $12,000.00. Each unit sells for $149.00 with a variable cost of $42.00. How many units must be sold to break even?",81 units,63 units,112 units,286 units
+28,1,2026-09-02T22:00:21Z,2026-09-02T23:05:21Z,q0319,Region A had 171 orders averaging $24.00; region B had 16 orders averaging $70.00. What is the overall average order value?,66.06,27.94,47.00,30.55
+28,2,2026-09-02T22:00:21Z,2026-09-02T23:05:21Z,q0608,A retailer sells 384 units at $53.57 each. What is total revenue?,"$21,106.58","$20,035.18","$20,954.88","$20,570.88"
+28,3,2026-09-02T22:00:21Z,2026-09-02T23:05:21Z,q0923,"Fixed costs are $67,500.00. Each unit sells for $195.00 with a variable cost of $103.00. How many units must be sold to break even?",227 units,734 units,655 units,346 units
+28,4,2026-09-02T22:00:21Z,2026-09-02T23:05:21Z,q1097,"An investment of $25,000.00 grows at 11% compounded annually. What is its value after 4 years?","$11,000.00","$37,951.76","$34,190.78","$36,000.00"
+28,5,2026-09-02T22:00:21Z,2026-09-02T23:05:21Z,q0191,"A $1,170.00 marketing budget is split between two channels in the ratio 4:8. What does the first channel receive?",$390.00,$780.00,$97.50,$585.00
