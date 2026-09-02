@@ -124,3 +124,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 25,3,2026-09-02T19:00:26Z,2026-09-02T20:05:26Z,q0158,"Quarterly revenue moved from $4,200.00 to $6,282.00. What is the percentage change?",49.6%,-49.6%,33.1%,149.6%
 25,4,2026-09-02T19:00:26Z,2026-09-02T20:05:26Z,q0367,"A monthly headcount series runs 32, 44, 56, 68, 80. If the pattern continues, what is the next value?",80,116,104,92
 25,5,2026-09-02T19:00:26Z,2026-09-02T20:05:26Z,q0820,A $840.00 marketing budget is split between two channels in the ratio 4:8. What does the first channel receive?,$280.00,$420.00,$560.00,$70.00
+26,1,2026-09-02T20:00:24Z,2026-09-02T21:05:24Z,q0299,"A support queue holds 11 billing tickets, 5 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",53.3%,16.7%,36.7%,57.9%
+26,2,2026-09-02T20:00:24Z,2026-09-02T21:05:24Z,q1606,"A monthly headcount series runs 9, 15, 21, 27, 33. If the pattern continues, what is the next value?",45,33,51,39
+26,3,2026-09-02T20:00:24Z,2026-09-02T21:05:24Z,q1052,An invoice for $398.11 is settled at an exchange rate of 1.1477. What is the converted amount?,496.72,417.10,456.91,346.88
+26,4,2026-09-02T20:00:24Z,2026-09-02T21:05:24Z,q1558,"A monthly headcount series runs 33, 48, 63, 78, 93. If the pattern continues, what is the next value?",108,138,93,123
+26,5,2026-09-02T20:00:24Z,2026-09-02T21:05:24Z,q1653,Region A had 64 orders averaging $47.00; region B had 103 orders averaging $22.00. What is the overall average order value?,51.20,34.50,37.42,31.58
