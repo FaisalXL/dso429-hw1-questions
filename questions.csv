@@ -39,3 +39,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 8,3,2026-09-02T02:00:36Z,2026-09-02T03:05:36Z,q1484,"Fixed costs are $8,000.00. Each unit sells for $84.00 with a variable cost of $28.00. How many units must be sold to break even?",71 units,286 units,143 units,95 units
 8,4,2026-09-02T02:00:36Z,2026-09-02T03:05:36Z,q1297,"Fixed costs are $7,500.00. Each unit sells for $97.00 with a variable cost of $32.00. How many units must be sold to break even?",77 units,115 units,234 units,58 units
 8,5,2026-09-02T02:00:36Z,2026-09-02T03:05:36Z,q0099,"A product line generates $43,500.00 in revenue against $34,475.30 in cost of goods sold. What is the gross margin?",11.6%,20.7%,79.3%,26.2%
+9,1,2026-09-02T03:00:36Z,2026-09-02T04:05:36Z,q0732,"Fixed costs are $32,500.00. Each unit sells for $140.00 with a variable cost of $64.00. How many units must be sold to break even?",159 units,428 units,508 units,232 units
+9,2,2026-09-02T03:00:36Z,2026-09-02T04:05:36Z,q0635,An item listed at $840.63 is discounted by 10%. What is the sale price?,$830.63,$756.57,$924.69,$84.06
+9,3,2026-09-02T03:00:36Z,2026-09-02T04:05:36Z,q1171,"A monthly headcount series runs 40, 45, 50, 55, 60. If the pattern continues, what is the next value?",60,75,65,70
+9,4,2026-09-02T03:00:36Z,2026-09-02T04:05:36Z,q1517,"A product line generates $57,750.00 in revenue against $31,582.98 in cost of goods sold. What is the gross margin?",54.7%,45.3%,82.9%,29.3%
+9,5,2026-09-02T03:00:36Z,2026-09-02T04:05:36Z,q0895,"Quarterly revenue moved from $1,700.00 to $1,527.00. What is the percentage change?",89.8%,-10.2%,-11.3%,10.2%
