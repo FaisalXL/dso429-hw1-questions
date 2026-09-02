@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DSO 429 — File-drop Status</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+  :root{--paper:#FAFAF8;--raised:#FFF;--ink:#17191A;--ink-soft:#565C5A;--ink-faint:#8A918E;
+    --rule:#E2E4E0;--rule-soft:#EFF0ED;--hit:#2E7D5B;--late:#B07D18;--missed:#B3453A;--open:#C9CDCB;
+    --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;--sans:"IBM Plex Sans",-apple-system,sans-serif;}
+  @media (prefers-color-scheme:dark){:root{--paper:#101211;--raised:#181B1A;--ink:#E8EAE7;
+    --ink-soft:#A0A8A4;--ink-faint:#6E7672;--rule:#262A28;--rule-soft:#1E2120;--open:#333937;}}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.55}
+  .wrap{max-width:1000px;margin:0 auto;padding:40px 22px 80px}
+  .eyebrow{font-family:var(--mono);font-size:.7rem;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-faint)}
+  h1{font-size:2rem;margin:.3rem 0 .2rem;letter-spacing:-.02em}
+  .meta{font-family:var(--mono);font-size:.78rem;color:var(--ink-soft);display:flex;gap:1.1rem;flex-wrap:wrap;margin-bottom:1.2rem}
+  .note{border-left:3px solid var(--late);background:var(--rule-soft);padding:14px 18px;border-radius:0 6px 6px 0;font-size:.88rem;color:var(--ink-soft);margin-bottom:1.4rem}
+  .note b{color:var(--ink)}
+  .legend{display:flex;gap:1.1rem;flex-wrap:wrap;font-family:var(--mono);font-size:.72rem;color:var(--ink-faint);margin-bottom:.8rem}
+  .legend i{display:inline-block;width:.7rem;height:.7rem;margin-right:.35rem;border-radius:2px;vertical-align:-1px}
+  .scroller{overflow-x:auto;border:1px solid var(--rule);border-radius:8px;background:var(--raised)}
+  table{width:100%;border-collapse:collapse;font-size:.87rem}
+  th{text-align:left;font-family:var(--mono);font-size:.66rem;letter-spacing:.1em;text-transform:uppercase;
+     color:var(--ink-faint);padding:12px 14px;border-bottom:1px solid var(--rule);white-space:nowrap}
+  td{padding:11px 14px;border-bottom:1px solid var(--rule-soft);vertical-align:middle}
+  tr:last-child td{border-bottom:none}
+  .num{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+  .who b{font-weight:600}
+  .who span{display:block;font-family:var(--mono);font-size:.68rem;color:var(--ink-faint)}
+  .who a{color:var(--ink-faint);text-decoration:none;border-bottom:1px dotted var(--rule)}
+  .strip{display:flex;gap:2px;min-width:8rem}
+  .strip i{width:9px;height:20px;border-radius:2px;background:var(--open);display:block}
+  .strip i.hit{background:var(--hit)} .strip i.late{background:var(--late)} .strip i.missed{background:var(--missed)}
+  .strip i.tampered{outline:2px solid var(--missed);outline-offset:1px}
+  .flag{font-family:var(--mono);font-size:.68rem;color:var(--missed)}
+  footer{margin-top:22px;font-size:.78rem;color:var(--ink-faint);max-width:70ch}
+  .loading{padding:26px;text-align:center;color:var(--ink-faint);font-family:var(--mono);font-size:.8rem}
+</style></head><body>
+<div class="wrap">
+  <p class="eyebrow">DSO 429 · Homework 1 · file-drop model</p>
+  <h1>File-drop Status</h1>
+  <div class="meta" id="meta"></div>
+
+  <div class="note">
+    <b>The timestamp is ours, not yours.</b> A git commit date can be set to anything, so it is not
+    used. Staff poll each repo on a schedule and record when a file was <b>first seen</b>. Editing a
+    file after that point is detected and ignored — the copy first observed is the one graded.
+  </div>
+
+  <div class="legend">
+    <span><i style="background:var(--hit)"></i>on time</span>
+    <span><i style="background:var(--late)"></i>late</span>
+    <span><i style="background:var(--missed)"></i>never seen</span>
+    <span><i style="background:var(--open)"></i>still open</span>
+    <span><i style="outline:2px solid var(--missed);outline-offset:1px;background:var(--late)"></i>edited after first sight</span>
+  </div>
+
+  <div class="scroller"><table>
+    <thead><tr>
+      <th style="width:2.2rem"></th><th>Student</th><th style="min-width:9rem">Timeline</th>
+      <th class="num">On time</th><th class="num">Uptime</th><th class="num">Accuracy</th>
+    </tr></thead>
+    <tbody id="body"><tr><td colspan="6" class="loading">loading…</td></tr></tbody>
+  </table></div>
+  <footer id="foot"></footer>
+</div>
+<script>
+const pct = v => (v===null||v===undefined) ? "—" : v.toFixed(1)+"%";
+
+function strip(rounds){
+  return rounds.map(r=>{
+    const cls=[r.status==="open"?"":r.status, r.tampered?"tampered":""].filter(Boolean).join(" ");
+    const seen=r.first_seen_at?new Date(r.first_seen_at).toLocaleString():"never seen";
+    return `<i class="${cls}" title="Round ${r.round_id} · ${r.status}
+deadline ${new Date(r.deadline_at).toLocaleString()}
+first seen ${seen}${r.n_correct!==null?`\n${r.n_correct}/${r.n_questions} correct`:""}"></i>`;
+  }).join("");
+}
+
+async function render(){
+  let d;
+  try{
+    const res=await fetch("filedrop.json?t="+Date.now(),{cache:"no-store"});
+    if(!res.ok) throw new Error("filedrop.json "+res.status);
+    d=await res.json();
+  }catch(e){
+    document.getElementById("body").innerHTML=
+      `<tr><td colspan="6" class="loading">could not load filedrop.json — ${e.message}</td></tr>`;
+    return;
+  }
+  document.getElementById("meta").innerHTML=
+    `<span>round <b>${d.latest_round}</b></span><span><b>${d.rounds_closed}</b> closed</span>`+
+    `<span>polled <b>${new Date(d.generated_at).toLocaleString()}</b></span>`;
+  document.getElementById("body").innerHTML=d.students.map((s,i)=>`
+    <tr>
+      <td class="num" style="color:var(--ink-faint)">${i+1}</td>
+      <td class="who"><b>${s.name}</b>
+        <span><a href="https://github.com/${s.repo}" target="_blank" rel="noopener">${s.repo}</a></span>
+        ${s.tampered_rounds?`<span class="flag">${s.tampered_rounds} file(s) edited after first sight</span>`:""}
+      </td>
+      <td><div class="strip">${strip(s.rounds)}</div></td>
+      <td class="num">${s.hits}/${s.eligible}</td>
+      <td class="num">${pct(s.uptime_pct)}</td>
+      <td class="num">${pct(s.accuracy_pct)}</td>
+    </tr>`).join("");
+  document.getElementById("foot").textContent =
+    "Uptime counts rounds whose file was first seen before the deadline. Accuracy is over all "
+    + "closed rounds, so a round never submitted counts against it. Hover any block for detail.";
+}
+render(); setInterval(render, 60000);
+</script></body></html>
