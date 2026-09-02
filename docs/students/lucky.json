@@ -206,10 +206,16 @@
       "closed": false,
       "voided": false,
       "status": "open",
-      "submitted_at": null,
-      "reason": "no submission",
-      "attempts": [],
-      "n_correct": 0,
+      "submitted_at": "2026-09-02T04:22:47.254Z",
+      "reason": null,
+      "attempts": [
+        {
+          "at": "2026-09-02T04:22:47.254Z",
+          "on_time": true,
+          "counted": true
+        }
+      ],
+      "n_correct": 5,
       "n_questions": 5,
       "wrong": []
     }
