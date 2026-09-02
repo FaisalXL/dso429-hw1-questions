@@ -44,3 +44,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 9,3,2026-09-02T03:00:36Z,2026-09-02T04:05:36Z,q1171,"A monthly headcount series runs 40, 45, 50, 55, 60. If the pattern continues, what is the next value?",60,75,65,70
 9,4,2026-09-02T03:00:36Z,2026-09-02T04:05:36Z,q1517,"A product line generates $57,750.00 in revenue against $31,582.98 in cost of goods sold. What is the gross margin?",54.7%,45.3%,82.9%,29.3%
 9,5,2026-09-02T03:00:36Z,2026-09-02T04:05:36Z,q0895,"Quarterly revenue moved from $1,700.00 to $1,527.00. What is the percentage change?",89.8%,-10.2%,-11.3%,10.2%
+10,1,2026-09-02T04:00:40Z,2026-09-02T05:05:40Z,q0392,"A $8,490.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$1,212.86","$3,638.57","$6,367.50","$4,851.43"
+10,2,2026-09-02T04:00:40Z,2026-09-02T05:05:40Z,q1184,"A $7,800.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$4,457.14","$1,114.29","$5,850.00","$3,342.86"
+10,3,2026-09-02T04:00:40Z,2026-09-02T05:05:40Z,q0906,A retailer sells 637 units at $36.32 each. What is total revenue?,"$22,772.64","$23,499.04","$23,772.84","$23,135.84"
+10,4,2026-09-02T04:00:40Z,2026-09-02T05:05:40Z,q1597,"A support queue holds 18 billing tickets, 8 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",90.0%,68.4%,21.1%,47.4%
+10,5,2026-09-02T04:00:40Z,2026-09-02T05:05:40Z,q1459,"An investment of $8,500.00 grows at 3% compounded annually. What is its value after 8 years?","$10,453.93","$2,040.00","$10,540.00","$10,767.55"
