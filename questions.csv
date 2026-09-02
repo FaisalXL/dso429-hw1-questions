@@ -84,3 +84,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 17,3,2026-09-02T11:00:26Z,2026-09-02T12:05:26Z,q0499,A contract signed on 28 December 2026 has a 84-day settlement period. On what date does it settle?,23 March 2027,21 April 2027,15 March 2027,22 March 2027
 17,4,2026-09-02T11:00:26Z,2026-09-02T12:05:26Z,q0008,Region A had 193 orders averaging $33.00; region B had 78 orders averaging $26.00. What is the overall average order value?,29.50,30.99,43.51,28.01
 17,5,2026-09-02T11:00:26Z,2026-09-02T12:05:26Z,q1554,"An investment of $38,000.00 grows at 14% compounded annually. What is its value after 5 years?","$64,180.49","$73,165.75","$26,600.00","$64,600.00"
+18,1,2026-09-02T12:00:25Z,2026-09-02T13:05:25Z,q1288,"A monthly headcount series runs 37, 51, 65, 79, 93. If the pattern continues, what is the next value?",93,121,107,135
+18,2,2026-09-02T12:00:25Z,2026-09-02T13:05:25Z,q1290,A $750.00 marketing budget is split between two channels in the ratio 6:8. What does the first channel receive?,$53.57,$321.43,$428.57,$562.50
+18,3,2026-09-02T12:00:25Z,2026-09-02T13:05:25Z,q0772,A contract signed on 25 May 2026 has a 376-day settlement period. On what date does it settle?,5 June 2027,29 May 2027,5 July 2027,6 June 2027
+18,4,2026-09-02T12:00:25Z,2026-09-02T13:05:25Z,q0331,Region A had 54 orders averaging $92.00; region B had 68 orders averaging $78.00. What is the overall average order value?,85.00,85.80,151.06,84.20
+18,5,2026-09-02T12:00:25Z,2026-09-02T13:05:25Z,q1518,An item listed at $394.96 is discounted by 25%. What is the sale price?,$296.22,$493.70,$369.96,$98.74
