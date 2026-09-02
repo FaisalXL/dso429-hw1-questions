@@ -2,12 +2,12 @@
   "student_id": "lucky",
   "name": "Lucky Luciano",
   "email_masked": "ca****@gmail.com",
-  "streak": 1,
+  "streak": 2,
   "hits": 0,
   "eligible": 0,
   "uptime_pct": 0.0,
-  "train_rounds_hit": 1,
-  "train_rounds": 6,
+  "train_rounds_hit": 2,
+  "train_rounds": 7,
   "rounds": [
     {
       "round_id": 1,
@@ -140,9 +140,9 @@
       "period": "train",
       "released_at": "2026-09-02T01:00:35Z",
       "deadline_at": "2026-09-02T02:05:35Z",
-      "closed": false,
+      "closed": true,
       "voided": false,
-      "status": "open",
+      "status": "hit",
       "submitted_at": "2026-09-02T01:05:12.137Z",
       "reason": null,
       "attempts": [
