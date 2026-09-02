@@ -2,12 +2,12 @@
   "student_id": "faisal",
   "name": "Faisal (TA test)",
   "email_masked": "jr****@gmail.com",
-  "streak": 2,
+  "streak": 3,
   "hits": 0,
   "eligible": 0,
   "uptime_pct": 0.0,
-  "train_rounds_hit": 4,
-  "train_rounds": 5,
+  "train_rounds_hit": 5,
+  "train_rounds": 6,
   "rounds": [
     {
       "round_id": 1,
@@ -128,9 +128,9 @@
       "period": "train",
       "released_at": "2026-09-02T00:00:38Z",
       "deadline_at": "2026-09-02T01:05:38Z",
-      "closed": false,
+      "closed": true,
       "voided": false,
-      "status": "open",
+      "status": "hit",
       "submitted_at": "2026-09-02T00:47:06.642Z",
       "reason": null,
       "attempts": [
@@ -152,10 +152,16 @@
       "closed": false,
       "voided": false,
       "status": "open",
-      "submitted_at": null,
-      "reason": "no submission",
-      "attempts": [],
-      "n_correct": 0,
+      "submitted_at": "2026-09-02T01:15:29.503Z",
+      "reason": null,
+      "attempts": [
+        {
+          "at": "2026-09-02T01:15:29.503Z",
+          "on_time": true,
+          "counted": true
+        }
+      ],
+      "n_correct": 5,
       "n_questions": 5,
       "wrong": []
     }
