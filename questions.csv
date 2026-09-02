@@ -59,3 +59,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 12,3,2026-09-02T06:00:38Z,2026-09-02T07:05:38Z,q1251,"Fixed costs are $34,000.00. Each unit sells for $173.00 with a variable cost of $106.00. How many units must be sold to break even?",197 units,321 units,122 units,507 units
 12,4,2026-09-02T06:00:38Z,2026-09-02T07:05:38Z,q0962,A contract signed on 14 December 2026 has a 181-day settlement period. On what date does it settle?,13 July 2027,14 June 2027,13 June 2027,6 June 2027
 12,5,2026-09-02T06:00:38Z,2026-09-02T07:05:38Z,q1365,"An investment of $28,500.00 grows at 8% compounded annually. What is its value after 4 years?","$38,773.94","$37,620.00","$9,120.00","$35,901.79"
+13,1,2026-09-02T07:00:26Z,2026-09-02T08:05:26Z,q0171,"A product line generates $87,250.00 in revenue against $70,514.85 in cost of goods sold. What is the gross margin?",23.7%,80.8%,19.2%,10.6%
+13,2,2026-09-02T07:00:26Z,2026-09-02T08:05:26Z,q0613,"Fixed costs are $8,000.00. Each unit sells for $136.00 with a variable cost of $81.00. How many units must be sold to break even?",99 units,59 units,37 units,145 units
+13,3,2026-09-02T07:00:26Z,2026-09-02T08:05:26Z,q0981,"An investment of $8,000.00 grows at 9% compounded annually. What is its value after 5 years?","$11,600.00","$12,308.99","$3,600.00","$11,292.65"
+13,4,2026-09-02T07:00:26Z,2026-09-02T08:05:26Z,q0707,"An investment of $10,000.00 grows at 4% compounded annually. What is its value after 7 years?","$12,800.00","$12,653.19","$13,159.32","$2,800.00"
+13,5,2026-09-02T07:00:26Z,2026-09-02T08:05:26Z,q0645,"Quarterly revenue moved from $1,600.00 to $2,067.00. What is the percentage change?",-29.2%,22.6%,129.2%,29.2%
