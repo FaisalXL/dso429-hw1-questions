@@ -119,3 +119,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 24,3,2026-09-02T18:00:27Z,2026-09-02T19:05:27Z,q0101,"An investment of $49,000.00 grows at 5% compounded annually. What is its value after 5 years?","$61,250.00","$62,537.80","$12,250.00","$59,559.81"
 24,4,2026-09-02T18:00:27Z,2026-09-02T19:05:27Z,q1316,"Quarterly revenue moved from $4,750.00 to $3,417.00. What is the percentage change?",28.1%,-39.0%,-28.1%,71.9%
 24,5,2026-09-02T18:00:27Z,2026-09-02T19:05:27Z,q0938,"A monthly headcount series runs 27, 31, 35, 39, 43. If the pattern continues, what is the next value?",43,47,55,51
+25,1,2026-09-02T19:00:26Z,2026-09-02T20:05:26Z,q1256,"A $6,570.00 marketing budget is split between two channels in the ratio 2:4. What does the first channel receive?","$2,190.00","$4,380.00","$1,095.00","$3,285.00"
+25,2,2026-09-02T19:00:26Z,2026-09-02T20:05:26Z,q1632,A $990.00 marketing budget is split between two channels in the ratio 2:5. What does the first channel receive?,$141.43,$707.14,$282.86,$396.00
+25,3,2026-09-02T19:00:26Z,2026-09-02T20:05:26Z,q0158,"Quarterly revenue moved from $4,200.00 to $6,282.00. What is the percentage change?",49.6%,-49.6%,33.1%,149.6%
+25,4,2026-09-02T19:00:26Z,2026-09-02T20:05:26Z,q0367,"A monthly headcount series runs 32, 44, 56, 68, 80. If the pattern continues, what is the next value?",80,116,104,92
+25,5,2026-09-02T19:00:26Z,2026-09-02T20:05:26Z,q0820,A $840.00 marketing budget is split between two channels in the ratio 4:8. What does the first channel receive?,$280.00,$420.00,$560.00,$70.00
