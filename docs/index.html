@@ -260,6 +260,7 @@
     deadline has passed, so it lags: a round stays unscored until it closes, because you can
     replace your answers right up to the deadline.
   </div>
+  <div class="banner" id="liveStale" hidden></div>
 
   <div class="scroller">
     <table>
@@ -433,12 +434,49 @@ async function refreshLive() {
     const d = await r.json();
     if (!d.ok || !d.students) throw new Error(d.error || "no data");
     liveCache = d.students;
+
+    // A stalled ingest looks exactly like a quiet class. This project has
+    // produced that failure shape six times; say it out loud instead.
+    const stale = document.getElementById("liveStale");
+    if (stale) {
+      const age = d.ingest_age_seconds;
+      if (age === null) {
+        // null means ingest has NEVER succeeded — not "just under 600s old".
+        // That's the most severe state there is, and the old
+        // `age !== null && age > 600` guard let it fall through as hidden,
+        // making total ingest failure look identical to a healthy feed.
+        // Give it its own message instead of lumping it in with "stale".
+        stale.hidden = false;
+        stale.textContent =
+          `Live feed has never reported successfully — the Live column `
+          + `below may be empty or incomplete. Scores are unaffected.`;
+      } else if (age > 600) {
+        stale.hidden = false;
+        stale.textContent =
+          `Live feed has not updated in ${Math.round(age / 60)} minutes — `
+          + `the Live column below may be behind. Scores are unaffected.`;
+      } else {
+        stale.hidden = true;
+      }
+    }
   } catch (e) {
     // Say it is unreachable rather than leaving the last value on screen. A
     // stale "round 7 - 20s ago" that never moves is worse than an honest gap.
     document.querySelectorAll("[data-live]").forEach(td => {
       td.innerHTML = `<span class="off">feed down</span>`;
     });
+    // Without this, the catch path returned before touching #liveStale, so a
+    // banner already reading "stale for 12 minutes" would freeze at that
+    // count for as long as the outage lasted, while the per-cell text above
+    // said "feed down" — two indicators drifting apart during the same
+    // outage. Overwrite it so both tell the same story.
+    const stale = document.getElementById("liveStale");
+    if (stale) {
+      stale.hidden = false;
+      stale.textContent =
+        `Live feed is unreachable — the Live column below may be empty or `
+        + `out of date. Scores are unaffected.`;
+    }
     return;
   }
   paintLive();
