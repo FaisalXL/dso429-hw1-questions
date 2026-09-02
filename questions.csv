@@ -129,3 +129,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 26,3,2026-09-02T20:00:24Z,2026-09-02T21:05:24Z,q1052,An invoice for $398.11 is settled at an exchange rate of 1.1477. What is the converted amount?,496.72,417.10,456.91,346.88
 26,4,2026-09-02T20:00:24Z,2026-09-02T21:05:24Z,q1558,"A monthly headcount series runs 33, 48, 63, 78, 93. If the pattern continues, what is the next value?",108,138,93,123
 26,5,2026-09-02T20:00:24Z,2026-09-02T21:05:24Z,q1653,Region A had 64 orders averaging $47.00; region B had 103 orders averaging $22.00. What is the overall average order value?,51.20,34.50,37.42,31.58
+27,1,2026-09-02T21:00:27Z,2026-09-02T22:05:27Z,q0360,"Quarterly revenue moved from $4,950.00 to $5,654.00. What is the percentage change?",14.2%,-14.2%,12.5%,114.2%
+27,2,2026-09-02T21:00:27Z,2026-09-02T22:05:27Z,q1415,Region A had 122 orders averaging $44.00; region B had 58 orders averaging $36.00. What is the overall average order value?,61.11,38.58,41.42,40.00
+27,3,2026-09-02T21:00:27Z,2026-09-02T22:05:27Z,q1326,A retailer sells 209 units at $28.50 each. What is total revenue?,"$6,165.50","$5,956.50","$6,241.50","$5,671.50"
+27,4,2026-09-02T21:00:27Z,2026-09-02T22:05:27Z,q0756,"Fixed costs are $76,500.00. Each unit sells for $39.00 with a variable cost of $23.00. How many units must be sold to break even?","3,326 units","1,234 units","4,781 units","1,962 units"
+27,5,2026-09-02T21:00:27Z,2026-09-02T22:05:27Z,q0982,"Fixed costs are $12,000.00. Each unit sells for $149.00 with a variable cost of $42.00. How many units must be sold to break even?",81 units,63 units,112 units,286 units
