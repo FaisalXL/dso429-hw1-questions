@@ -114,3 +114,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 23,3,2026-09-02T17:00:28Z,2026-09-02T18:05:28Z,q0995,"An invoice for $4,553.60 is settled at an exchange rate of 1.1295. What is the converted amount?","5,143.29","4,031.52","4,687.93","5,598.65"
 23,4,2026-09-02T17:00:28Z,2026-09-02T18:05:28Z,q1341,An item listed at $91.78 is discounted by 5%. What is the sale price?,$4.59,$86.78,$96.37,$87.19
 23,5,2026-09-02T17:00:28Z,2026-09-02T18:05:28Z,q1305,"Quarterly revenue moved from $4,300.00 to $4,076.00. What is the percentage change?",94.8%,5.2%,-5.5%,-5.2%
+24,1,2026-09-02T18:00:27Z,2026-09-02T19:05:27Z,q1048,"A product line generates $30,750.00 in revenue against $16,288.02 in cost of goods sold. What is the gross margin?",88.8%,53.0%,30.7%,47.0%
+24,2,2026-09-02T18:00:27Z,2026-09-02T19:05:27Z,q1137,"A monthly headcount series runs 11, 15, 19, 23, 27. If the pattern continues, what is the next value?",35,27,31,39
+24,3,2026-09-02T18:00:27Z,2026-09-02T19:05:27Z,q0101,"An investment of $49,000.00 grows at 5% compounded annually. What is its value after 5 years?","$61,250.00","$62,537.80","$12,250.00","$59,559.81"
+24,4,2026-09-02T18:00:27Z,2026-09-02T19:05:27Z,q1316,"Quarterly revenue moved from $4,750.00 to $3,417.00. What is the percentage change?",28.1%,-39.0%,-28.1%,71.9%
+24,5,2026-09-02T18:00:27Z,2026-09-02T19:05:27Z,q0938,"A monthly headcount series runs 27, 31, 35, 39, 43. If the pattern continues, what is the next value?",43,47,55,51
