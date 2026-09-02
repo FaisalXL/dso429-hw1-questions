@@ -398,9 +398,10 @@ async function toggle(tr, id) {
 }
 
 // The board's scores come from the publish tick, up to 30 minutes apart. This
-// reads the Worker's receipt cache instead -- the same 45-second memo, so a
-// class of 40 polling every 30s still costs Apps Script about two requests a
-// minute. No scores here: the Worker has never seen an answer key.
+// reads the Worker's D1 mirror instead, which ingest keeps within ~30s of the
+// Form. The Worker caches the computed payload for ~25s, so a class of 40
+// polling every 30s costs one table scan per cycle rather than forty. No
+// scores here: the Worker has never seen an answer key.
 const LIVE_URL = "https://dso429-hw1-tick.dso429hw1.workers.dev/live";
 
 function ago(iso) {
@@ -437,26 +438,40 @@ async function refreshLive() {
 
     // A stalled ingest looks exactly like a quiet class. This project has
     // produced that failure shape six times; say it out loud instead.
+    //
+    // Every reason goes in one list rather than an if/else chain, because they
+    // are independent and can hold at once: an ingest can be BOTH failing and
+    // hours stale, and reporting only the first found leaves the reader to
+    // discover the rest the hard way.
     const stale = document.getElementById("liveStale");
     if (stale) {
       const age = d.ingest_age_seconds;
+      const why = [];
+
+      // The Worker tells us when it is degraded — a failing ingest, or a
+      // roster map it could not read. Nothing here used to READ that field,
+      // which is how the worst case stayed silent: with no roster map /live
+      // returns students:{} while as_of stays fresh, so the age checks below
+      // are all happy and paintLive prints "nothing yet" for all 42 rows.
+      // An empty board and a green banner, with the explanation sitting
+      // unread in the payload.
+      if (d.degraded) why.push(d.degraded);
+
       if (age === null) {
         // null means ingest has NEVER succeeded — not "just under 600s old".
         // That's the most severe state there is, and the old
         // `age !== null && age > 600` guard let it fall through as hidden,
         // making total ingest failure look identical to a healthy feed.
-        // Give it its own message instead of lumping it in with "stale".
-        stale.hidden = false;
-        stale.textContent =
-          `Live feed has never reported successfully — the Live column `
-          + `below may be empty or incomplete. Scores are unaffected.`;
+        why.push("it has never reported successfully");
       } else if (age > 600) {
-        stale.hidden = false;
+        why.push(`it has not updated in ${Math.round(age / 60)} minutes`);
+      }
+
+      stale.hidden = why.length === 0;
+      if (!stale.hidden) {
         stale.textContent =
-          `Live feed has not updated in ${Math.round(age / 60)} minutes — `
-          + `the Live column below may be behind. Scores are unaffected.`;
-      } else {
-        stale.hidden = true;
+          `Live feed problem — the Live column below may be empty, incomplete `
+          + `or behind: ${why.join("; ")}. Scores are unaffected.`;
       }
     }
   } catch (e) {

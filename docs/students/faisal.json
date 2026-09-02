@@ -2,12 +2,12 @@
   "student_id": "faisal",
   "name": "Faisal (TA test)",
   "email_masked": "jr****@gmail.com",
-  "streak": 7,
+  "streak": 8,
   "hits": 0,
   "eligible": 0,
   "uptime_pct": 0.0,
-  "train_rounds_hit": 9,
-  "train_rounds": 10,
+  "train_rounds_hit": 10,
+  "train_rounds": 11,
   "rounds": [
     {
       "round_id": 1,
@@ -233,9 +233,9 @@
       "period": "train",
       "released_at": "2026-09-02T05:00:40Z",
       "deadline_at": "2026-09-02T06:05:40Z",
-      "closed": false,
-      "voided": false,
-      "status": "open",
+      "closed": true,
+      "voided": true,
+      "status": "hit",
       "submitted_at": "2026-08-31T14:54:21.277Z",
       "reason": null,
       "attempts": [
