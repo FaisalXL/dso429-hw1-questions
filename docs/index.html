@@ -409,30 +409,39 @@ function ago(iso) {
   return m < 60 ? m + "m ago" : Math.round(m / 60) + "h ago";
 }
 
-async function refreshLive() {
-  const cells = document.querySelectorAll("[data-live]");
-  if (!cells.length) return;
+// Last good payload. render() rebuilds the whole tbody every 60 seconds, which
+// throws the live cells away with it; without this they flash a placeholder for
+// one network round trip every minute, which reads as the feed dropping out.
+let liveCache = null;
 
-  let d;
+function paintLive() {
+  document.querySelectorAll("[data-live]").forEach(td => {
+    const v = liveCache && liveCache[td.dataset.live];
+    td.innerHTML = (v && v.last_seen)
+      ? `<b>round ${v.latest_round === null ? "\u2014" : v.latest_round}</b>` +
+        `<span>${ago(v.last_seen)}</span>`
+      : `<span class="off">${liveCache ? "nothing yet" : "\u2026"}</span>`;
+  });
+}
+
+async function refreshLive() {
+  if (!document.querySelector("[data-live]")) return;
+
   try {
     const r = await fetch(LIVE_URL, { cache: "no-store" });
     if (!r.ok) throw new Error("HTTP " + r.status);
-    d = await r.json();
+    const d = await r.json();
     if (!d.ok || !d.students) throw new Error(d.error || "no data");
+    liveCache = d.students;
   } catch (e) {
     // Say it is unreachable rather than leaving the last value on screen. A
-    // stale "round 7 · 20s ago" that never moves is worse than an honest gap.
-    cells.forEach(td => { td.innerHTML = `<span class="off">feed down</span>`; });
+    // stale "round 7 - 20s ago" that never moves is worse than an honest gap.
+    document.querySelectorAll("[data-live]").forEach(td => {
+      td.innerHTML = `<span class="off">feed down</span>`;
+    });
     return;
   }
-
-  cells.forEach(td => {
-    const v = d.students[td.dataset.live];
-    td.innerHTML = (v && v.last_seen)
-      ? `<b>round ${v.latest_round === null ? "—" : v.latest_round}</b>` +
-        `<span>${ago(v.last_seen)}</span>`
-      : `<span class="off">nothing yet</span>`;
-  });
+  paintLive();
 }
 
 async function render() {
@@ -472,8 +481,9 @@ async function render() {
     `Click any row for a round-by-round breakdown. Live updates every 30 seconds; `
     + `scores every 60. Streak counts consecutive most-recent rounds submitted on time.`;
 
-  // render() rebuilds the tbody, which throws away the live cells with it.
-  // Repopulate them immediately rather than showing a placeholder for 30s.
+  // Repaint from the last known values synchronously, so the column never
+  // blanks; the fetch that follows only updates it.
+  paintLive();
   refreshLive();
 }
 
