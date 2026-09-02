@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-09-02T07:00:34.216454Z",
+  "generated_at": "2026-09-02T07:30:23.491210Z",
   "dataset": "live",
   "period": "test",
   "train_rounds": 12,
   "latest_round": 13,
-  "rounds_closed": 11,
+  "rounds_closed": 12,
   "unregistered_submissions": 3,
   "students": [
-    {
-      "student_id": "faisal",
-      "name": "Faisal (TA test)",
-      "email_masked": "jr****@gmail.com",
-      "streak": 8,
-      "hits": 0,
-      "eligible": 0,
-      "uptime_pct": 0.0,
-      "train_hits": 10,
-      "train_rounds": 11,
-      "accuracy_pct": null
-    },
     {
       "student_id": "test-01",
       "name": "Bot 01",
@@ -28,7 +16,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -40,7 +28,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -52,7 +40,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -64,7 +52,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -76,7 +64,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -88,7 +76,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -100,7 +88,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -112,7 +100,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -124,7 +112,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -136,7 +124,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -148,7 +136,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -160,7 +148,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -172,7 +160,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -184,7 +172,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -196,7 +184,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -208,7 +196,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -220,7 +208,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -232,7 +220,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -244,7 +232,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -256,7 +244,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -268,7 +256,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -280,7 +268,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -292,7 +280,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -304,7 +292,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -316,7 +304,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -328,7 +316,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -340,7 +328,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -352,7 +340,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 0,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -364,7 +352,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -376,7 +364,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 0,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -388,7 +376,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -400,7 +388,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 0,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -412,7 +400,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -424,7 +412,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -436,7 +424,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -448,7 +436,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -460,7 +448,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -472,7 +460,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 1,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -484,7 +472,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 0,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -496,7 +484,19 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 0,
-      "train_rounds": 11,
+      "train_rounds": 12,
+      "accuracy_pct": null
+    },
+    {
+      "student_id": "faisal",
+      "name": "Faisal (TA test)",
+      "email_masked": "jr****@gmail.com",
+      "streak": 0,
+      "hits": 0,
+      "eligible": 0,
+      "uptime_pct": 0.0,
+      "train_hits": 10,
+      "train_rounds": 12,
       "accuracy_pct": null
     },
     {
@@ -508,7 +508,7 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 5,
-      "train_rounds": 11,
+      "train_rounds": 12,
       "accuracy_pct": null
     }
   ]
