@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-09-02T00:00:59.550874Z",
+  "generated_at": "2026-09-02T00:30:50.013243Z",
   "dataset": "live",
   "period": "train",
   "train_rounds": 12,
   "latest_round": 6,
-  "rounds_closed": 4,
+  "rounds_closed": 5,
   "unregistered_submissions": 3,
   "students": [
     {
       "student_id": "faisal",
       "name": "Faisal (TA test)",
       "email_masked": "jr****@gmail.com",
-      "streak": 1,
+      "streak": 2,
       "hits": 0,
       "eligible": 0,
       "uptime_pct": 0.0,
-      "train_hits": 3,
-      "train_rounds": 4,
-      "accuracy_pct": 65.0
+      "train_hits": 4,
+      "train_rounds": 5,
+      "accuracy_pct": 72.0
     },
     {
       "student_id": "lucky",
@@ -28,8 +28,8 @@
       "eligible": 0,
       "uptime_pct": 0.0,
       "train_hits": 0,
-      "train_rounds": 4,
-      "accuracy_pct": 0.0
+      "train_rounds": 5,
+      "accuracy_pct": 100.0
     }
   ]
 }
