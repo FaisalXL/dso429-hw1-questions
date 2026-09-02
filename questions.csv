@@ -99,3 +99,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 20,3,2026-09-02T14:00:28Z,2026-09-02T15:05:28Z,q1383,"A support queue holds 17 billing tickets, 19 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",42.5%,90.0%,47.5%,73.9%
 20,4,2026-09-02T14:00:28Z,2026-09-02T15:05:28Z,q0863,"Fixed costs are $28,500.00. Each unit sells for $196.00 with a variable cost of $71.00. How many units must be sold to break even?",107 units,228 units,145 units,401 units
 20,5,2026-09-02T14:00:28Z,2026-09-02T15:05:28Z,q0588,"An investment of $3,500.00 grows at 6% compounded annually. What is its value after 6 years?","$4,964.82","$4,683.79","$4,760.00","$1,260.00"
+21,1,2026-09-02T15:00:23Z,2026-09-02T16:05:23Z,q1548,"A $8,730.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$1,455.00","$17,460.00","$5,820.00","$2,910.00"
+21,2,2026-09-02T15:00:23Z,2026-09-02T16:05:23Z,q0526,"Quarterly revenue moved from $2,800.00 to $4,128.00. What is the percentage change?",-47.4%,47.4%,32.2%,147.4%
+21,3,2026-09-02T15:00:23Z,2026-09-02T16:05:23Z,q1354,"An investment of $43,500.00 grows at 14% compounded annually. What is its value after 8 years?","$124,087.51","$108,848.69","$48,720.00","$92,220.00"
+21,4,2026-09-02T15:00:23Z,2026-09-02T16:05:23Z,q1505,"A product line generates $77,500.00 in revenue against $42,247.05 in cost of goods sold. What is the gross margin?",83.4%,54.5%,29.4%,45.5%
+21,5,2026-09-02T15:00:23Z,2026-09-02T16:05:23Z,q1128,"A support queue holds 4 billing tickets, 3 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",28.6%,38.9%,16.7%,22.2%
