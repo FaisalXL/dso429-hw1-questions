@@ -1,12 +1,12 @@
 {
-  "student_id": "faisal",
-  "name": "Faisal (TA test)",
-  "email_masked": "jr****@gmail.com",
-  "streak": 6,
+  "student_id": "test-35",
+  "name": "Bot 35",
+  "email_masked": "te****@dso429.invalid",
+  "streak": 1,
   "hits": 0,
   "eligible": 0,
   "uptime_pct": 0.0,
-  "train_rounds_hit": 8,
+  "train_rounds_hit": 1,
   "train_rounds": 9,
   "rounds": [
     {
@@ -16,21 +16,22 @@
       "deadline_at": "2026-09-01T20:13:37Z",
       "closed": true,
       "voided": false,
-      "status": "hit",
-      "submitted_at": "2026-09-01T19:22:00.192Z",
-      "reason": null,
+      "status": "late",
+      "submitted_at": "2026-09-02T03:21:22.544Z",
+      "reason": "late",
       "attempts": [
         {
-          "at": "2026-09-01T19:22:00.192Z",
-          "on_time": true,
+          "at": "2026-09-02T03:21:22.544Z",
+          "on_time": false,
           "counted": true
         }
       ],
-      "n_correct": 2,
+      "n_correct": 1,
       "n_questions": 5,
       "wrong": [
-        "q0376",
+        "q1427",
         "q0430",
+        "q0154",
         "q1569"
       ]
     },
@@ -41,22 +42,20 @@
       "deadline_at": "2026-09-01T21:06:00Z",
       "closed": true,
       "voided": false,
-      "status": "hit",
-      "submitted_at": "2026-09-01T20:45:43.978Z",
-      "reason": null,
+      "status": "late",
+      "submitted_at": "2026-09-02T03:21:23.474Z",
+      "reason": "late",
       "attempts": [
         {
-          "at": "2026-09-01T20:45:43.978Z",
-          "on_time": true,
+          "at": "2026-09-02T03:21:23.474Z",
+          "on_time": false,
           "counted": true
         }
       ],
-      "n_correct": 1,
+      "n_correct": 3,
       "n_questions": 5,
       "wrong": [
         "q0151",
-        "q0178",
-        "q0568",
         "q1103"
       ]
     },
@@ -68,18 +67,22 @@
       "closed": true,
       "voided": false,
       "status": "late",
-      "submitted_at": "2026-09-01T22:33:14.595Z",
+      "submitted_at": "2026-09-02T03:21:24.294Z",
       "reason": "late",
       "attempts": [
         {
-          "at": "2026-09-01T22:33:14.595Z",
+          "at": "2026-09-02T03:21:24.294Z",
           "on_time": false,
           "counted": true
         }
       ],
-      "n_correct": 5,
+      "n_correct": 2,
       "n_questions": 5,
-      "wrong": []
+      "wrong": [
+        "q0311",
+        "q0911",
+        "q1416"
+      ]
     },
     {
       "round_id": 4,
@@ -88,19 +91,23 @@
       "deadline_at": "2026-09-01T23:05:39Z",
       "closed": true,
       "voided": false,
-      "status": "hit",
-      "submitted_at": "2026-09-01T22:32:33.733Z",
-      "reason": null,
+      "status": "late",
+      "submitted_at": "2026-09-02T03:21:24.963Z",
+      "reason": "late",
       "attempts": [
         {
-          "at": "2026-09-01T22:32:33.733Z",
-          "on_time": true,
+          "at": "2026-09-02T03:21:24.963Z",
+          "on_time": false,
           "counted": true
         }
       ],
-      "n_correct": 5,
+      "n_correct": 2,
       "n_questions": 5,
-      "wrong": []
+      "wrong": [
+        "q1239",
+        "q0566",
+        "q0946"
+      ]
     },
     {
       "round_id": 5,
@@ -109,19 +116,23 @@
       "deadline_at": "2026-09-02T00:05:39Z",
       "closed": true,
       "voided": false,
-      "status": "hit",
-      "submitted_at": "2026-09-01T23:24:30.419Z",
-      "reason": null,
+      "status": "late",
+      "submitted_at": "2026-09-02T03:21:25.792Z",
+      "reason": "late",
       "attempts": [
         {
-          "at": "2026-09-01T23:24:30.419Z",
-          "on_time": true,
+          "at": "2026-09-02T03:21:25.792Z",
+          "on_time": false,
           "counted": true
         }
       ],
-      "n_correct": 5,
+      "n_correct": 2,
       "n_questions": 5,
-      "wrong": []
+      "wrong": [
+        "q1434",
+        "q0633",
+        "q1585"
+      ]
     },
     {
       "round_id": 6,
@@ -130,19 +141,24 @@
       "deadline_at": "2026-09-02T01:05:38Z",
       "closed": true,
       "voided": false,
-      "status": "hit",
-      "submitted_at": "2026-09-02T00:47:06.642Z",
-      "reason": null,
+      "status": "late",
+      "submitted_at": "2026-09-02T03:21:26.469Z",
+      "reason": "late",
       "attempts": [
         {
-          "at": "2026-09-02T00:47:06.642Z",
-          "on_time": true,
+          "at": "2026-09-02T03:21:26.469Z",
+          "on_time": false,
           "counted": true
         }
       ],
-      "n_correct": 5,
+      "n_correct": 1,
       "n_questions": 5,
-      "wrong": []
+      "wrong": [
+        "q0548",
+        "q0614",
+        "q0155",
+        "q1382"
+      ]
     },
     {
       "round_id": 7,
@@ -151,19 +167,24 @@
       "deadline_at": "2026-09-02T02:05:35Z",
       "closed": true,
       "voided": false,
-      "status": "hit",
-      "submitted_at": "2026-09-02T01:15:29.503Z",
-      "reason": null,
+      "status": "late",
+      "submitted_at": "2026-09-02T03:21:27.244Z",
+      "reason": "late",
       "attempts": [
         {
-          "at": "2026-09-02T01:15:29.503Z",
-          "on_time": true,
+          "at": "2026-09-02T03:21:27.244Z",
+          "on_time": false,
           "counted": true
         }
       ],
-      "n_correct": 5,
+      "n_correct": 1,
       "n_questions": 5,
-      "wrong": []
+      "wrong": [
+        "q0992",
+        "q1340",
+        "q0137",
+        "q0817"
+      ]
     },
     {
       "round_id": 8,
@@ -172,19 +193,22 @@
       "deadline_at": "2026-09-02T03:05:36Z",
       "closed": true,
       "voided": false,
-      "status": "hit",
-      "submitted_at": "2026-09-02T02:15:29.842Z",
-      "reason": null,
+      "status": "late",
+      "submitted_at": "2026-09-02T03:21:27.875Z",
+      "reason": "late",
       "attempts": [
         {
-          "at": "2026-09-02T02:15:29.842Z",
-          "on_time": true,
+          "at": "2026-09-02T03:21:27.875Z",
+          "on_time": false,
           "counted": true
         }
       ],
-      "n_correct": 5,
+      "n_correct": 3,
       "n_questions": 5,
-      "wrong": []
+      "wrong": [
+        "q0077",
+        "q1484"
+      ]
     },
     {
       "round_id": 9,
@@ -194,18 +218,20 @@
       "closed": true,
       "voided": false,
       "status": "hit",
-      "submitted_at": "2026-09-02T03:15:30.465Z",
+      "submitted_at": "2026-09-02T03:21:28.775Z",
       "reason": null,
       "attempts": [
         {
-          "at": "2026-09-02T03:15:30.465Z",
+          "at": "2026-09-02T03:21:28.775Z",
           "on_time": true,
           "counted": true
         }
       ],
-      "n_correct": 5,
+      "n_correct": 4,
       "n_questions": 5,
-      "wrong": []
+      "wrong": [
+        "q1171"
+      ]
     },
     {
       "round_id": 10,
@@ -215,24 +241,12 @@
       "closed": false,
       "voided": false,
       "status": "open",
-      "submitted_at": "2026-08-31T14:31:03.737Z",
-      "reason": null,
-      "attempts": [
-        {
-          "at": "2026-08-31T14:31:03.737Z",
-          "on_time": true,
-          "counted": true
-        }
-      ],
+      "submitted_at": null,
+      "reason": "no submission",
+      "attempts": [],
       "n_correct": 0,
       "n_questions": 5,
-      "wrong": [
-        "q0392",
-        "q1184",
-        "q0906",
-        "q1597",
-        "q1459"
-      ]
+      "wrong": []
     }
   ]
 }

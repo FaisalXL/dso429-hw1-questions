@@ -1,12 +1,12 @@
 {
-  "student_id": "lucky",
-  "name": "Lucky Luciano",
-  "email_masked": "ca****@gmail.com",
-  "streak": 4,
+  "student_id": "test-40",
+  "name": "Bot 40",
+  "email_masked": "te****@dso429.invalid",
+  "streak": 0,
   "hits": 0,
   "eligible": 0,
   "uptime_pct": 0.0,
-  "train_rounds_hit": 4,
+  "train_rounds_hit": 0,
   "train_rounds": 9,
   "rounds": [
     {
@@ -16,17 +16,11 @@
       "deadline_at": "2026-09-01T20:13:37Z",
       "closed": true,
       "voided": false,
-      "status": "late",
-      "submitted_at": "2026-09-02T00:18:08.442Z",
-      "reason": "late",
-      "attempts": [
-        {
-          "at": "2026-09-02T00:18:08.442Z",
-          "on_time": false,
-          "counted": true
-        }
-      ],
-      "n_correct": 5,
+      "status": "missed",
+      "submitted_at": null,
+      "reason": "no submission",
+      "attempts": [],
+      "n_correct": 0,
       "n_questions": 5,
       "wrong": []
     },
@@ -37,17 +31,11 @@
       "deadline_at": "2026-09-01T21:06:00Z",
       "closed": true,
       "voided": false,
-      "status": "late",
-      "submitted_at": "2026-09-02T00:18:33.174Z",
-      "reason": "late",
-      "attempts": [
-        {
-          "at": "2026-09-02T00:18:33.174Z",
-          "on_time": false,
-          "counted": true
-        }
-      ],
-      "n_correct": 5,
+      "status": "missed",
+      "submitted_at": null,
+      "reason": "no submission",
+      "attempts": [],
+      "n_correct": 0,
       "n_questions": 5,
       "wrong": []
     },
@@ -58,17 +46,11 @@
       "deadline_at": "2026-09-01T22:05:54Z",
       "closed": true,
       "voided": false,
-      "status": "late",
-      "submitted_at": "2026-09-02T00:18:39.076Z",
-      "reason": "late",
-      "attempts": [
-        {
-          "at": "2026-09-02T00:18:39.076Z",
-          "on_time": false,
-          "counted": true
-        }
-      ],
-      "n_correct": 5,
+      "status": "missed",
+      "submitted_at": null,
+      "reason": "no submission",
+      "attempts": [],
+      "n_correct": 0,
       "n_questions": 5,
       "wrong": []
     },
@@ -79,17 +61,11 @@
       "deadline_at": "2026-09-01T23:05:39Z",
       "closed": true,
       "voided": false,
-      "status": "late",
-      "submitted_at": "2026-09-02T00:18:59.832Z",
-      "reason": "late",
-      "attempts": [
-        {
-          "at": "2026-09-02T00:18:59.832Z",
-          "on_time": false,
-          "counted": true
-        }
-      ],
-      "n_correct": 5,
+      "status": "missed",
+      "submitted_at": null,
+      "reason": "no submission",
+      "attempts": [],
+      "n_correct": 0,
       "n_questions": 5,
       "wrong": []
     },
@@ -100,17 +76,11 @@
       "deadline_at": "2026-09-02T00:05:39Z",
       "closed": true,
       "voided": false,
-      "status": "late",
-      "submitted_at": "2026-09-02T00:19:05.645Z",
-      "reason": "late",
-      "attempts": [
-        {
-          "at": "2026-09-02T00:19:05.645Z",
-          "on_time": false,
-          "counted": true
-        }
-      ],
-      "n_correct": 5,
+      "status": "missed",
+      "submitted_at": null,
+      "reason": "no submission",
+      "attempts": [],
+      "n_correct": 0,
       "n_questions": 5,
       "wrong": []
     },
@@ -121,17 +91,11 @@
       "deadline_at": "2026-09-02T01:05:38Z",
       "closed": true,
       "voided": false,
-      "status": "hit",
-      "submitted_at": "2026-09-02T00:19:51.529Z",
-      "reason": null,
-      "attempts": [
-        {
-          "at": "2026-09-02T00:19:51.529Z",
-          "on_time": true,
-          "counted": true
-        }
-      ],
-      "n_correct": 5,
+      "status": "missed",
+      "submitted_at": null,
+      "reason": "no submission",
+      "attempts": [],
+      "n_correct": 0,
       "n_questions": 5,
       "wrong": []
     },
@@ -142,17 +106,11 @@
       "deadline_at": "2026-09-02T02:05:35Z",
       "closed": true,
       "voided": false,
-      "status": "hit",
-      "submitted_at": "2026-09-02T01:05:12.137Z",
-      "reason": null,
-      "attempts": [
-        {
-          "at": "2026-09-02T01:05:12.137Z",
-          "on_time": true,
-          "counted": true
-        }
-      ],
-      "n_correct": 5,
+      "status": "missed",
+      "submitted_at": null,
+      "reason": "no submission",
+      "attempts": [],
+      "n_correct": 0,
       "n_questions": 5,
       "wrong": []
     },
@@ -163,17 +121,11 @@
       "deadline_at": "2026-09-02T03:05:36Z",
       "closed": true,
       "voided": false,
-      "status": "hit",
-      "submitted_at": "2026-09-02T02:33:53.104Z",
-      "reason": null,
-      "attempts": [
-        {
-          "at": "2026-09-02T02:33:53.104Z",
-          "on_time": true,
-          "counted": true
-        }
-      ],
-      "n_correct": 5,
+      "status": "missed",
+      "submitted_at": null,
+      "reason": "no submission",
+      "attempts": [],
+      "n_correct": 0,
       "n_questions": 5,
       "wrong": []
     },
@@ -184,17 +136,11 @@
       "deadline_at": "2026-09-02T04:05:36Z",
       "closed": true,
       "voided": false,
-      "status": "hit",
-      "submitted_at": "2026-09-02T03:12:35.179Z",
-      "reason": null,
-      "attempts": [
-        {
-          "at": "2026-09-02T03:12:35.179Z",
-          "on_time": true,
-          "counted": true
-        }
-      ],
-      "n_correct": 5,
+      "status": "missed",
+      "submitted_at": null,
+      "reason": "no submission",
+      "attempts": [],
+      "n_correct": 0,
       "n_questions": 5,
       "wrong": []
     },
