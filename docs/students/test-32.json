@@ -7,7 +7,7 @@
   "eligible": 0,
   "uptime_pct": 0.0,
   "train_rounds_hit": 0,
-  "train_rounds": 9,
+  "train_rounds": 10,
   "rounds": [
     {
       "round_id": 1,
@@ -173,9 +173,9 @@
       "period": "train",
       "released_at": "2026-09-02T04:00:40Z",
       "deadline_at": "2026-09-02T05:05:40Z",
-      "closed": false,
-      "voided": false,
-      "status": "open",
+      "closed": true,
+      "voided": true,
+      "status": "missed",
       "submitted_at": null,
       "reason": "no submission",
       "attempts": [],
