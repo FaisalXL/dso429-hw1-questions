@@ -24,3 +24,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 5,3,2026-09-01T23:00:39Z,2026-09-02T00:05:39Z,q1151,"A support queue holds 6 billing tickets, 22 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",55.0%,15.0%,70.0%,17.6%
 5,4,2026-09-01T23:00:39Z,2026-09-02T00:05:39Z,q0633,"Quarterly revenue moved from $1,650.00 to $889.00. What is the percentage change?",53.9%,46.1%,-85.6%,-46.1%
 5,5,2026-09-01T23:00:39Z,2026-09-02T00:05:39Z,q1585,"A support queue holds 17 billing tickets, 18 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",70.0%,51.5%,36.0%,34.0%
+6,1,2026-09-02T00:00:38Z,2026-09-02T01:05:38Z,q0548,A retailer sells 490 units at $81.19 each. What is total revenue?,"$40,273.10","$40,595.00","$38,971.20","$39,783.10"
+6,2,2026-09-02T00:00:38Z,2026-09-02T01:05:38Z,q0778,"An investment of $22,000.00 grows at 5% compounded annually. What is its value after 5 years?","$5,500.00","$28,078.19","$27,500.00","$26,741.14"
+6,3,2026-09-02T00:00:38Z,2026-09-02T01:05:38Z,q0614,"An invoice for $6,442.52 is settled at an exchange rate of 1.3165. What is the converted amount?","4,893.67","7,837.33","8,481.58","9,125.83"
+6,4,2026-09-02T00:00:38Z,2026-09-02T01:05:38Z,q0155,A $660.00 marketing budget is split between two channels in the ratio 4:5. What does the first channel receive?,$73.33,$366.67,$528.00,$293.33
+6,5,2026-09-02T00:00:38Z,2026-09-02T01:05:38Z,q1382,A contract signed on 24 October 2026 has a 217-day settlement period. On what date does it settle?,29 May 2027,22 May 2027,30 May 2027,28 June 2027
