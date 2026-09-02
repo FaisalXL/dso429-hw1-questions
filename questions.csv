@@ -79,3 +79,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 16,3,2026-09-02T10:00:23Z,2026-09-02T11:05:23Z,q1202,"An investment of $5,000.00 grows at 7% compounded annually. What is its value after 4 years?","$6,125.22","$1,400.00","$6,400.00","$6,553.98"
 16,4,2026-09-02T10:00:23Z,2026-09-02T11:05:23Z,q0691,"A support queue holds 12 billing tickets, 9 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",40.0%,70.0%,66.7%,30.0%
 16,5,2026-09-02T10:00:23Z,2026-09-02T11:05:23Z,q0787,Quarterly revenue moved from $450.00 to $531.00. What is the percentage change?,15.3%,18.0%,-18.0%,118.0%
+17,1,2026-09-02T11:00:26Z,2026-09-02T12:05:26Z,q1217,Region A had 191 orders averaging $90.00; region B had 182 orders averaging $86.00. What is the overall average order value?,87.95,88.00,88.05,171.95
+17,2,2026-09-02T11:00:26Z,2026-09-02T12:05:26Z,q1655,A contract signed on 23 May 2026 has a 303-day settlement period. On what date does it settle?,22 March 2027,21 April 2027,23 March 2027,15 March 2027
+17,3,2026-09-02T11:00:26Z,2026-09-02T12:05:26Z,q0499,A contract signed on 28 December 2026 has a 84-day settlement period. On what date does it settle?,23 March 2027,21 April 2027,15 March 2027,22 March 2027
+17,4,2026-09-02T11:00:26Z,2026-09-02T12:05:26Z,q0008,Region A had 193 orders averaging $33.00; region B had 78 orders averaging $26.00. What is the overall average order value?,29.50,30.99,43.51,28.01
+17,5,2026-09-02T11:00:26Z,2026-09-02T12:05:26Z,q1554,"An investment of $38,000.00 grows at 14% compounded annually. What is its value after 5 years?","$64,180.49","$73,165.75","$26,600.00","$64,600.00"
