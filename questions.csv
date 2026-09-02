@@ -69,3 +69,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 14,3,2026-09-02T08:00:27Z,2026-09-02T09:05:27Z,q0351,"An investment of $43,000.00 grows at 3% compounded annually. What is its value after 8 years?","$54,471.11","$10,320.00","$52,884.58","$53,320.00"
 14,4,2026-09-02T08:00:27Z,2026-09-02T09:05:27Z,q1166,An item listed at $432.46 is discounted by 10%. What is the sale price?,$422.46,$389.21,$475.71,$43.25
 14,5,2026-09-02T08:00:27Z,2026-09-02T09:05:27Z,q0652,"A monthly headcount series runs 23, 33, 43, 53, 63. If the pattern continues, what is the next value?",63,93,83,73
+15,1,2026-09-02T09:00:27Z,2026-09-02T10:05:27Z,q0823,"Quarterly revenue moved from $4,150.00 to $3,542.00. What is the percentage change?",85.3%,-14.7%,14.7%,-17.2%
+15,2,2026-09-02T09:00:27Z,2026-09-02T10:05:27Z,q0285,A contract signed on 5 March 2026 has a 239-day settlement period. On what date does it settle?,30 October 2026,31 October 2026,29 November 2026,23 October 2026
+15,3,2026-09-02T09:00:27Z,2026-09-02T10:05:27Z,q0395,"Quarterly revenue moved from $1,850.00 to $1,102.00. What is the percentage change?",40.4%,-40.4%,59.6%,-67.9%
+15,4,2026-09-02T09:00:27Z,2026-09-02T10:05:27Z,q1503,A retailer sells 279 units at $34.30 each. What is total revenue?,"$9,569.70","$9,226.70","$9,912.70","$9,848.70"
+15,5,2026-09-02T09:00:27Z,2026-09-02T10:05:27Z,q0066,"Fixed costs are $7,000.00. Each unit sells for $32.00 with a variable cost of $11.00. How many units must be sold to break even?",163 units,333 units,636 units,219 units
