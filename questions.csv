@@ -89,3 +89,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 18,3,2026-09-02T12:00:25Z,2026-09-02T13:05:25Z,q0772,A contract signed on 25 May 2026 has a 376-day settlement period. On what date does it settle?,5 June 2027,29 May 2027,5 July 2027,6 June 2027
 18,4,2026-09-02T12:00:25Z,2026-09-02T13:05:25Z,q0331,Region A had 54 orders averaging $92.00; region B had 68 orders averaging $78.00. What is the overall average order value?,85.00,85.80,151.06,84.20
 18,5,2026-09-02T12:00:25Z,2026-09-02T13:05:25Z,q1518,An item listed at $394.96 is discounted by 25%. What is the sale price?,$296.22,$493.70,$369.96,$98.74
+19,1,2026-09-02T13:00:27Z,2026-09-02T14:05:27Z,q0001,A retailer sells 192 units at $70.26 each. What is total revenue?,"$12,787.32","$13,681.92","$13,489.92","$14,192.52"
+19,2,2026-09-02T13:00:27Z,2026-09-02T14:05:27Z,q0065,"An investment of $26,500.00 grows at 9% compounded annually. What is its value after 6 years?","$14,310.00","$40,810.00","$44,443.15","$40,773.53"
+19,3,2026-09-02T13:00:27Z,2026-09-02T14:05:27Z,q1158,"An invoice for $6,218.63 is settled at an exchange rate of 0.9906. What is the converted amount?","6,782.04","5,538.31","6,160.17","6,277.64"
+19,4,2026-09-02T13:00:27Z,2026-09-02T14:05:27Z,q0304,"An investment of $41,000.00 grows at 13% compounded annually. What is its value after 8 years?","$108,996.21","$83,640.00","$42,640.00","$96,456.82"
+19,5,2026-09-02T13:00:27Z,2026-09-02T14:05:27Z,q0293,"Fixed costs are $26,000.00. Each unit sells for $186.00 with a variable cost of $146.00. How many units must be sold to break even?",650 units,178 units,140 units,78 units
