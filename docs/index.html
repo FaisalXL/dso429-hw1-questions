@@ -163,6 +163,21 @@
     color: var(--ink-faint);
   }
 
+  .live b { font-weight: 600; }
+  .live span {
+    display: block;
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    color: var(--ink-faint);
+  }
+  .live .off { color: var(--ink-faint); font-style: italic; }
+
+  .livenote {
+    font-size: 0.75rem; color: var(--ink-faint); line-height: 1.5;
+    margin: 0.1rem 0 0.9rem;
+  }
+  .livenote b { color: var(--ink); font-weight: 600; }
+
   .streak { font-weight: 600; }
   .streak.zero { color: var(--missed); }
 
@@ -239,12 +254,20 @@
     <span style="opacity:.5"><i style="background:var(--hit);opacity:.42"></i>practice round</span>
   </div>
 
+  <div class="livenote">
+    <b>Live</b> updates every 30 seconds, straight from the submission store — it tells you
+    a pipeline is alive. Everything to its right is <b>scored</b>, and only counts rounds whose
+    deadline has passed, so it lags: a round stays unscored until it closes, because you can
+    replace your answers right up to the deadline.
+  </div>
+
   <div class="scroller">
     <table>
       <thead>
         <tr>
           <th style="width:2.5rem"></th>
           <th>Student</th>
+          <th style="min-width:7.5rem">Live</th>
           <th style="min-width:9rem">Timeline</th>
           <th class="num">Streak</th>
           <th class="num" id="roundsHead">Rounds</th>
@@ -253,7 +276,7 @@
         </tr>
       </thead>
       <tbody id="body">
-        <tr><td colspan="7" class="loading">fetching leaderboard…</td></tr>
+        <tr><td colspan="8" class="loading">fetching leaderboard…</td></tr>
       </tbody>
     </table>
   </div>
@@ -360,7 +383,7 @@ async function toggle(tr, id) {
 
   const row = document.createElement("tr");
   row.className = "detail";
-  row.innerHTML = `<td colspan="7"><div class="panel">loading…</div></td>`;
+  row.innerHTML = `<td colspan="8"><div class="panel">loading…</div></td>`;
   tr.after(row);
 
   try {
@@ -373,12 +396,51 @@ async function toggle(tr, id) {
   }
 }
 
+// The board's scores come from the publish tick, up to 30 minutes apart. This
+// reads the Worker's receipt cache instead -- the same 45-second memo, so a
+// class of 40 polling every 30s still costs Apps Script about two requests a
+// minute. No scores here: the Worker has never seen an answer key.
+const LIVE_URL = "https://dso429-hw1-tick.dso429hw1.workers.dev/live";
+
+function ago(iso) {
+  const s = Math.max(0, Math.round((Date.now() - Date.parse(iso)) / 1000));
+  if (s < 60) return s + "s ago";
+  const m = Math.round(s / 60);
+  return m < 60 ? m + "m ago" : Math.round(m / 60) + "h ago";
+}
+
+async function refreshLive() {
+  const cells = document.querySelectorAll("[data-live]");
+  if (!cells.length) return;
+
+  let d;
+  try {
+    const r = await fetch(LIVE_URL, { cache: "no-store" });
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    d = await r.json();
+    if (!d.ok || !d.students) throw new Error(d.error || "no data");
+  } catch (e) {
+    // Say it is unreachable rather than leaving the last value on screen. A
+    // stale "round 7 · 20s ago" that never moves is worse than an honest gap.
+    cells.forEach(td => { td.innerHTML = `<span class="off">feed down</span>`; });
+    return;
+  }
+
+  cells.forEach(td => {
+    const v = d.students[td.dataset.live];
+    td.innerHTML = (v && v.last_seen)
+      ? `<b>round ${v.latest_round === null ? "—" : v.latest_round}</b>` +
+        `<span>${ago(v.last_seen)}</span>`
+      : `<span class="off">nothing yet</span>`;
+  });
+}
+
 async function render() {
   let d;
   try { d = await load(); }
   catch (e) {
     document.getElementById("body").innerHTML =
-      `<tr><td colspan="7" class="loading">could not load leaderboard.json — ${e.message}</td></tr>`;
+      `<tr><td colspan="8" class="loading">could not load leaderboard.json — ${e.message}</td></tr>`;
     return;
   }
   renderMeta(d);
@@ -391,6 +453,7 @@ async function render() {
     <tr class="row" tabindex="0" data-id="${s.student_id}">
       <td class="rank">${i + 1}</td>
       <td class="who"><b>${s.name}</b><span>${s.email_masked}</span></td>
+      <td class="live" data-live="${s.student_id}"><span class="off">…</span></td>
       <td><div class="strip">${details[i] ? strip(details[i].rounds) : ""}</div></td>
       <td class="num streak ${s.streak === 0 ? "zero" : ""}">${s.streak}</td>
       <td class="num">${s.eligible > 0 ? `${s.hits}/${s.eligible}`
@@ -406,12 +469,17 @@ async function render() {
   });
 
   document.getElementById("foot").textContent =
-    `Click any row for a round-by-round breakdown. Refreshes automatically every 60 seconds. `
-    + `Streak counts consecutive most-recent rounds submitted on time.`;
+    `Click any row for a round-by-round breakdown. Live updates every 30 seconds; `
+    + `scores every 60. Streak counts consecutive most-recent rounds submitted on time.`;
+
+  // render() rebuilds the tbody, which throws away the live cells with it.
+  // Repopulate them immediately rather than showing a placeholder for 30s.
+  refreshLive();
 }
 
 render();
 setInterval(render, 60000);
+setInterval(refreshLive, 30000);
 </script>
 </body>
 </html>
