@@ -229,3 +229,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 46,3,2026-09-03T16:00:23Z,2026-09-03T17:05:23Z,q0487,A contract signed on 28 September 2026 has a 27-day settlement period. On what date does it settle?,26 October 2026,24 November 2026,18 October 2026,25 October 2026
 46,4,2026-09-03T16:00:23Z,2026-09-03T17:05:23Z,q0192,"A support queue holds 24 billing tickets, 11 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",120.0%,79.5%,25.0%,54.5%
 46,5,2026-09-03T16:00:23Z,2026-09-03T17:05:23Z,q0247,An invoice for $501.76 is settled at an exchange rate of 1.4974. What is the converted amount?,751.34,801.51,701.16,335.09
+47,1,2026-09-03T17:00:31Z,2026-09-03T18:05:31Z,q1254,"A monthly headcount series runs 24, 40, 56, 72, 88. If the pattern continues, what is the next value?",120,136,88,104
+47,2,2026-09-03T17:00:31Z,2026-09-03T18:05:31Z,q1179,"An investment of $32,000.00 grows at 7% compounded annually. What is its value after 3 years?","$6,720.00","$36,636.80","$38,720.00","$39,201.38"
+47,3,2026-09-03T17:00:31Z,2026-09-03T18:05:31Z,q1003,An item listed at $147.91 is discounted by 40%. What is the sale price?,$207.07,$59.16,$88.75,$107.91
+47,4,2026-09-03T17:00:31Z,2026-09-03T18:05:31Z,q1203,"Fixed costs are $9,500.00. Each unit sells for $181.00 with a variable cost of $55.00. How many units must be sold to break even?",52 units,75 units,173 units,40 units
+47,5,2026-09-03T17:00:31Z,2026-09-03T18:05:31Z,q1390,"An invoice for $3,667.10 is settled at an exchange rate of 0.7609. What is the converted amount?","4,819.42","2,790.30","3,157.01","2,423.59"
