@@ -199,3 +199,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 40,3,2026-09-03T10:00:22Z,2026-09-03T11:05:22Z,q0135,"A product line generates $5,750.00 in revenue against $3,955.52 in cost of goods sold. What is the gross margin?",68.8%,18.5%,45.4%,31.2%
 40,4,2026-09-03T10:00:22Z,2026-09-03T11:05:22Z,q0218,"Quarterly revenue moved from $4,750.00 to $6,633.00. What is the percentage change?",28.4%,39.6%,-39.6%,139.6%
 40,5,2026-09-03T10:00:22Z,2026-09-03T11:05:22Z,q1247,"Quarterly revenue moved from $3,500.00 to $4,860.00. What is the percentage change?",28.0%,138.9%,-38.9%,38.9%
+41,1,2026-09-03T11:00:24Z,2026-09-03T12:05:24Z,q1623,"Quarterly revenue moved from $4,350.00 to $3,838.00. What is the percentage change?",-11.8%,-13.3%,11.8%,88.2%
+41,2,2026-09-03T11:00:24Z,2026-09-03T12:05:24Z,q0459,"Fixed costs are $18,000.00. Each unit sells for $150.00 with a variable cost of $66.00. How many units must be sold to break even?",273 units,120 units,214 units,83 units
+41,3,2026-09-03T11:00:24Z,2026-09-03T12:05:24Z,q1603,"Fixed costs are $9,500.00. Each unit sells for $78.00 with a variable cost of $20.00. How many units must be sold to break even?",475 units,97 units,122 units,164 units
+41,4,2026-09-03T11:00:24Z,2026-09-03T12:05:24Z,q0084,"A support queue holds 21 billing tickets, 13 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",79.1%,95.5%,48.8%,30.2%
+41,5,2026-09-03T11:00:24Z,2026-09-03T12:05:24Z,q1602,"An investment of $29,000.00 grows at 10% compounded annually. What is its value after 5 years?","$14,500.00","$46,704.79","$43,500.00","$42,458.90"
