@@ -194,3 +194,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 39,3,2026-09-03T09:00:26Z,2026-09-03T10:05:26Z,q0563,An item listed at $729.17 is discounted by 5%. What is the sale price?,$765.63,$36.46,$692.71,$724.17
 39,4,2026-09-03T09:00:26Z,2026-09-03T10:05:26Z,q0025,A retailer sells 894 units at $21.65 each. What is total revenue?,"$19,571.60","$19,355.10","$20,249.10","$19,138.60"
 39,5,2026-09-03T09:00:26Z,2026-09-03T10:05:26Z,q0002,"Quarterly revenue moved from $1,000.00 to $799.00. What is the percentage change?",79.9%,-20.1%,20.1%,-25.2%
+40,1,2026-09-03T10:00:22Z,2026-09-03T11:05:22Z,q1285,"Fixed costs are $13,500.00. Each unit sells for $161.00 with a variable cost of $84.00. How many units must be sold to break even?",175 units,84 units,55 units,161 units
+40,2,2026-09-03T10:00:22Z,2026-09-03T11:05:22Z,q0510,"A monthly headcount series runs 4, 9, 14, 19, 24. If the pattern continues, what is the next value?",29,39,34,24
+40,3,2026-09-03T10:00:22Z,2026-09-03T11:05:22Z,q0135,"A product line generates $5,750.00 in revenue against $3,955.52 in cost of goods sold. What is the gross margin?",68.8%,18.5%,45.4%,31.2%
+40,4,2026-09-03T10:00:22Z,2026-09-03T11:05:22Z,q0218,"Quarterly revenue moved from $4,750.00 to $6,633.00. What is the percentage change?",28.4%,39.6%,-39.6%,139.6%
+40,5,2026-09-03T10:00:22Z,2026-09-03T11:05:22Z,q1247,"Quarterly revenue moved from $3,500.00 to $4,860.00. What is the percentage change?",28.0%,138.9%,-38.9%,38.9%
