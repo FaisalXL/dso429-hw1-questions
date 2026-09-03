@@ -179,3 +179,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 36,3,2026-09-03T06:00:24Z,2026-09-03T07:05:24Z,q0660,"An investment of $47,500.00 grows at 9% compounded annually. What is its value after 2 years?","$51,775.00","$8,550.00","$56,434.75","$56,050.00"
 36,4,2026-09-03T06:00:24Z,2026-09-03T07:05:24Z,q0243,"A product line generates $24,750.00 in revenue against $14,886.85 in cost of goods sold. What is the gross margin?",66.3%,24.9%,39.9%,60.1%
 36,5,2026-09-03T06:00:24Z,2026-09-03T07:05:24Z,q0926,"A monthly headcount series runs 18, 26, 34, 42, 50. If the pattern continues, what is the next value?",58,50,74,66
+37,1,2026-09-03T07:00:27Z,2026-09-03T08:05:27Z,q1034,A retailer sells 903 units at $6.06 each. What is total revenue?,"$5,472.18","$5,532.78","$6,375.18","$5,411.58"
+37,2,2026-09-03T07:00:27Z,2026-09-03T08:05:27Z,q0601,"Fixed costs are $69,500.00. Each unit sells for $191.00 with a variable cost of $94.00. How many units must be sold to break even?",716 units,364 units,244 units,739 units
+37,3,2026-09-03T07:00:27Z,2026-09-03T08:05:27Z,q0406,A retailer sells 979 units at $15.42 each. What is total revenue?,"$15,096.18","$15,250.38","$14,941.98","$16,075.18"
+37,4,2026-09-03T07:00:27Z,2026-09-03T08:05:27Z,q0238,A contract signed on 14 November 2026 has a 341-day settlement period. On what date does it settle?,21 October 2027,22 October 2027,14 October 2027,20 November 2027
+37,5,2026-09-03T07:00:27Z,2026-09-03T08:05:27Z,q1086,"Fixed costs are $79,500.00. Each unit sells for $49.00 with a variable cost of $20.00. How many units must be sold to break even?","1,152 units","3,975 units","1,622 units","2,741 units"
