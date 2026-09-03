@@ -184,3 +184,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 37,3,2026-09-03T07:00:27Z,2026-09-03T08:05:27Z,q0406,A retailer sells 979 units at $15.42 each. What is total revenue?,"$15,096.18","$15,250.38","$14,941.98","$16,075.18"
 37,4,2026-09-03T07:00:27Z,2026-09-03T08:05:27Z,q0238,A contract signed on 14 November 2026 has a 341-day settlement period. On what date does it settle?,21 October 2027,22 October 2027,14 October 2027,20 November 2027
 37,5,2026-09-03T07:00:27Z,2026-09-03T08:05:27Z,q1086,"Fixed costs are $79,500.00. Each unit sells for $49.00 with a variable cost of $20.00. How many units must be sold to break even?","1,152 units","3,975 units","1,622 units","2,741 units"
+38,1,2026-09-03T08:00:27Z,2026-09-03T09:05:27Z,q0844,"A $7,680.00 marketing budget is split between two channels in the ratio 4:3. What does the first channel receive?","$4,388.57","$3,291.43","$1,097.14","$10,240.00"
+38,2,2026-09-03T08:00:27Z,2026-09-03T09:05:27Z,q0512,"A $8,760.00 marketing budget is split between two channels in the ratio 2:6. What does the first channel receive?","$2,920.00","$2,190.00","$6,570.00","$1,095.00"
+38,3,2026-09-03T08:00:27Z,2026-09-03T09:05:27Z,q0991,"A product line generates $58,250.00 in revenue against $43,042.27 in cost of goods sold. What is the gross margin?",15.0%,73.9%,26.1%,35.3%
+38,4,2026-09-03T08:00:27Z,2026-09-03T09:05:27Z,q1127,"A $1,110.00 marketing budget is split between two channels in the ratio 4:5. What does the first channel receive?",$888.00,$493.33,$616.67,$123.33
+38,5,2026-09-03T08:00:27Z,2026-09-03T09:05:27Z,q0492,"A product line generates $6,000.00 in revenue against $3,485.21 in cost of goods sold. What is the gross margin?",26.5%,41.9%,72.2%,58.1%
