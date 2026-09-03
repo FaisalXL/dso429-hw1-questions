@@ -1120,11 +1120,16 @@
       "closed": false,
       "voided": false,
       "status": "open",
-      "submitted_at": "2026-09-03T20:15:25.158Z",
+      "submitted_at": "2026-09-03T20:30:21.881Z",
       "reason": null,
       "attempts": [
         {
           "at": "2026-09-03T20:15:25.158Z",
+          "on_time": true,
+          "counted": false
+        },
+        {
+          "at": "2026-09-03T20:30:21.881Z",
           "on_time": true,
           "counted": true
         }
