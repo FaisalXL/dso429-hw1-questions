@@ -189,3 +189,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 38,3,2026-09-03T08:00:27Z,2026-09-03T09:05:27Z,q0991,"A product line generates $58,250.00 in revenue against $43,042.27 in cost of goods sold. What is the gross margin?",15.0%,73.9%,26.1%,35.3%
 38,4,2026-09-03T08:00:27Z,2026-09-03T09:05:27Z,q1127,"A $1,110.00 marketing budget is split between two channels in the ratio 4:5. What does the first channel receive?",$888.00,$493.33,$616.67,$123.33
 38,5,2026-09-03T08:00:27Z,2026-09-03T09:05:27Z,q0492,"A product line generates $6,000.00 in revenue against $3,485.21 in cost of goods sold. What is the gross margin?",26.5%,41.9%,72.2%,58.1%
+39,1,2026-09-03T09:00:26Z,2026-09-03T10:05:26Z,q0287,"A support queue holds 10 billing tickets, 14 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",43.5%,30.3%,72.7%,42.4%
+39,2,2026-09-03T09:00:26Z,2026-09-03T10:05:26Z,q1447,An item listed at $250.30 is discounted by 40%. What is the sale price?,$350.42,$210.30,$150.18,$100.12
+39,3,2026-09-03T09:00:26Z,2026-09-03T10:05:26Z,q0563,An item listed at $729.17 is discounted by 5%. What is the sale price?,$765.63,$36.46,$692.71,$724.17
+39,4,2026-09-03T09:00:26Z,2026-09-03T10:05:26Z,q0025,A retailer sells 894 units at $21.65 each. What is total revenue?,"$19,571.60","$19,355.10","$20,249.10","$19,138.60"
+39,5,2026-09-03T09:00:26Z,2026-09-03T10:05:26Z,q0002,"Quarterly revenue moved from $1,000.00 to $799.00. What is the percentage change?",79.9%,-20.1%,20.1%,-25.2%
