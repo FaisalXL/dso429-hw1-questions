@@ -259,3 +259,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 52,3,2026-09-03T22:00:25Z,2026-09-03T23:05:25Z,q0051,"A product line generates $27,250.00 in revenue against $14,740.74 in cost of goods sold. What is the gross margin?",45.9%,84.9%,54.1%,29.8%
 52,4,2026-09-03T22:00:25Z,2026-09-03T23:05:25Z,q1404,"A monthly headcount series runs 19, 34, 49, 64, 79. If the pattern continues, what is the next value?",124,94,109,79
 52,5,2026-09-03T22:00:25Z,2026-09-03T23:05:25Z,q0270,"Fixed costs are $49,500.00. Each unit sells for $174.00 with a variable cost of $77.00. How many units must be sold to break even?",197 units,284 units,510 units,643 units
+53,1,2026-09-03T23:00:25Z,2026-09-04T00:05:25Z,q1454,"A support queue holds 4 billing tickets, 16 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",14.3%,16.7%,57.1%,71.4%
+53,2,2026-09-03T23:00:25Z,2026-09-04T00:05:25Z,q0625,"Fixed costs are $14,500.00. Each unit sells for $47.00 with a variable cost of $23.00. How many units must be sold to break even?",207 units,604 units,309 units,630 units
+53,3,2026-09-03T23:00:25Z,2026-09-04T00:05:25Z,q0399,"Fixed costs are $11,000.00. Each unit sells for $182.00 with a variable cost of $65.00. How many units must be sold to break even?",60 units,45 units,94 units,169 units
+53,4,2026-09-03T23:00:25Z,2026-09-04T00:05:25Z,q0136,An item listed at $634.94 is discounted by 30%. What is the sale price?,$825.42,$604.94,$190.48,$444.46
+53,5,2026-09-03T23:00:25Z,2026-09-04T00:05:25Z,q0708,"Fixed costs are $33,500.00. Each unit sells for $147.00 with a variable cost of $78.00. How many units must be sold to break even?",228 units,149 units,429 units,486 units
