@@ -174,3 +174,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 35,3,2026-09-03T05:00:24Z,2026-09-03T06:05:24Z,q1593,Region A had 42 orders averaging $76.00; region B had 136 orders averaging $21.00. What is the overall average order value?,48.50,63.02,33.98,44.47
 35,4,2026-09-03T05:00:24Z,2026-09-03T06:05:24Z,q1498,Region A had 84 orders averaging $77.00; region B had 117 orders averaging $33.00. What is the overall average order value?,55.00,51.39,58.61,88.28
 35,5,2026-09-03T05:00:24Z,2026-09-03T06:05:24Z,q0106,A contract signed on 25 May 2026 has a 154-day settlement period. On what date does it settle?,26 October 2026,27 October 2026,25 November 2026,19 October 2026
+36,1,2026-09-03T06:00:24Z,2026-09-03T07:05:24Z,q0478,A retailer sells 887 units at $44.14 each. What is total revenue?,"$39,152.18","$39,593.58","$38,710.78","$40,039.18"
+36,2,2026-09-03T06:00:24Z,2026-09-03T07:05:24Z,q0088,An item listed at $198.14 is discounted by 40%. What is the sale price?,$79.26,$118.88,$277.40,$158.14
+36,3,2026-09-03T06:00:24Z,2026-09-03T07:05:24Z,q0660,"An investment of $47,500.00 grows at 9% compounded annually. What is its value after 2 years?","$51,775.00","$8,550.00","$56,434.75","$56,050.00"
+36,4,2026-09-03T06:00:24Z,2026-09-03T07:05:24Z,q0243,"A product line generates $24,750.00 in revenue against $14,886.85 in cost of goods sold. What is the gross margin?",66.3%,24.9%,39.9%,60.1%
+36,5,2026-09-03T06:00:24Z,2026-09-03T07:05:24Z,q0926,"A monthly headcount series runs 18, 26, 34, 42, 50. If the pattern continues, what is the next value?",58,50,74,66
