@@ -214,3 +214,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 43,3,2026-09-03T13:00:33Z,2026-09-03T14:05:33Z,q0404,"A $8,040.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$1,148.57","$3,445.71","$4,594.29","$6,030.00"
 43,4,2026-09-03T13:00:33Z,2026-09-03T14:05:33Z,q1035,"Quarterly revenue moved from $1,250.00 to $757.00. What is the percentage change?",39.4%,60.6%,-65.1%,-39.4%
 43,5,2026-09-03T13:00:33Z,2026-09-03T14:05:33Z,q0532,Region A had 38 orders averaging $86.00; region B had 62 orders averaging $70.00. What is the overall average order value?,79.92,76.08,78.00,122.71
+44,1,2026-09-03T14:00:34Z,2026-09-03T15:05:34Z,q1393,A contract signed on 3 January 2026 has a 316-day settlement period. On what date does it settle?,16 November 2026,15 December 2026,15 November 2026,8 November 2026
+44,2,2026-09-03T14:00:34Z,2026-09-03T15:05:34Z,q0560,A retailer sells 877 units at $24.59 each. What is total revenue?,"$21,811.33","$22,442.43","$21,319.53","$21,565.43"
+44,3,2026-09-03T14:00:34Z,2026-09-03T15:05:34Z,q0334,"A $7,620.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$1,270.00","$2,540.00","$15,240.00","$5,080.00"
+44,4,2026-09-03T14:00:34Z,2026-09-03T15:05:34Z,q0816,"An invoice for $5,374.81 is settled at an exchange rate of 1.0093. What is the converted amount?","5,962.28","5,325.28","5,424.80","4,887.31"
+44,5,2026-09-03T14:00:34Z,2026-09-03T15:05:34Z,q0799,"Quarterly revenue moved from $4,400.00 to $2,900.00. What is the percentage change?",-34.1%,-51.7%,34.1%,65.9%
