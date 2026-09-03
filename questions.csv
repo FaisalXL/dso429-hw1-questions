@@ -224,3 +224,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 45,3,2026-09-03T15:00:24Z,2026-09-03T16:05:24Z,q0607,"A support queue holds 5 billing tickets, 4 technical tickets and 3 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",71.4%,33.3%,75.0%,41.7%
 45,4,2026-09-03T15:00:24Z,2026-09-03T16:05:24Z,q0344,"A monthly headcount series runs 36, 40, 44, 48, 52. If the pattern continues, what is the next value?",52,64,60,56
 45,5,2026-09-03T15:00:24Z,2026-09-03T16:05:24Z,q0269,"An investment of $28,000.00 grows at 12% compounded annually. What is its value after 2 years?","$31,360.00","$34,720.00","$6,720.00","$35,123.20"
+46,1,2026-09-03T16:00:23Z,2026-09-03T17:05:23Z,q0967,"A product line generates $38,000.00 in revenue against $18,048.43 in cost of goods sold. What is the gross margin?",47.5%,110.5%,52.5%,35.6%
+46,2,2026-09-03T16:00:23Z,2026-09-03T17:05:23Z,q1652,"An invoice for $7,977.36 is settled at an exchange rate of 0.6132. What is the converted amount?","5,689.45","13,009.39","4,891.72","4,093.98"
+46,3,2026-09-03T16:00:23Z,2026-09-03T17:05:23Z,q0487,A contract signed on 28 September 2026 has a 27-day settlement period. On what date does it settle?,26 October 2026,24 November 2026,18 October 2026,25 October 2026
+46,4,2026-09-03T16:00:23Z,2026-09-03T17:05:23Z,q0192,"A support queue holds 24 billing tickets, 11 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",120.0%,79.5%,25.0%,54.5%
+46,5,2026-09-03T16:00:23Z,2026-09-03T17:05:23Z,q0247,An invoice for $501.76 is settled at an exchange rate of 1.4974. What is the converted amount?,751.34,801.51,701.16,335.09
