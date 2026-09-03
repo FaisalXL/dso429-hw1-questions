@@ -149,3 +149,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 30,3,2026-09-03T00:00:25Z,2026-09-03T01:05:25Z,q0012,"A support queue holds 21 billing tickets, 9 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",51.2%,73.2%,105.0%,22.0%
 30,4,2026-09-03T00:00:25Z,2026-09-03T01:05:25Z,q0670,"A product line generates $23,250.00 in revenue against $14,871.64 in cost of goods sold. What is the gross margin?",22.0%,64.0%,36.0%,56.3%
 30,5,2026-09-03T00:00:25Z,2026-09-03T01:05:25Z,q0182,"Quarterly revenue moved from $3,400.00 to $2,460.00. What is the percentage change?",-27.6%,27.6%,-38.2%,72.4%
+31,1,2026-09-03T01:02:08Z,2026-09-03T02:07:08Z,q1440,"A monthly headcount series runs 34, 39, 44, 49, 54. If the pattern continues, what is the next value?",69,59,54,64
+31,2,2026-09-03T01:02:08Z,2026-09-03T02:07:08Z,q1026,An item listed at $51.48 is discounted by 45%. What is the sale price?,$74.65,$28.31,$23.17,$6.48
+31,3,2026-09-03T01:02:08Z,2026-09-03T02:07:08Z,q0887,"Fixed costs are $30,000.00. Each unit sells for $198.00 with a variable cost of $47.00. How many units must be sold to break even?",152 units,199 units,638 units,122 units
+31,4,2026-09-03T01:02:08Z,2026-09-03T02:07:08Z,q0933,An item listed at $466.06 is discounted by 10%. What is the sale price?,$456.06,$46.61,$512.67,$419.45
+31,5,2026-09-03T01:02:08Z,2026-09-03T02:07:08Z,q1360,"A support queue holds 24 billing tickets, 15 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",83.0%,51.1%,31.9%,104.3%
