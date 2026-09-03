@@ -254,3 +254,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 51,3,2026-09-03T21:00:27Z,2026-09-03T22:05:27Z,q0213,"A monthly headcount series runs 10, 22, 34, 46, 58. If the pattern continues, what is the next value?",82,58,94,70
 51,4,2026-09-03T21:00:27Z,2026-09-03T22:05:27Z,q1229,Region A had 22 orders averaging $57.00; region B had 193 orders averaging $65.00. What is the overall average order value?,61.00,64.18,71.50,57.82
 51,5,2026-09-03T21:00:27Z,2026-09-03T22:05:27Z,q0698,Region A had 43 orders averaging $49.00; region B had 71 orders averaging $31.00. What is the overall average order value?,42.21,40.00,60.68,37.79
+52,1,2026-09-03T22:00:25Z,2026-09-03T23:05:25Z,q0445,An item listed at $456.34 is discounted by 35%. What is the sale price?,$421.34,$296.62,$159.72,$616.06
+52,2,2026-09-03T22:00:25Z,2026-09-03T23:05:25Z,q0175,"An invoice for $3,300.55 is settled at an exchange rate of 1.4561. What is the converted amount?","4,805.93","2,266.71","5,135.99","4,475.88"
+52,3,2026-09-03T22:00:25Z,2026-09-03T23:05:25Z,q0051,"A product line generates $27,250.00 in revenue against $14,740.74 in cost of goods sold. What is the gross margin?",45.9%,84.9%,54.1%,29.8%
+52,4,2026-09-03T22:00:25Z,2026-09-03T23:05:25Z,q1404,"A monthly headcount series runs 19, 34, 49, 64, 79. If the pattern continues, what is the next value?",124,94,109,79
+52,5,2026-09-03T22:00:25Z,2026-09-03T23:05:25Z,q0270,"Fixed costs are $49,500.00. Each unit sells for $174.00 with a variable cost of $77.00. How many units must be sold to break even?",197 units,284 units,510 units,643 units
