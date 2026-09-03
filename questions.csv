@@ -204,3 +204,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 41,3,2026-09-03T11:00:24Z,2026-09-03T12:05:24Z,q1603,"Fixed costs are $9,500.00. Each unit sells for $78.00 with a variable cost of $20.00. How many units must be sold to break even?",475 units,97 units,122 units,164 units
 41,4,2026-09-03T11:00:24Z,2026-09-03T12:05:24Z,q0084,"A support queue holds 21 billing tickets, 13 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",79.1%,95.5%,48.8%,30.2%
 41,5,2026-09-03T11:00:24Z,2026-09-03T12:05:24Z,q1602,"An investment of $29,000.00 grows at 10% compounded annually. What is its value after 5 years?","$14,500.00","$46,704.79","$43,500.00","$42,458.90"
+42,1,2026-09-03T12:00:32Z,2026-09-03T13:05:32Z,q1264,"An invoice for $1,978.23 is settled at an exchange rate of 0.8490. What is the converted amount?","2,330.07","1,679.52","1,877.34","1,481.69"
+42,2,2026-09-03T12:00:32Z,2026-09-03T13:05:32Z,q0220,An item listed at $742.87 is discounted by 25%. What is the sale price?,$717.87,$928.59,$185.72,$557.15
+42,3,2026-09-03T12:00:32Z,2026-09-03T13:05:32Z,q1084,An item listed at $181.61 is discounted by 25%. What is the sale price?,$136.21,$227.01,$45.40,$156.61
+42,4,2026-09-03T12:00:32Z,2026-09-03T13:05:32Z,q1470,An item listed at $734.19 is discounted by 15%. What is the sale price?,$844.32,$110.13,$719.19,$624.06
+42,5,2026-09-03T12:00:32Z,2026-09-03T13:05:32Z,q0905,"A support queue holds 19 billing tickets, 4 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",60.5%,50.0%,10.5%,100.0%
