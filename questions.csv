@@ -159,3 +159,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 32,3,2026-09-03T02:00:23Z,2026-09-03T03:05:23Z,q1180,"Fixed costs are $45,000.00. Each unit sells for $118.00 with a variable cost of $60.00. How many units must be sold to break even?",253 units,776 units,750 units,381 units
 32,4,2026-09-03T02:00:23Z,2026-09-03T03:05:23Z,q1071,"Quarterly revenue moved from $3,350.00 to $2,902.00. What is the percentage change?",-15.4%,-13.4%,13.4%,86.6%
 32,5,2026-09-03T02:00:23Z,2026-09-03T03:05:23Z,q0535,"A support queue holds 4 billing tickets, 18 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",50.0%,12.5%,11.1%,61.1%
+33,1,2026-09-03T03:00:23Z,2026-09-03T04:05:23Z,q0912,"An invoice for $1,705.11 is settled at an exchange rate of 1.0406. What is the converted amount?","1,603.83","1,774.34","1,638.58","1,944.85"
+33,2,2026-09-03T03:00:23Z,2026-09-03T04:05:23Z,q1534,"A monthly headcount series runs 35, 47, 59, 71, 83. If the pattern continues, what is the next value?",107,83,119,95
+33,3,2026-09-03T03:00:23Z,2026-09-03T04:05:23Z,q1493,"A product line generates $88,500.00 in revenue against $71,665.88 in cost of goods sold. What is the gross margin?",19.0%,81.0%,10.5%,23.5%
+33,4,2026-09-03T03:00:23Z,2026-09-03T04:05:23Z,q1005,"Fixed costs are $59,500.00. Each unit sells for $148.00 with a variable cost of $61.00. How many units must be sold to break even?",684 units,975 units,285 units,402 units
+33,5,2026-09-03T03:00:23Z,2026-09-03T04:05:23Z,q1453,"A $1,320.00 marketing budget is split between two channels in the ratio 3:5. What does the first channel receive?",$825.00,$792.00,$165.00,$495.00
