@@ -239,3 +239,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 48,3,2026-09-03T18:00:33Z,2026-09-03T19:05:33Z,q0546,"A $6,570.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$2,628.00","$3,942.00","$1,314.00","$9,855.00"
 48,4,2026-09-03T18:00:33Z,2026-09-03T19:05:33Z,q1553,An item listed at $247.88 is discounted by 25%. What is the sale price?,$222.88,$185.91,$309.85,$61.97
 48,5,2026-09-03T18:00:33Z,2026-09-03T19:05:33Z,q1368,Region A had 156 orders averaging $88.00; region B had 20 orders averaging $33.00. What is the overall average order value?,60.50,39.25,92.23,81.75
+49,1,2026-09-03T19:00:29Z,2026-09-03T20:05:29Z,q0303,An item listed at $280.35 is discounted by 5%. What is the sale price?,$266.33,$14.02,$275.35,$294.37
+49,2,2026-09-03T19:00:29Z,2026-09-03T20:05:29Z,q0231,"A product line generates $11,250.00 in revenue against $7,126.50 in cost of goods sold. What is the gross margin?",22.4%,57.9%,63.3%,36.7%
+49,3,2026-09-03T19:00:29Z,2026-09-03T20:05:29Z,q0648,"An investment of $15,500.00 grows at 6% compounded annually. What is its value after 3 years?","$18,460.75","$18,290.00","$17,415.80","$2,790.00"
+49,4,2026-09-03T19:00:29Z,2026-09-03T20:05:29Z,q0522,A contract signed on 7 November 2026 has a 129-day settlement period. On what date does it settle?,17 March 2027,9 March 2027,15 April 2027,16 March 2027
+49,5,2026-09-03T19:00:29Z,2026-09-03T20:05:29Z,q1355,"Fixed costs are $8,500.00. Each unit sells for $66.00 with a variable cost of $16.00. How many units must be sold to break even?",104 units,531 units,170 units,129 units
