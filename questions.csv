@@ -249,3 +249,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 50,3,2026-09-03T20:00:25Z,2026-09-03T21:05:25Z,q1599,"Quarterly revenue moved from $1,300.00 to $1,853.00. What is the percentage change?",-42.5%,142.5%,29.8%,42.5%
 50,4,2026-09-03T20:00:25Z,2026-09-03T21:05:25Z,q0198,"Fixed costs are $7,000.00. Each unit sells for $189.00 with a variable cost of $116.00. How many units must be sold to break even?",37 units,23 units,60 units,96 units
 50,5,2026-09-03T20:00:25Z,2026-09-03T21:05:25Z,q1210,A retailer sells 744 units at $15.02 each. What is total revenue?,"$11,325.08","$11,918.88","$11,174.88","$11,024.68"
+51,1,2026-09-03T21:00:27Z,2026-09-03T22:05:27Z,q1301,A contract signed on 3 June 2026 has a 353-day settlement period. On what date does it settle?,23 May 2027,21 June 2027,15 May 2027,22 May 2027
+51,2,2026-09-03T21:00:27Z,2026-09-03T22:05:27Z,q1224,"A product line generates $60,500.00 in revenue against $49,515.08 in cost of goods sold. What is the gross margin?",81.8%,10.0%,22.2%,18.2%
+51,3,2026-09-03T21:00:27Z,2026-09-03T22:05:27Z,q0213,"A monthly headcount series runs 10, 22, 34, 46, 58. If the pattern continues, what is the next value?",82,58,94,70
+51,4,2026-09-03T21:00:27Z,2026-09-03T22:05:27Z,q1229,Region A had 22 orders averaging $57.00; region B had 193 orders averaging $65.00. What is the overall average order value?,61.00,64.18,71.50,57.82
+51,5,2026-09-03T21:00:27Z,2026-09-03T22:05:27Z,q0698,Region A had 43 orders averaging $49.00; region B had 71 orders averaging $31.00. What is the overall average order value?,42.21,40.00,60.68,37.79
