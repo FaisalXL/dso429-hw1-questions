@@ -234,3 +234,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 47,3,2026-09-03T17:00:31Z,2026-09-03T18:05:31Z,q1003,An item listed at $147.91 is discounted by 40%. What is the sale price?,$207.07,$59.16,$88.75,$107.91
 47,4,2026-09-03T17:00:31Z,2026-09-03T18:05:31Z,q1203,"Fixed costs are $9,500.00. Each unit sells for $181.00 with a variable cost of $55.00. How many units must be sold to break even?",52 units,75 units,173 units,40 units
 47,5,2026-09-03T17:00:31Z,2026-09-03T18:05:31Z,q1390,"An invoice for $3,667.10 is settled at an exchange rate of 0.7609. What is the converted amount?","4,819.42","2,790.30","3,157.01","2,423.59"
+48,1,2026-09-03T18:00:33Z,2026-09-03T19:05:33Z,q1520,"Fixed costs are $8,000.00. Each unit sells for $100.00 with a variable cost of $70.00. How many units must be sold to break even?",80 units,267 units,114 units,47 units
+48,2,2026-09-03T18:00:33Z,2026-09-03T19:05:33Z,q0977,A retailer sells 668 units at $8.11 each. What is total revenue?,"$5,498.58","$6,085.48","$5,336.38","$5,417.48"
+48,3,2026-09-03T18:00:33Z,2026-09-03T19:05:33Z,q0546,"A $6,570.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$2,628.00","$3,942.00","$1,314.00","$9,855.00"
+48,4,2026-09-03T18:00:33Z,2026-09-03T19:05:33Z,q1553,An item listed at $247.88 is discounted by 25%. What is the sale price?,$222.88,$185.91,$309.85,$61.97
+48,5,2026-09-03T18:00:33Z,2026-09-03T19:05:33Z,q1368,Region A had 156 orders averaging $88.00; region B had 20 orders averaging $33.00. What is the overall average order value?,60.50,39.25,92.23,81.75
