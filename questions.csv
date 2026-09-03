@@ -244,3 +244,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 49,3,2026-09-03T19:00:29Z,2026-09-03T20:05:29Z,q0648,"An investment of $15,500.00 grows at 6% compounded annually. What is its value after 3 years?","$18,460.75","$18,290.00","$17,415.80","$2,790.00"
 49,4,2026-09-03T19:00:29Z,2026-09-03T20:05:29Z,q0522,A contract signed on 7 November 2026 has a 129-day settlement period. On what date does it settle?,17 March 2027,9 March 2027,15 April 2027,16 March 2027
 49,5,2026-09-03T19:00:29Z,2026-09-03T20:05:29Z,q1355,"Fixed costs are $8,500.00. Each unit sells for $66.00 with a variable cost of $16.00. How many units must be sold to break even?",104 units,531 units,170 units,129 units
+50,1,2026-09-03T20:00:25Z,2026-09-03T21:05:25Z,q0939,A contract signed on 21 October 2026 has a 100-day settlement period. On what date does it settle?,28 February 2027,30 January 2027,22 January 2027,29 January 2027
+50,2,2026-09-03T20:00:25Z,2026-09-03T21:05:25Z,q1038,"An investment of $42,000.00 grows at 4% compounded annually. What is its value after 7 years?","$53,760.00","$53,143.40","$55,269.13","$11,760.00"
+50,3,2026-09-03T20:00:25Z,2026-09-03T21:05:25Z,q1599,"Quarterly revenue moved from $1,300.00 to $1,853.00. What is the percentage change?",-42.5%,142.5%,29.8%,42.5%
+50,4,2026-09-03T20:00:25Z,2026-09-03T21:05:25Z,q0198,"Fixed costs are $7,000.00. Each unit sells for $189.00 with a variable cost of $116.00. How many units must be sold to break even?",37 units,23 units,60 units,96 units
+50,5,2026-09-03T20:00:25Z,2026-09-03T21:05:25Z,q1210,A retailer sells 744 units at $15.02 each. What is total revenue?,"$11,325.08","$11,918.88","$11,174.88","$11,024.68"
