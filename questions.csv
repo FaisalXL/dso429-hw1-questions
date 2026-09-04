@@ -334,3 +334,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 67,3,2026-09-04T13:00:23Z,2026-09-04T14:05:23Z,q1212,"A product line generates $8,000.00 in revenue against $4,909.17 in cost of goods sold. What is the gross margin?",61.4%,38.6%,63.0%,23.9%
 67,4,2026-09-04T13:00:23Z,2026-09-04T14:05:23Z,q1560,"A $6,930.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$2,772.00","$4,158.00","$10,395.00","$1,386.00"
 67,5,2026-09-04T13:00:23Z,2026-09-04T14:05:23Z,q0855,A contract signed on 5 March 2026 has a 78-day settlement period. On what date does it settle?,22 May 2026,21 June 2026,15 May 2026,23 May 2026
+68,1,2026-09-04T14:00:25Z,2026-09-04T15:05:25Z,q0793,Region A had 32 orders averaging $32.00; region B had 56 orders averaging $64.00. What is the overall average order value?,48.00,52.36,82.29,43.64
+68,2,2026-09-04T14:00:25Z,2026-09-04T15:05:25Z,q1333,Region A had 76 orders averaging $77.00; region B had 87 orders averaging $27.00. What is the overall average order value?,53.69,94.26,50.31,52.00
+68,3,2026-09-04T14:00:25Z,2026-09-04T15:05:25Z,q1410,"A product line generates $32,000.00 in revenue against $18,330.06 in cost of goods sold. What is the gross margin?",27.2%,42.7%,74.6%,57.3%
+68,4,2026-09-04T14:00:25Z,2026-09-04T15:05:25Z,q1423,An item listed at $65.38 is discounted by 5%. What is the sale price?,$3.27,$68.65,$62.11,$60.38
+68,5,2026-09-04T14:00:25Z,2026-09-04T15:05:25Z,q0434,"An investment of $45,000.00 grows at 2% compounded annually. What is its value after 2 years?","$46,800.00","$45,900.00","$1,800.00","$46,818.00"
