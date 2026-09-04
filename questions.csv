@@ -369,3 +369,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 74,3,2026-09-04T20:00:30Z,2026-09-04T21:05:30Z,q1659,Quarterly revenue moved from $600.00 to $427.00. What is the percentage change?,-40.5%,71.2%,28.8%,-28.8%
 74,4,2026-09-04T20:00:30Z,2026-09-04T21:05:30Z,q0282,"Fixed costs are $41,500.00. Each unit sells for $113.00 with a variable cost of $70.00. How many units must be sold to break even?",227 units,965 units,593 units,367 units
 74,5,2026-09-04T20:00:30Z,2026-09-04T21:05:30Z,q0035,"A $1,320.00 marketing budget is split between two channels in the ratio 2:5. What does the first channel receive?",$942.86,$528.00,$377.14,$188.57
+75,1,2026-09-04T21:00:22Z,2026-09-04T22:05:22Z,q0712,A contract signed on 18 February 2026 has a 263-day settlement period. On what date does it settle?,8 November 2026,8 December 2026,9 November 2026,1 November 2026
+75,2,2026-09-04T21:00:22Z,2026-09-04T22:05:22Z,q1068,"A $8,970.00 marketing budget is split between two channels in the ratio 2:6. What does the first channel receive?","$1,121.25","$2,990.00","$6,727.50","$2,242.50"
+75,3,2026-09-04T21:00:22Z,2026-09-04T22:05:22Z,q0139,"An invoice for $8,198.57 is settled at an exchange rate of 1.4421. What is the converted amount?","11,003.30","11,823.16","12,643.01","5,685.16"
+75,4,2026-09-04T21:00:22Z,2026-09-04T22:05:22Z,q1164,"Quarterly revenue moved from $4,550.00 to $2,312.00. What is the percentage change?",50.8%,49.2%,-96.8%,-49.2%
+75,5,2026-09-04T21:00:22Z,2026-09-04T22:05:22Z,q1308,"An investment of $19,500.00 grows at 8% compounded annually. What is its value after 4 years?","$6,240.00","$24,564.38","$26,529.53","$25,740.00"
