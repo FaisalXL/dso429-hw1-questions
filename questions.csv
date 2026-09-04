@@ -339,3 +339,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 68,3,2026-09-04T14:00:25Z,2026-09-04T15:05:25Z,q1410,"A product line generates $32,000.00 in revenue against $18,330.06 in cost of goods sold. What is the gross margin?",27.2%,42.7%,74.6%,57.3%
 68,4,2026-09-04T14:00:25Z,2026-09-04T15:05:25Z,q1423,An item listed at $65.38 is discounted by 5%. What is the sale price?,$3.27,$68.65,$62.11,$60.38
 68,5,2026-09-04T14:00:25Z,2026-09-04T15:05:25Z,q0434,"An investment of $45,000.00 grows at 2% compounded annually. What is its value after 2 years?","$46,800.00","$45,900.00","$1,800.00","$46,818.00"
+69,1,2026-09-04T15:00:28Z,2026-09-04T16:05:28Z,q0839,"Fixed costs are $15,500.00. Each unit sells for $133.00 with a variable cost of $78.00. How many units must be sold to break even?",199 units,73 units,117 units,282 units
+69,2,2026-09-04T15:00:28Z,2026-09-04T16:05:28Z,q0021,"A monthly headcount series runs 14, 22, 30, 38, 46. If the pattern continues, what is the next value?",70,54,46,62
+69,3,2026-09-04T15:00:28Z,2026-09-04T16:05:28Z,q1160,A contract signed on 17 April 2026 has a 334-day settlement period. On what date does it settle?,16 April 2027,10 March 2027,17 March 2027,18 March 2027
+69,4,2026-09-04T15:00:28Z,2026-09-04T16:05:28Z,q0150,"Fixed costs are $5,000.00. Each unit sells for $80.00 with a variable cost of $66.00. How many units must be sold to break even?",357 units,34 units,62 units,76 units
+69,5,2026-09-04T15:00:28Z,2026-09-04T16:05:28Z,q0658,"A product line generates $45,250.00 in revenue against $39,686.11 in cost of goods sold. What is the gross margin?",87.7%,14.0%,12.3%,6.6%
