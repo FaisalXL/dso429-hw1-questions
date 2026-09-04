@@ -284,3 +284,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 57,3,2026-09-04T03:01:31Z,2026-09-04T04:06:31Z,q1564,"A product line generates $24,750.00 in revenue against $18,073.09 in cost of goods sold. What is the gross margin?",15.6%,27.0%,73.0%,36.9%
 57,4,2026-09-04T03:01:31Z,2026-09-04T04:06:31Z,q0961,"A monthly headcount series runs 33, 37, 41, 45, 49. If the pattern continues, what is the next value?",49,57,61,53
 57,5,2026-09-04T03:01:31Z,2026-09-04T04:06:31Z,q1183,A contract signed on 2 March 2026 has a 19-day settlement period. On what date does it settle?,21 March 2026,22 March 2026,14 March 2026,20 April 2026
+58,1,2026-09-04T04:00:22Z,2026-09-04T05:05:22Z,q0916,A $600.00 marketing budget is split between two channels in the ratio 2:8. What does the first channel receive?,$150.00,$60.00,$120.00,$480.00
+58,2,2026-09-04T04:00:22Z,2026-09-04T05:05:22Z,q0276,"A support queue holds 17 billing tickets, 15 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",81.0%,44.7%,39.5%,84.2%
+58,3,2026-09-04T04:00:22Z,2026-09-04T05:05:22Z,q0132,"A support queue holds 14 billing tickets, 24 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",33.3%,57.1%,90.5%,50.0%
+58,4,2026-09-04T04:00:22Z,2026-09-04T05:05:22Z,q1496,"Fixed costs are $12,000.00. Each unit sells for $146.00 with a variable cost of $125.00. How many units must be sold to break even?",82 units,96 units,44 units,571 units
+58,5,2026-09-04T04:00:22Z,2026-09-04T05:05:22Z,q0840,"An invoice for $2,887.10 is settled at an exchange rate of 0.9176. What is the converted amount?","2,649.20","3,146.36","2,937.91","2,360.49"
