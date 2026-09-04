@@ -299,3 +299,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 60,3,2026-09-04T06:00:24Z,2026-09-04T07:05:24Z,q0549,Quarterly revenue moved from $600.00 to $719.00. What is the percentage change?,16.6%,-19.8%,19.8%,119.8%
 60,4,2026-09-04T06:00:24Z,2026-09-04T07:05:24Z,q1337,"A support queue holds 21 billing tickets, 6 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",52.5%,15.0%,110.5%,67.5%
 60,5,2026-09-04T06:00:24Z,2026-09-04T07:05:24Z,q1002,"A product line generates $21,000.00 in revenue against $19,005.93 in cost of goods sold. What is the gross margin?",10.5%,5.0%,9.5%,90.5%
+61,1,2026-09-04T07:00:27Z,2026-09-04T08:05:27Z,q0428,A $840.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?,$168.00,$336.00,$560.00,$504.00
+61,2,2026-09-04T07:00:27Z,2026-09-04T08:05:27Z,q0627,Region A had 170 orders averaging $37.00; region B had 91 orders averaging $68.00. What is the overall average order value?,73.40,52.50,47.81,57.19
+61,3,2026-09-04T07:00:27Z,2026-09-04T08:05:27Z,q0143,"A $8,400.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$1,200.00","$6,300.00","$4,800.00","$3,600.00"
+61,4,2026-09-04T07:00:27Z,2026-09-04T08:05:27Z,q0050,"Quarterly revenue moved from $2,100.00 to $2,635.00. What is the percentage change?",125.5%,20.3%,-25.5%,25.5%
+61,5,2026-09-04T07:00:27Z,2026-09-04T08:05:27Z,q0913,Region A had 165 orders averaging $94.00; region B had 27 orders averaging $26.00. What is the overall average order value?,84.44,35.56,98.25,60.00
