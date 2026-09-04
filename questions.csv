@@ -264,3 +264,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 53,3,2026-09-03T23:00:25Z,2026-09-04T00:05:25Z,q0399,"Fixed costs are $11,000.00. Each unit sells for $182.00 with a variable cost of $65.00. How many units must be sold to break even?",60 units,45 units,94 units,169 units
 53,4,2026-09-03T23:00:25Z,2026-09-04T00:05:25Z,q0136,An item listed at $634.94 is discounted by 30%. What is the sale price?,$825.42,$604.94,$190.48,$444.46
 53,5,2026-09-03T23:00:25Z,2026-09-04T00:05:25Z,q0708,"Fixed costs are $33,500.00. Each unit sells for $147.00 with a variable cost of $78.00. How many units must be sold to break even?",228 units,149 units,429 units,486 units
+54,1,2026-09-04T00:00:24Z,2026-09-04T01:05:24Z,q1661,An item listed at $646.10 is discounted by 20%. What is the sale price?,$129.22,$626.10,$516.88,$775.32
+54,2,2026-09-04T00:00:24Z,2026-09-04T01:05:24Z,q0798,A retailer sells 285 units at $86.49 each. What is total revenue?,"$24,934.65","$25,514.55","$23,784.75","$24,649.65"
+54,3,2026-09-04T00:00:24Z,2026-09-04T01:05:24Z,q0831,A contract signed on 15 September 2026 has a 69-day settlement period. On what date does it settle?,24 November 2026,23 November 2026,23 December 2026,16 November 2026
+54,4,2026-09-04T00:00:24Z,2026-09-04T01:05:24Z,q1328,"A product line generates $25,000.00 in revenue against $11,517.14 in cost of goods sold. What is the gross margin?",36.9%,117.1%,46.1%,53.9%
+54,5,2026-09-04T00:00:24Z,2026-09-04T01:05:24Z,q0017,"An investment of $22,500.00 grows at 8% compounded annually. What is its value after 5 years?","$9,000.00","$30,611.00","$31,500.00","$33,059.88"
