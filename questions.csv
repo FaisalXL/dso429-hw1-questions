@@ -359,3 +359,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 72,3,2026-09-04T18:00:21Z,2026-09-04T19:05:21Z,q1656,"A $8,850.00 marketing budget is split between two channels in the ratio 5:3. What does the first channel receive?","$14,750.00","$3,318.75","$5,531.25","$1,106.25"
 72,4,2026-09-04T18:00:21Z,2026-09-04T19:05:21Z,q0053,"An investment of $8,500.00 grows at 4% compounded annually. What is its value after 3 years?","$9,561.34","$1,020.00","$9,193.60","$9,520.00"
 72,5,2026-09-04T18:00:21Z,2026-09-04T19:05:21Z,q0559,"A support queue holds 21 billing tickets, 13 technical tickets and 3 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",91.9%,56.8%,131.2%,35.1%
+73,1,2026-09-04T19:00:24Z,2026-09-04T20:05:24Z,q1036,"A product line generates $53,750.00 in revenue against $35,210.32 in cost of goods sold. What is the gross margin?",20.8%,65.5%,52.7%,34.5%
+73,2,2026-09-04T19:00:24Z,2026-09-04T20:05:24Z,q1091,"A $6,180.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$4,120.00","$2,060.00","$1,030.00","$12,360.00"
+73,3,2026-09-04T19:00:24Z,2026-09-04T20:05:24Z,q0323,"A support queue holds 19 billing tickets, 17 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",37.0%,78.3%,70.4%,41.3%
+73,4,2026-09-04T19:00:24Z,2026-09-04T20:05:24Z,q0858,A retailer sells 199 units at $25.90 each. What is total revenue?,"$5,154.10","$4,895.10","$5,353.10","$5,413.10"
+73,5,2026-09-04T19:00:24Z,2026-09-04T20:05:24Z,q1282,"A product line generates $43,500.00 in revenue against $33,774.01 in cost of goods sold. What is the gross margin?",12.6%,77.6%,28.8%,22.4%
