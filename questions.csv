@@ -269,3 +269,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 54,3,2026-09-04T00:00:24Z,2026-09-04T01:05:24Z,q0831,A contract signed on 15 September 2026 has a 69-day settlement period. On what date does it settle?,24 November 2026,23 November 2026,23 December 2026,16 November 2026
 54,4,2026-09-04T00:00:24Z,2026-09-04T01:05:24Z,q1328,"A product line generates $25,000.00 in revenue against $11,517.14 in cost of goods sold. What is the gross margin?",36.9%,117.1%,46.1%,53.9%
 54,5,2026-09-04T00:00:24Z,2026-09-04T01:05:24Z,q0017,"An investment of $22,500.00 grows at 8% compounded annually. What is its value after 5 years?","$9,000.00","$30,611.00","$31,500.00","$33,059.88"
+55,1,2026-09-04T01:00:28Z,2026-09-04T02:05:28Z,q0073,A retailer sells 319 units at $59.70 each. What is total revenue?,"$18,447.30","$19,363.30","$19,044.30","$19,641.30"
+55,2,2026-09-04T01:00:28Z,2026-09-04T02:05:28Z,q1165,"A product line generates $69,000.00 in revenue against $57,030.63 in cost of goods sold. What is the gross margin?",21.0%,9.5%,17.3%,82.7%
+55,3,2026-09-04T01:00:28Z,2026-09-04T02:05:28Z,q1030,Region A had 106 orders averaging $32.00; region B had 110 orders averaging $26.00. What is the overall average order value?,29.06,56.84,29.00,28.94
+55,4,2026-09-04T01:00:28Z,2026-09-04T02:05:28Z,q0196,An item listed at $816.59 is discounted by 15%. What is the sale price?,$801.59,$939.08,$694.10,$122.49
+55,5,2026-09-04T01:00:28Z,2026-09-04T02:05:28Z,q1209,"A support queue holds 10 billing tickets, 3 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",71.4%,54.2%,41.7%,12.5%
