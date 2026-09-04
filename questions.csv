@@ -379,3 +379,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 76,3,2026-09-04T22:00:26Z,2026-09-04T23:05:26Z,q0439,A contract signed on 5 August 2026 has a 319-day settlement period. On what date does it settle?,20 June 2027,13 June 2027,20 July 2027,21 June 2027
 76,4,2026-09-04T22:00:26Z,2026-09-04T23:05:26Z,q0159,"A product line generates $30,750.00 in revenue against $24,989.88 in cost of goods sold. What is the gross margin?",81.3%,23.0%,10.3%,18.7%
 76,5,2026-09-04T22:00:26Z,2026-09-04T23:05:26Z,q0312,A retailer sells 363 units at $5.67 each. What is total revenue?,"$2,001.51","$2,421.21","$2,058.21","$2,114.91"
+77,1,2026-09-04T23:00:21Z,2026-09-05T00:05:21Z,q0187,"An invoice for $8,000.18 is settled at an exchange rate of 1.0149. What is the converted amount?","7,319.36","8,119.38","7,882.73","8,919.40"
+77,2,2026-09-04T23:00:21Z,2026-09-05T00:05:21Z,q1090,A contract signed on 30 July 2026 has a 223-day settlement period. On what date does it settle?,10 March 2027,3 March 2027,11 March 2027,9 April 2027
+77,3,2026-09-04T23:00:21Z,2026-09-05T00:05:21Z,q1521,"An invoice for $7,838.21 is settled at an exchange rate of 0.8102. What is the converted amount?","9,674.41","6,350.52","5,566.70","7,134.34"
+77,4,2026-09-04T23:00:21Z,2026-09-05T00:05:21Z,q1050,"An investment of $19,500.00 grows at 15% compounded annually. What is its value after 7 years?","$20,475.00","$39,975.00","$51,870.39","$45,104.68"
+77,5,2026-09-04T23:00:21Z,2026-09-05T00:05:21Z,q1358,A contract signed on 5 February 2026 has a 50-day settlement period. On what date does it settle?,27 March 2026,20 March 2026,26 April 2026,28 March 2026
