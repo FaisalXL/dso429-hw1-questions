@@ -304,3 +304,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 61,3,2026-09-04T07:00:27Z,2026-09-04T08:05:27Z,q0143,"A $8,400.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$1,200.00","$6,300.00","$4,800.00","$3,600.00"
 61,4,2026-09-04T07:00:27Z,2026-09-04T08:05:27Z,q0050,"Quarterly revenue moved from $2,100.00 to $2,635.00. What is the percentage change?",125.5%,20.3%,-25.5%,25.5%
 61,5,2026-09-04T07:00:27Z,2026-09-04T08:05:27Z,q0913,Region A had 165 orders averaging $94.00; region B had 27 orders averaging $26.00. What is the overall average order value?,84.44,35.56,98.25,60.00
+62,1,2026-09-04T08:00:36Z,2026-09-04T09:05:36Z,q1400,"An investment of $28,000.00 grows at 3% compounded annually. What is its value after 6 years?","$5,040.00","$33,040.00","$33,433.46","$32,459.67"
+62,2,2026-09-04T08:00:36Z,2026-09-04T09:05:36Z,q1679,"A $7,080.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$2,360.00","$4,720.00","$1,180.00","$14,160.00"
+62,3,2026-09-04T08:00:36Z,2026-09-04T09:05:36Z,q0774,A retailer sells 366 units at $32.91 each. What is total revenue?,"$12,411.06","$11,715.96","$12,045.06","$12,374.16"
+62,4,2026-09-04T08:00:36Z,2026-09-04T09:05:36Z,q0587,An item listed at $574.11 is discounted by 10%. What is the sale price?,$564.11,$516.70,$57.41,$631.52
+62,5,2026-09-04T08:00:36Z,2026-09-04T09:05:36Z,q0589,"Fixed costs are $12,500.00. Each unit sells for $133.00 with a variable cost of $101.00. How many units must be sold to break even?",391 units,124 units,94 units,53 units
