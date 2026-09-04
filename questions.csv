@@ -319,3 +319,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 64,3,2026-09-04T10:00:23Z,2026-09-04T11:05:23Z,q0330,"An invoice for $4,171.48 is settled at an exchange rate of 1.3736. What is the converted amount?","5,729.94","3,036.90","5,312.80","6,147.09"
 64,4,2026-09-04T10:00:23Z,2026-09-04T11:05:23Z,q0947,"Fixed costs are $20,000.00. Each unit sells for $144.00 with a variable cost of $81.00. How many units must be sold to break even?",139 units,89 units,317 units,247 units
 64,5,2026-09-04T10:00:23Z,2026-09-04T11:05:23Z,q0989,A retailer sells 864 units at $7.30 each. What is total revenue?,"$6,380.20","$6,234.20","$6,307.20","$7,171.20"
+65,1,2026-09-04T11:00:24Z,2026-09-04T12:05:24Z,q1007,Region A had 67 orders averaging $37.00; region B had 114 orders averaging $85.00. What is the overall average order value?,106.75,61.00,67.23,54.77
+65,2,2026-09-04T11:00:24Z,2026-09-04T12:05:24Z,q0779,"Fixed costs are $33,000.00. Each unit sells for $154.00 with a variable cost of $80.00. How many units must be sold to break even?",446 units,214 units,141 units,412 units
+65,3,2026-09-04T11:00:24Z,2026-09-04T12:05:24Z,q1455,A retailer sells 945 units at $77.99 each. What is total revenue?,"$74,645.55","$74,480.45","$73,700.55","$72,920.65"
+65,4,2026-09-04T11:00:24Z,2026-09-04T12:05:24Z,q0107,"A $1,260.00 marketing budget is split between two channels in the ratio 6:8. What does the first channel receive?",$540.00,$945.00,$720.00,$90.00
+65,5,2026-09-04T11:00:24Z,2026-09-04T12:05:24Z,q1191,"Fixed costs are $9,000.00. Each unit sells for $69.00 with a variable cost of $19.00. How many units must be sold to break even?",130 units,474 units,180 units,102 units
