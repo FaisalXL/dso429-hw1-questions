@@ -1004,6 +1004,21 @@
       "n_correct": null,
       "n_questions": 5,
       "wrong": null
+    },
+    {
+      "round_id": 66,
+      "period": "test",
+      "released_at": "2026-09-04T12:00:27Z",
+      "deadline_at": "2026-09-04T13:05:27Z",
+      "closed": false,
+      "voided": false,
+      "status": "open",
+      "submitted_at": null,
+      "reason": "no submission",
+      "attempts": [],
+      "n_correct": null,
+      "n_questions": 5,
+      "wrong": null
     }
   ]
 }
