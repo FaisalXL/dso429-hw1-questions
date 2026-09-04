@@ -314,3 +314,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 63,3,2026-09-04T09:00:24Z,2026-09-04T10:05:24Z,q1246,A retailer sells 394 units at $14.42 each. What is total revenue?,"$5,825.68","$5,537.28","$5,681.48","$6,075.48"
 63,4,2026-09-04T09:00:24Z,2026-09-04T10:05:24Z,q1107,"A product line generates $37,750.00 in revenue against $19,085.84 in cost of goods sold. What is the gross margin?",97.8%,49.4%,32.8%,50.6%
 63,5,2026-09-04T09:00:24Z,2026-09-04T10:05:24Z,q0125,"An investment of $35,000.00 grows at 13% compounded annually. What is its value after 4 years?","$53,200.00","$50,501.39","$18,200.00","$57,066.58"
+64,1,2026-09-04T10:00:23Z,2026-09-04T11:05:23Z,q0377,"An invoice for $3,410.76 is settled at an exchange rate of 0.6674. What is the converted amount?","2,276.34","5,110.52","2,617.42","1,935.27"
+64,2,2026-09-04T10:00:23Z,2026-09-04T11:05:23Z,q1236,"A product line generates $39,250.00 in revenue against $27,205.44 in cost of goods sold. What is the gross margin?",30.7%,44.3%,69.3%,18.1%
+64,3,2026-09-04T10:00:23Z,2026-09-04T11:05:23Z,q0330,"An invoice for $4,171.48 is settled at an exchange rate of 1.3736. What is the converted amount?","5,729.94","3,036.90","5,312.80","6,147.09"
+64,4,2026-09-04T10:00:23Z,2026-09-04T11:05:23Z,q0947,"Fixed costs are $20,000.00. Each unit sells for $144.00 with a variable cost of $81.00. How many units must be sold to break even?",139 units,89 units,317 units,247 units
+64,5,2026-09-04T10:00:23Z,2026-09-04T11:05:23Z,q0989,A retailer sells 864 units at $7.30 each. What is total revenue?,"$6,380.20","$6,234.20","$6,307.20","$7,171.20"
