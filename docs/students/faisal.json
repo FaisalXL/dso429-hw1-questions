@@ -1716,11 +1716,16 @@
       "closed": false,
       "voided": false,
       "status": "open",
-      "submitted_at": "2026-09-04T22:15:20.924Z",
+      "submitted_at": "2026-09-04T22:30:17.476Z",
       "reason": null,
       "attempts": [
         {
           "at": "2026-09-04T22:15:20.924Z",
+          "on_time": true,
+          "counted": false
+        },
+        {
+          "at": "2026-09-04T22:30:17.476Z",
           "on_time": true,
           "counted": true
         }
