@@ -289,3 +289,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 58,3,2026-09-04T04:00:22Z,2026-09-04T05:05:22Z,q0132,"A support queue holds 14 billing tickets, 24 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",33.3%,57.1%,90.5%,50.0%
 58,4,2026-09-04T04:00:22Z,2026-09-04T05:05:22Z,q1496,"Fixed costs are $12,000.00. Each unit sells for $146.00 with a variable cost of $125.00. How many units must be sold to break even?",82 units,96 units,44 units,571 units
 58,5,2026-09-04T04:00:22Z,2026-09-04T05:05:22Z,q0840,"An invoice for $2,887.10 is settled at an exchange rate of 0.9176. What is the converted amount?","2,649.20","3,146.36","2,937.91","2,360.49"
+59,1,2026-09-04T05:00:25Z,2026-09-04T06:05:25Z,q0076,An item listed at $101.94 is discounted by 10%. What is the sale price?,$10.19,$112.13,$91.94,$91.75
+59,2,2026-09-04T05:00:25Z,2026-09-04T06:05:25Z,q0993,"An investment of $40,000.00 grows at 2% compounded annually. What is its value after 3 years?","$41,616.00","$2,400.00","$42,400.00","$42,448.32"
+59,3,2026-09-04T05:00:25Z,2026-09-04T06:05:25Z,q0083,"A $6,480.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$2,592.00","$9,720.00","$3,888.00","$1,296.00"
+59,4,2026-09-04T05:00:25Z,2026-09-04T06:05:25Z,q1159,Region A had 37 orders averaging $93.00; region B had 84 orders averaging $91.00. What is the overall average order value?,92.00,131.96,91.61,92.39
+59,5,2026-09-04T05:00:25Z,2026-09-04T06:05:25Z,q1403,Region A had 163 orders averaging $24.00; region B had 159 orders averaging $85.00. What is the overall average order value?,54.12,54.88,106.91,54.50
