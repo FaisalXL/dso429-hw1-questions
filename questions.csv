@@ -349,3 +349,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 70,3,2026-09-04T16:00:25Z,2026-09-04T17:05:25Z,q1370,A contract signed on 2 February 2026 has a 108-day settlement period. On what date does it settle?,14 May 2026,21 May 2026,20 June 2026,22 May 2026
 70,4,2026-09-04T16:00:25Z,2026-09-04T17:05:25Z,q0207,"A product line generates $27,250.00 in revenue against $14,695.76 in cost of goods sold. What is the gross margin?",85.4%,29.9%,46.1%,53.9%
 70,5,2026-09-04T16:00:25Z,2026-09-04T17:05:25Z,q0119,"A $7,500.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$4,285.71","$1,071.43","$5,625.00","$3,214.29"
+71,1,2026-09-04T17:00:23Z,2026-09-04T18:05:23Z,q0357,A $660.00 marketing budget is split between two channels in the ratio 3:6. What does the first channel receive?,$330.00,$220.00,$440.00,$73.33
+71,2,2026-09-04T17:00:23Z,2026-09-04T18:05:23Z,q0326,"A product line generates $18,000.00 in revenue against $9,914.50 in cost of goods sold. What is the gross margin?",55.1%,44.9%,81.6%,29.0%
+71,3,2026-09-04T17:00:23Z,2026-09-04T18:05:23Z,q0096,"A support queue holds 23 billing tickets, 15 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",80.9%,95.8%,48.9%,31.9%
+71,4,2026-09-04T17:00:23Z,2026-09-04T18:05:23Z,q1065,Region A had 109 orders averaging $88.00; region B had 38 orders averaging $75.00. What is the overall average order value?,78.36,84.64,114.15,81.50
+71,5,2026-09-04T17:00:23Z,2026-09-04T18:05:23Z,q0783,A contract signed on 11 November 2026 has a 207-day settlement period. On what date does it settle?,6 June 2027,6 July 2027,7 June 2027,30 May 2027
