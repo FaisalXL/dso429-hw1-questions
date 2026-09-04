@@ -329,3 +329,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 66,3,2026-09-04T12:00:27Z,2026-09-04T13:05:27Z,q0230,Quarterly revenue moved from $450.00 to $653.00. What is the percentage change?,145.1%,45.1%,31.1%,-45.1%
 66,4,2026-09-04T12:00:27Z,2026-09-04T13:05:27Z,q1474,Region A had 72 orders averaging $42.00; region B had 190 orders averaging $51.00. What is the overall average order value?,48.53,66.92,44.47,46.50
 66,5,2026-09-04T12:00:27Z,2026-09-04T13:05:27Z,q1426,"An invoice for $4,484.65 is settled at an exchange rate of 0.9636. What is the converted amount?","3,872.94","4,654.06","4,769.87","4,321.41"
+67,1,2026-09-04T13:00:23Z,2026-09-04T14:05:23Z,q1405,A contract signed on 3 November 2026 has a 78-day settlement period. On what date does it settle?,13 January 2027,21 January 2027,19 February 2027,20 January 2027
+67,2,2026-09-04T13:00:23Z,2026-09-04T14:05:23Z,q1327,"Quarterly revenue moved from $3,100.00 to $4,409.00. What is the percentage change?",29.7%,42.2%,142.2%,-42.2%
+67,3,2026-09-04T13:00:23Z,2026-09-04T14:05:23Z,q1212,"A product line generates $8,000.00 in revenue against $4,909.17 in cost of goods sold. What is the gross margin?",61.4%,38.6%,63.0%,23.9%
+67,4,2026-09-04T13:00:23Z,2026-09-04T14:05:23Z,q1560,"A $6,930.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$2,772.00","$4,158.00","$10,395.00","$1,386.00"
+67,5,2026-09-04T13:00:23Z,2026-09-04T14:05:23Z,q0855,A contract signed on 5 March 2026 has a 78-day settlement period. On what date does it settle?,22 May 2026,21 June 2026,15 May 2026,23 May 2026
