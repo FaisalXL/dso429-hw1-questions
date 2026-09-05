@@ -439,3 +439,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 88,3,2026-09-05T10:00:23Z,2026-09-05T11:05:23Z,q0261,"A monthly headcount series runs 23, 37, 51, 65, 79. If the pattern continues, what is the next value?",121,107,93,79
 88,4,2026-09-05T10:00:23Z,2026-09-05T11:05:23Z,q0490,A retailer sells 767 units at $18.96 each. What is total revenue?,"$14,542.32","$14,731.92","$14,352.72","$15,309.32"
 88,5,2026-09-05T10:00:23Z,2026-09-05T11:05:23Z,q0877,Region A had 166 orders averaging $52.00; region B had 169 orders averaging $93.00. What is the overall average order value?,144.08,72.50,72.68,72.32
+89,1,2026-09-05T11:00:22Z,2026-09-05T12:05:22Z,q0102,"Fixed costs are $17,000.00. Each unit sells for $186.00 with a variable cost of $59.00. How many units must be sold to break even?",134 units,288 units,69 units,91 units
+89,2,2026-09-05T11:00:22Z,2026-09-05T12:05:22Z,q0003,"A product line generates $15,000.00 in revenue against $13,741.60 in cost of goods sold. What is the gross margin?",91.6%,9.2%,4.4%,8.4%
+89,3,2026-09-05T11:00:22Z,2026-09-05T12:05:22Z,q0332,"A monthly headcount series runs 5, 10, 15, 20, 25. If the pattern continues, what is the next value?",40,35,25,30
+89,4,2026-09-05T11:00:22Z,2026-09-05T12:05:22Z,q1398,"A product line generates $82,500.00 in revenue against $61,908.18 in cost of goods sold. What is the gross margin?",33.3%,25.0%,14.3%,75.0%
+89,5,2026-09-05T11:00:22Z,2026-09-05T12:05:22Z,q0968,An item listed at $537.82 is discounted by 20%. What is the sale price?,$517.82,$107.56,$430.26,$645.38
