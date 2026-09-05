@@ -474,3 +474,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 95,3,2026-09-05T17:00:22Z,2026-09-05T18:05:22Z,q1367,"An invoice for $4,872.63 is settled at an exchange rate of 1.6775. What is the converted amount?","8,661.10","7,686.57","8,173.84","2,904.70"
 95,4,2026-09-05T17:00:22Z,2026-09-05T18:05:22Z,q0818,"A monthly headcount series runs 39, 53, 67, 81, 95. If the pattern continues, what is the next value?",123,109,95,137
 95,5,2026-09-05T17:00:22Z,2026-09-05T18:05:22Z,q0631,"A support queue holds 24 billing tickets, 9 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",24.3%,89.2%,184.6%,64.9%
+96,1,2026-09-05T18:00:24Z,2026-09-05T19:05:24Z,q0389,Region A had 68 orders averaging $81.00; region B had 30 orders averaging $86.00. What is the overall average order value?,82.53,118.94,84.47,83.50
+96,2,2026-09-05T18:00:24Z,2026-09-05T19:05:24Z,q1265,Region A had 82 orders averaging $50.00; region B had 11 orders averaging $20.00. What is the overall average order value?,35.00,46.45,52.68,23.55
+96,3,2026-09-05T18:00:24Z,2026-09-05T19:05:24Z,q0423,"Fixed costs are $19,500.00. Each unit sells for $101.00 with a variable cost of $70.00. How many units must be sold to break even?",279 units,193 units,629 units,114 units
+96,4,2026-09-05T18:00:24Z,2026-09-05T19:05:24Z,q1499,"A monthly headcount series runs 23, 27, 31, 35, 39. If the pattern continues, what is the next value?",47,51,43,39
+96,5,2026-09-05T18:00:24Z,2026-09-05T19:05:24Z,q0488,"A $8,790.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$1,465.00","$17,580.00","$5,860.00","$2,930.00"
