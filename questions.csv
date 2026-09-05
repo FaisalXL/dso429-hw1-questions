@@ -464,3 +464,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 93,3,2026-09-05T15:00:21Z,2026-09-05T16:05:21Z,q0467,"Quarterly revenue moved from $2,300.00 to $3,561.00. What is the percentage change?",-54.8%,35.4%,54.8%,154.8%
 93,4,2026-09-05T15:00:21Z,2026-09-05T16:05:21Z,q0473,Region A had 125 orders averaging $77.00; region B had 40 orders averaging $40.00. What is the overall average order value?,58.50,89.80,48.97,68.03
 93,5,2026-09-05T15:00:21Z,2026-09-05T16:05:21Z,q0361,"A product line generates $84,500.00 in revenue against $68,931.37 in cost of goods sold. What is the gross margin?",18.4%,81.6%,10.1%,22.6%
+94,1,2026-09-05T16:00:22Z,2026-09-05T17:05:22Z,q1174,"A support queue holds 6 billing tickets, 19 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",24.0%,80.6%,61.3%,19.4%
+94,2,2026-09-05T16:00:22Z,2026-09-05T17:05:22Z,q0790,"An investment of $29,000.00 grows at 15% compounded annually. What is its value after 4 years?","$50,721.18","$44,105.37","$17,400.00","$46,400.00"
+94,3,2026-09-05T16:00:22Z,2026-09-05T17:05:22Z,q0959,"An invoice for $5,735.04 is settled at an exchange rate of 1.2554. What is the converted amount?","7,773.27","7,199.77","4,568.30","6,626.27"
+94,4,2026-09-05T16:00:22Z,2026-09-05T17:05:22Z,q0054,"Fixed costs are $15,000.00. Each unit sells for $187.00 with a variable cost of $163.00. How many units must be sold to break even?",80 units,43 units,625 units,92 units
+94,5,2026-09-05T16:00:22Z,2026-09-05T17:05:22Z,q0057,"A monthly headcount series runs 30, 45, 60, 75, 90. If the pattern continues, what is the next value?",90,120,105,135
