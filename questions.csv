@@ -409,3 +409,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 82,3,2026-09-05T04:00:24Z,2026-09-05T05:05:24Z,q0579,Region A had 45 orders averaging $64.00; region B had 22 orders averaging $26.00. What is the overall average order value?,76.71,38.48,45.00,51.52
 82,4,2026-09-05T04:00:24Z,2026-09-05T05:05:24Z,q0210,"Fixed costs are $49,500.00. Each unit sells for $169.00 with a variable cost of $92.00. How many units must be sold to break even?",190 units,538 units,643 units,293 units
 82,5,2026-09-05T04:00:24Z,2026-09-05T05:05:24Z,q1028,"Fixed costs are $45,000.00. Each unit sells for $174.00 with a variable cost of $48.00. How many units must be sold to break even?",259 units,203 units,357 units,938 units
+83,1,2026-09-05T05:00:23Z,2026-09-05T06:05:23Z,q0346,"A support queue holds 18 billing tickets, 11 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",138.5%,35.5%,93.5%,58.1%
+83,2,2026-09-05T05:00:23Z,2026-09-05T06:05:23Z,q1350,A retailer sells 728 units at $6.98 each. What is total revenue?,"$5,151.24","$5,081.44","$5,809.44","$5,011.64"
+83,3,2026-09-05T05:00:23Z,2026-09-05T06:05:23Z,q1537,"A support queue holds 4 billing tickets, 8 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",20.0%,60.0%,25.0%,40.0%
+83,4,2026-09-05T05:00:23Z,2026-09-05T06:05:23Z,q0131,"A $1,050.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?",$787.50,$150.00,$450.00,$600.00
+83,5,2026-09-05T05:00:23Z,2026-09-05T06:05:23Z,q0069,"A monthly headcount series runs 10, 25, 40, 55, 70. If the pattern continues, what is the next value?",85,115,100,70
