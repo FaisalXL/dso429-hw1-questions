@@ -459,3 +459,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 92,3,2026-09-05T14:00:23Z,2026-09-05T15:05:23Z,q0070,A contract signed on 4 July 2026 has a 209-day settlement period. On what date does it settle?,28 February 2027,29 January 2027,30 January 2027,22 January 2027
 92,4,2026-09-05T14:00:23Z,2026-09-05T15:05:23Z,q1304,A retailer sells 454 units at $37.83 each. What is total revenue?,"$16,796.52","$17,553.12","$17,174.82","$17,628.82"
 92,5,2026-09-05T14:00:23Z,2026-09-05T15:05:23Z,q1020,A contract signed on 10 January 2026 has a 162-day settlement period. On what date does it settle?,22 June 2026,21 July 2026,21 June 2026,14 June 2026
+93,1,2026-09-05T15:00:21Z,2026-09-05T16:05:21Z,q1238,"An investment of $40,000.00 grows at 15% compounded annually. What is its value after 3 years?","$52,900.00","$60,835.00","$18,000.00","$58,000.00"
+93,2,2026-09-05T15:00:21Z,2026-09-05T16:05:21Z,q1216,"An invoice for $4,032.64 is settled at an exchange rate of 0.7859. What is the converted amount?","3,169.25","5,131.24","2,765.99","3,572.52"
+93,3,2026-09-05T15:00:21Z,2026-09-05T16:05:21Z,q0467,"Quarterly revenue moved from $2,300.00 to $3,561.00. What is the percentage change?",-54.8%,35.4%,54.8%,154.8%
+93,4,2026-09-05T15:00:21Z,2026-09-05T16:05:21Z,q0473,Region A had 125 orders averaging $77.00; region B had 40 orders averaging $40.00. What is the overall average order value?,58.50,89.80,48.97,68.03
+93,5,2026-09-05T15:00:21Z,2026-09-05T16:05:21Z,q0361,"A product line generates $84,500.00 in revenue against $68,931.37 in cost of goods sold. What is the gross margin?",18.4%,81.6%,10.1%,22.6%
