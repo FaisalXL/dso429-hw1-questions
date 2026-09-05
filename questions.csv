@@ -494,3 +494,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 99,3,2026-09-05T21:00:23Z,2026-09-05T22:05:23Z,q0777,An item listed at $787.98 is discounted by 15%. What is the sale price?,$772.98,$906.18,$118.20,$669.78
 99,4,2026-09-05T21:00:23Z,2026-09-05T22:05:23Z,q0208,An item listed at $262.63 is discounted by 25%. What is the sale price?,$328.29,$237.63,$196.97,$65.66
 99,5,2026-09-05T21:00:23Z,2026-09-05T22:05:23Z,q1307,An item listed at $110.51 is discounted by 15%. What is the sale price?,$95.51,$16.58,$127.09,$93.93
+100,1,2026-09-05T22:00:23Z,2026-09-05T23:05:23Z,q0785,"A support queue holds 19 billing tickets, 15 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",72.3%,67.9%,40.4%,31.9%
+100,2,2026-09-05T22:00:23Z,2026-09-05T23:05:23Z,q1633,"A support queue holds 16 billing tickets, 6 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",200.0%,66.7%,91.7%,25.0%
+100,3,2026-09-05T22:00:23Z,2026-09-05T23:05:23Z,q0393,"A support queue holds 17 billing tickets, 13 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",36.1%,83.3%,89.5%,47.2%
+100,4,2026-09-05T22:00:23Z,2026-09-05T23:05:23Z,q0462,"A monthly headcount series runs 8, 24, 40, 56, 72. If the pattern continues, what is the next value?",72,104,88,120
+100,5,2026-09-05T22:00:23Z,2026-09-05T23:05:23Z,q0166,A contract signed on 16 October 2026 has a 231-day settlement period. On what date does it settle?,4 June 2027,5 June 2027,28 May 2027,4 July 2027
