@@ -424,3 +424,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 85,3,2026-09-05T07:00:21Z,2026-09-05T08:05:21Z,q0089,"An investment of $20,500.00 grows at 5% compounded annually. What is its value after 4 years?","$4,100.00","$24,917.88","$23,731.31","$24,600.00"
 85,4,2026-09-05T07:00:21Z,2026-09-05T08:05:21Z,q0883,Quarterly revenue moved from $550.00 to $700.00. What is the percentage change?,21.4%,127.3%,27.3%,-27.3%
 85,5,2026-09-05T07:00:21Z,2026-09-05T08:05:21Z,q1627,"Fixed costs are $37,000.00. Each unit sells for $112.00 with a variable cost of $39.00. How many units must be sold to break even?",330 units,949 units,245 units,507 units
+86,1,2026-09-05T08:00:25Z,2026-09-05T09:05:25Z,q0463,A contract signed on 12 November 2026 has a 379-day settlement period. On what date does it settle?,27 November 2027,19 November 2027,26 December 2027,26 November 2027
+86,2,2026-09-05T08:00:25Z,2026-09-05T09:05:25Z,q0591,Region A had 82 orders averaging $31.00; region B had 59 orders averaging $54.00. What is the overall average order value?,40.62,42.50,44.38,69.85
+86,3,2026-09-05T08:00:25Z,2026-09-05T09:05:25Z,q0970,"Fixed costs are $22,000.00. Each unit sells for $71.00 with a variable cost of $46.00. How many units must be sold to break even?",478 units,880 units,188 units,310 units
+86,4,2026-09-05T08:00:25Z,2026-09-05T09:05:25Z,q1487,"A monthly headcount series runs 14, 17, 20, 23, 26. If the pattern continues, what is the next value?",26,32,29,35
+86,5,2026-09-05T08:00:25Z,2026-09-05T09:05:25Z,q0201,"A monthly headcount series runs 16, 26, 36, 46, 56. If the pattern continues, what is the next value?",66,76,56,86
