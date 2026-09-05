@@ -414,3 +414,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 83,3,2026-09-05T05:00:23Z,2026-09-05T06:05:23Z,q1537,"A support queue holds 4 billing tickets, 8 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",20.0%,60.0%,25.0%,40.0%
 83,4,2026-09-05T05:00:23Z,2026-09-05T06:05:23Z,q0131,"A $1,050.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?",$787.50,$150.00,$450.00,$600.00
 83,5,2026-09-05T05:00:23Z,2026-09-05T06:05:23Z,q0069,"A monthly headcount series runs 10, 25, 40, 55, 70. If the pattern continues, what is the next value?",85,115,100,70
+84,1,2026-09-05T06:00:23Z,2026-09-05T07:05:23Z,q1547,A contract signed on 4 October 2026 has a 238-day settlement period. On what date does it settle?,30 May 2027,23 May 2027,31 May 2027,29 June 2027
+84,2,2026-09-05T06:00:23Z,2026-09-05T07:05:23Z,q1392,"A monthly headcount series runs 14, 28, 42, 56, 70. If the pattern continues, what is the next value?",112,70,98,84
+84,3,2026-09-05T06:00:23Z,2026-09-05T07:05:23Z,q0028,An item listed at $181.05 is discounted by 45%. What is the sale price?,$136.05,$99.58,$262.52,$81.47
+84,4,2026-09-05T06:00:23Z,2026-09-05T07:05:23Z,q0782,"A monthly headcount series runs 18, 23, 28, 33, 38. If the pattern continues, what is the next value?",38,53,43,48
+84,5,2026-09-05T06:00:23Z,2026-09-05T07:05:23Z,q1122,"Fixed costs are $34,000.00. Each unit sells for $136.00 with a variable cost of $69.00. How many units must be sold to break even?",493 units,250 units,166 units,507 units
