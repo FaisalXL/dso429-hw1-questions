@@ -389,3 +389,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 78,3,2026-09-05T00:00:22Z,2026-09-05T01:05:22Z,q0841,Region A had 130 orders averaging $74.00; region B had 149 orders averaging $39.00. What is the overall average order value?,55.31,103.56,56.50,57.69
 78,4,2026-09-05T00:00:22Z,2026-09-05T01:05:22Z,q1389,"Fixed costs are $28,500.00. Each unit sells for $122.00 with a variable cost of $73.00. How many units must be sold to break even?",234 units,390 units,146 units,582 units
 78,5,2026-09-05T00:00:22Z,2026-09-05T01:05:22Z,q0537,"Quarterly revenue moved from $3,800.00 to $4,802.00. What is the percentage change?",126.4%,20.9%,-26.4%,26.4%
+79,1,2026-09-05T01:00:21Z,2026-09-05T02:05:21Z,q0398,"An investment of $16,000.00 grows at 4% compounded annually. What is its value after 5 years?","$3,200.00","$19,200.00","$19,466.45","$18,717.74"
+79,2,2026-09-05T01:00:21Z,2026-09-05T02:05:21Z,q0281,"An investment of $18,500.00 grows at 13% compounded annually. What is its value after 5 years?","$30,525.00","$12,025.00","$34,085.05","$30,163.76"
+79,3,2026-09-05T01:00:21Z,2026-09-05T02:05:21Z,q1586,A retailer sells 744 units at $85.78 each. What is total revenue?,"$63,820.32","$64,678.12","$62,962.52","$64,564.32"
+79,4,2026-09-05T01:00:21Z,2026-09-05T02:05:21Z,q1640,An invoice for $541.20 is settled at an exchange rate of 0.6884. What is the converted amount?,372.56,786.17,426.68,318.44
+79,5,2026-09-05T01:00:21Z,2026-09-05T02:05:21Z,q0760,A contract signed on 19 December 2026 has a 368-day settlement period. On what date does it settle?,23 December 2027,21 January 2028,15 December 2027,22 December 2027
