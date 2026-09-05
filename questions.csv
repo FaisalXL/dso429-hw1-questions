@@ -479,3 +479,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 96,3,2026-09-05T18:00:24Z,2026-09-05T19:05:24Z,q0423,"Fixed costs are $19,500.00. Each unit sells for $101.00 with a variable cost of $70.00. How many units must be sold to break even?",279 units,193 units,629 units,114 units
 96,4,2026-09-05T18:00:24Z,2026-09-05T19:05:24Z,q1499,"A monthly headcount series runs 23, 27, 31, 35, 39. If the pattern continues, what is the next value?",47,51,43,39
 96,5,2026-09-05T18:00:24Z,2026-09-05T19:05:24Z,q0488,"A $8,790.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$1,465.00","$17,580.00","$5,860.00","$2,930.00"
+97,1,2026-09-05T19:00:21Z,2026-09-05T20:05:21Z,q0067,"An invoice for $7,259.78 is settled at an exchange rate of 1.2357. What is the converted amount?","5,875.03","8,970.91","9,696.89","8,244.93"
+97,2,2026-09-05T19:00:21Z,2026-09-05T20:05:21Z,q0812,"A product line generates $25,000.00 in revenue against $15,406.79 in cost of goods sold. What is the gross margin?",23.7%,62.3%,61.6%,38.4%
+97,3,2026-09-05T19:00:21Z,2026-09-05T20:05:21Z,q1630,"A monthly headcount series runs 6, 21, 36, 51, 66. If the pattern continues, what is the next value?",81,66,111,96
+97,4,2026-09-05T19:00:21Z,2026-09-05T20:05:21Z,q1646,A retailer sells 486 units at $14.42 each. What is total revenue?,"$7,152.32","$7,494.12","$7,008.12","$6,863.92"
+97,5,2026-09-05T19:00:21Z,2026-09-05T20:05:21Z,q1506,An item listed at $822.66 is discounted by 20%. What is the sale price?,$164.53,$987.19,$658.13,$802.66
