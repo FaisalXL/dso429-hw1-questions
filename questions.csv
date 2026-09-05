@@ -429,3 +429,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 86,3,2026-09-05T08:00:25Z,2026-09-05T09:05:25Z,q0970,"Fixed costs are $22,000.00. Each unit sells for $71.00 with a variable cost of $46.00. How many units must be sold to break even?",478 units,880 units,188 units,310 units
 86,4,2026-09-05T08:00:25Z,2026-09-05T09:05:25Z,q1487,"A monthly headcount series runs 14, 17, 20, 23, 26. If the pattern continues, what is the next value?",26,32,29,35
 86,5,2026-09-05T08:00:25Z,2026-09-05T09:05:25Z,q0201,"A monthly headcount series runs 16, 26, 36, 46, 56. If the pattern continues, what is the next value?",66,76,56,86
+87,1,2026-09-05T09:00:25Z,2026-09-05T10:05:25Z,q1504,"Quarterly revenue moved from $4,750.00 to $2,999.00. What is the percentage change?",63.1%,-58.4%,36.9%,-36.9%
+87,2,2026-09-05T09:00:25Z,2026-09-05T10:05:25Z,q1522,Region A had 93 orders averaging $30.00; region B had 189 orders averaging $54.00. What is the overall average order value?,37.91,42.00,46.09,68.76
+87,3,2026-09-05T09:00:25Z,2026-09-05T10:05:25Z,q0937,Region A had 163 orders averaging $32.00; region B had 30 orders averaging $37.00. What is the overall average order value?,36.22,32.78,38.81,34.50
+87,4,2026-09-05T09:00:25Z,2026-09-05T10:05:25Z,q1391,Region A had 151 orders averaging $89.00; region B had 143 orders averaging $94.00. What is the overall average order value?,91.50,91.43,91.57,178.02
+87,5,2026-09-05T09:00:25Z,2026-09-05T10:05:25Z,q0383,A retailer sells 523 units at $55.76 each. What is total revenue?,"$29,162.48","$28,604.88","$29,720.08","$29,685.48"
