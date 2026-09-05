@@ -499,3 +499,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 100,3,2026-09-05T22:00:23Z,2026-09-05T23:05:23Z,q0393,"A support queue holds 17 billing tickets, 13 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",36.1%,83.3%,89.5%,47.2%
 100,4,2026-09-05T22:00:23Z,2026-09-05T23:05:23Z,q0462,"A monthly headcount series runs 8, 24, 40, 56, 72. If the pattern continues, what is the next value?",72,104,88,120
 100,5,2026-09-05T22:00:23Z,2026-09-05T23:05:23Z,q0166,A contract signed on 16 October 2026 has a 231-day settlement period. On what date does it settle?,4 June 2027,5 June 2027,28 May 2027,4 July 2027
+101,1,2026-09-05T23:00:22Z,2026-09-06T00:05:22Z,q0894,A retailer sells 257 units at $37.67 each. What is total revenue?,"$9,304.49","$10,057.89","$9,938.19","$9,681.19"
+101,2,2026-09-05T23:00:22Z,2026-09-06T00:05:22Z,q0789,An item listed at $616.26 is discounted by 30%. What is the sale price?,$431.38,$184.88,$586.26,$801.14
+101,3,2026-09-05T23:00:22Z,2026-09-06T00:05:22Z,q0802,"An investment of $21,000.00 grows at 12% compounded annually. What is its value after 3 years?","$29,503.49","$7,560.00","$28,560.00","$26,342.40"
+101,4,2026-09-05T23:00:22Z,2026-09-06T00:05:22Z,q0431,"Quarterly revenue moved from $1,550.00 to $1,145.00. What is the percentage change?",-35.4%,73.9%,26.1%,-26.1%
+101,5,2026-09-05T23:00:22Z,2026-09-06T00:05:22Z,q1240,"An invoice for $6,117.25 is settled at an exchange rate of 1.0935. What is the converted amount?","6,077.49","7,300.94","5,594.19","6,689.21"
