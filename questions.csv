@@ -489,3 +489,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 98,3,2026-09-05T20:00:24Z,2026-09-05T21:05:24Z,q0458,"An investment of $19,500.00 grows at 4% compounded annually. What is its value after 3 years?","$2,340.00","$21,934.85","$21,091.20","$21,840.00"
 98,4,2026-09-05T20:00:24Z,2026-09-05T21:05:24Z,q0286,"A $8,340.00 marketing budget is split between two channels in the ratio 4:3. What does the first channel receive?","$4,765.71","$1,191.43","$3,574.29","$11,120.00"
 98,5,2026-09-05T20:00:24Z,2026-09-05T21:05:24Z,q1542,"An investment of $44,500.00 grows at 10% compounded annually. What is its value after 2 years?","$53,400.00","$8,900.00","$48,950.00","$53,845.00"
+99,1,2026-09-05T21:00:23Z,2026-09-05T22:05:23Z,q0951,"A $8,220.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$4,932.00","$3,288.00","$1,644.00","$12,330.00"
+99,2,2026-09-05T21:00:23Z,2026-09-05T22:05:23Z,q1054,"A monthly headcount series runs 18, 30, 42, 54, 66. If the pattern continues, what is the next value?",102,78,66,90
+99,3,2026-09-05T21:00:23Z,2026-09-05T22:05:23Z,q0777,An item listed at $787.98 is discounted by 15%. What is the sale price?,$772.98,$906.18,$118.20,$669.78
+99,4,2026-09-05T21:00:23Z,2026-09-05T22:05:23Z,q0208,An item listed at $262.63 is discounted by 25%. What is the sale price?,$328.29,$237.63,$196.97,$65.66
+99,5,2026-09-05T21:00:23Z,2026-09-05T22:05:23Z,q1307,An item listed at $110.51 is discounted by 15%. What is the sale price?,$95.51,$16.58,$127.09,$93.93
