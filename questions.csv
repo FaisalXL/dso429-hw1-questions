@@ -444,3 +444,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 89,3,2026-09-05T11:00:22Z,2026-09-05T12:05:22Z,q0332,"A monthly headcount series runs 5, 10, 15, 20, 25. If the pattern continues, what is the next value?",40,35,25,30
 89,4,2026-09-05T11:00:22Z,2026-09-05T12:05:22Z,q1398,"A product line generates $82,500.00 in revenue against $61,908.18 in cost of goods sold. What is the gross margin?",33.3%,25.0%,14.3%,75.0%
 89,5,2026-09-05T11:00:22Z,2026-09-05T12:05:22Z,q0968,An item listed at $537.82 is discounted by 20%. What is the sale price?,$517.82,$107.56,$430.26,$645.38
+90,1,2026-09-05T12:00:22Z,2026-09-05T13:05:22Z,q1449,"Fixed costs are $11,000.00. Each unit sells for $63.00 with a variable cost of $36.00. How many units must be sold to break even?",306 units,175 units,111 units,407 units
+90,2,2026-09-05T12:00:22Z,2026-09-05T13:05:22Z,q1572,"A $8,880.00 marketing budget is split between two channels in the ratio 5:3. What does the first channel receive?","$3,330.00","$14,800.00","$1,110.00","$5,550.00"
+90,3,2026-09-05T12:00:22Z,2026-09-05T13:05:22Z,q1067,A contract signed on 8 April 2026 has a 234-day settlement period. On what date does it settle?,28 November 2026,29 November 2026,21 November 2026,28 December 2026
+90,4,2026-09-05T12:00:22Z,2026-09-05T13:05:22Z,q0111,"A product line generates $53,000.00 in revenue against $33,754.60 in cost of goods sold. What is the gross margin?",57.0%,63.7%,36.3%,22.2%
+90,5,2026-09-05T12:00:22Z,2026-09-05T13:05:22Z,q0041,"An investment of $27,500.00 grows at 12% compounded annually. What is its value after 8 years?","$53,900.00","$60,793.74","$68,088.99","$26,400.00"
