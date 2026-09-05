@@ -419,3 +419,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 84,3,2026-09-05T06:00:23Z,2026-09-05T07:05:23Z,q0028,An item listed at $181.05 is discounted by 45%. What is the sale price?,$136.05,$99.58,$262.52,$81.47
 84,4,2026-09-05T06:00:23Z,2026-09-05T07:05:23Z,q0782,"A monthly headcount series runs 18, 23, 28, 33, 38. If the pattern continues, what is the next value?",38,53,43,48
 84,5,2026-09-05T06:00:23Z,2026-09-05T07:05:23Z,q1122,"Fixed costs are $34,000.00. Each unit sells for $136.00 with a variable cost of $69.00. How many units must be sold to break even?",493 units,250 units,166 units,507 units
+85,1,2026-09-05T07:00:21Z,2026-09-05T08:05:21Z,q0586,"A product line generates $66,000.00 in revenue against $40,660.23 in cost of goods sold. What is the gross margin?",62.3%,61.6%,38.4%,23.8%
+85,2,2026-09-05T07:00:21Z,2026-09-05T08:05:21Z,q0498,"A monthly headcount series runs 8, 15, 22, 29, 36. If the pattern continues, what is the next value?",50,43,57,36
+85,3,2026-09-05T07:00:21Z,2026-09-05T08:05:21Z,q0089,"An investment of $20,500.00 grows at 5% compounded annually. What is its value after 4 years?","$4,100.00","$24,917.88","$23,731.31","$24,600.00"
+85,4,2026-09-05T07:00:21Z,2026-09-05T08:05:21Z,q0883,Quarterly revenue moved from $550.00 to $700.00. What is the percentage change?,21.4%,127.3%,27.3%,-27.3%
+85,5,2026-09-05T07:00:21Z,2026-09-05T08:05:21Z,q1627,"Fixed costs are $37,000.00. Each unit sells for $112.00 with a variable cost of $39.00. How many units must be sold to break even?",330 units,949 units,245 units,507 units
