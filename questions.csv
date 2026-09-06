@@ -524,3 +524,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 105,3,2026-09-06T03:00:23Z,2026-09-06T04:05:23Z,q1523,A contract signed on 12 April 2026 has a 259-day settlement period. On what date does it settle?,27 December 2026,26 January 2027,20 December 2026,28 December 2026
 105,4,2026-09-06T03:00:23Z,2026-09-06T04:05:23Z,q0753,"A product line generates $10,250.00 in revenue against $9,411.34 in cost of goods sold. What is the gross margin?",8.9%,91.8%,4.3%,8.2%
 105,5,2026-09-06T03:00:23Z,2026-09-06T04:05:23Z,q0963,A $630.00 marketing budget is split between two channels in the ratio 5:7. What does the first channel receive?,$262.50,$367.50,$52.50,$450.00
+106,1,2026-09-06T04:00:24Z,2026-09-06T05:05:24Z,q1549,"A support queue holds 9 billing tickets, 14 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",30.0%,42.9%,46.7%,76.7%
+106,2,2026-09-06T04:00:24Z,2026-09-06T05:05:24Z,q0674,"An invoice for $2,207.60 is settled at an exchange rate of 0.8281. What is the converted amount?","2,665.86","1,607.35","1,828.11","2,048.87"
+106,3,2026-09-06T04:00:24Z,2026-09-06T05:05:24Z,q0834,A retailer sells 764 units at $31.48 each. What is total revenue?,"$24,050.72","$24,814.72","$24,365.52","$23,735.92"
+106,4,2026-09-06T04:00:24Z,2026-09-06T05:05:24Z,q1464,A contract signed on 25 April 2026 has a 182-day settlement period. On what date does it settle?,17 October 2026,23 November 2026,25 October 2026,24 October 2026
+106,5,2026-09-06T04:00:24Z,2026-09-06T05:05:24Z,q0144,"A support queue holds 19 billing tickets, 16 technical tickets and 3 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",42.1%,50.0%,100.0%,92.1%
