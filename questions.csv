@@ -569,3 +569,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 114,3,2026-09-06T12:00:29Z,2026-09-06T13:05:29Z,q1175,A retailer sells 901 units at $28.75 each. What is total revenue?,"$26,804.75","$26,191.25","$25,903.75","$25,616.25"
 114,4,2026-09-06T12:00:29Z,2026-09-06T13:05:29Z,q0964,"A support queue holds 4 billing tickets, 24 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",65.1%,10.3%,9.3%,55.8%
 114,5,2026-09-06T12:00:29Z,2026-09-06T13:05:29Z,q1452,A contract signed on 1 July 2026 has a 149-day settlement period. On what date does it settle?,20 November 2026,27 November 2026,28 November 2026,27 December 2026
+115,1,2026-09-06T13:00:25Z,2026-09-06T14:05:25Z,q0973,"A monthly headcount series runs 17, 26, 35, 44, 53. If the pattern continues, what is the next value?",53,71,62,80
+115,2,2026-09-06T13:00:25Z,2026-09-06T14:05:25Z,q0359,A retailer sells 843 units at $85.88 each. What is total revenue?,"$71,538.04","$73,255.64","$72,396.84","$73,239.84"
+115,3,2026-09-06T13:00:25Z,2026-09-06T14:05:25Z,q0216,"A support queue holds 11 billing tickets, 6 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",56.7%,20.0%,36.7%,57.9%
+115,4,2026-09-06T13:00:25Z,2026-09-06T14:05:25Z,q0113,"An investment of $26,500.00 grows at 4% compounded annually. What is its value after 7 years?","$33,920.00","$7,420.00","$34,872.19","$33,530.95"
+115,5,2026-09-06T13:00:25Z,2026-09-06T14:05:25Z,q0664,"A monthly headcount series runs 31, 48, 65, 82, 99. If the pattern continues, what is the next value?",99,150,116,133
