@@ -544,3 +544,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 109,3,2026-09-06T07:00:24Z,2026-09-06T08:05:24Z,q1318,An item listed at $598.31 is discounted by 30%. What is the sale price?,$568.31,$418.82,$777.80,$179.49
 109,4,2026-09-06T07:00:24Z,2026-09-06T08:05:24Z,q1584,"A $8,580.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$4,902.86","$3,677.14","$6,435.00","$1,225.71"
 109,5,2026-09-06T07:00:24Z,2026-09-06T08:05:24Z,q0120,"A support queue holds 8 billing tickets, 25 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",21.6%,55.6%,17.8%,73.3%
+110,1,2026-09-06T08:00:23Z,2026-09-06T09:05:23Z,q1278,"A $7,020.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$3,008.57","$5,265.00","$1,002.86","$4,011.43"
+110,2,2026-09-06T08:00:23Z,2026-09-06T09:05:23Z,q0948,"An invoice for $7,478.02 is settled at an exchange rate of 1.8707. What is the converted amount?","14,736.93","3,997.44","13,241.33","13,989.13"
+110,3,2026-09-06T08:00:23Z,2026-09-06T09:05:23Z,q0424,An invoice for $260.47 is settled at an exchange rate of 1.5668. What is the converted amount?,382.06,408.10,434.15,166.24
+110,4,2026-09-06T08:00:23Z,2026-09-06T09:05:23Z,q0541,"Fixed costs are $30,000.00. Each unit sells for $175.00 with a variable cost of $88.00. How many units must be sold to break even?",345 units,171 units,114 units,341 units
+110,5,2026-09-06T08:00:23Z,2026-09-06T09:05:23Z,q0504,"A product line generates $14,000.00 in revenue against $9,967.81 in cost of goods sold. What is the gross margin?",16.8%,71.2%,28.8%,40.5%
