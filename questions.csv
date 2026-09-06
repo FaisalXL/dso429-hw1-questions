@@ -609,3 +609,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 122,3,2026-09-06T20:00:22Z,2026-09-06T21:05:22Z,q0637,"Fixed costs are $70,500.00. Each unit sells for $190.00 with a variable cost of $94.00. How many units must be sold to break even?",750 units,734 units,248 units,371 units
 122,4,2026-09-06T20:00:22Z,2026-09-06T21:05:22Z,q0503,"Quarterly revenue moved from $2,650.00 to $4,103.00. What is the percentage change?",154.8%,35.4%,-54.8%,54.8%
 122,5,2026-09-06T20:00:22Z,2026-09-06T21:05:22Z,q0815,"Fixed costs are $26,000.00. Each unit sells for $194.00 with a variable cost of $109.00. How many units must be sold to break even?",306 units,134 units,86 units,239 units
+123,1,2026-09-06T21:00:21Z,2026-09-06T22:05:21Z,q1310,"An invoice for $1,878.13 is settled at an exchange rate of 1.6772. What is the converted amount?","1,119.80","2,962.19","3,337.81","3,150.00"
+123,2,2026-09-06T21:00:21Z,2026-09-06T22:05:21Z,q1357,Region A had 90 orders averaging $81.00; region B had 156 orders averaging $46.00. What is the overall average order value?,68.20,58.80,63.50,92.73
+123,3,2026-09-06T21:00:21Z,2026-09-06T22:05:21Z,q0932,"A product line generates $36,000.00 in revenue against $24,256.22 in cost of goods sold. What is the gross margin?",48.4%,32.6%,19.5%,67.4%
+123,4,2026-09-06T21:00:21Z,2026-09-06T22:05:21Z,q1636,"A product line generates $83,750.00 in revenue against $63,750.45 in cost of goods sold. What is the gross margin?",76.1%,13.6%,31.4%,23.9%
+123,5,2026-09-06T21:00:21Z,2026-09-06T22:05:21Z,q0833,"A support queue holds 7 billing tickets, 5 technical tickets and 3 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",33.3%,80.0%,46.7%,87.5%
