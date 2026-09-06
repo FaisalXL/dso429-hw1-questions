@@ -534,3 +534,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 107,3,2026-09-06T05:00:21Z,2026-09-06T06:05:21Z,q0188,Region A had 150 orders averaging $84.00; region B had 12 orders averaging $89.00. What is the overall average order value?,91.12,88.63,86.50,84.37
 107,4,2026-09-06T05:00:21Z,2026-09-06T06:05:21Z,q0899,"Fixed costs are $38,000.00. Each unit sells for $154.00 with a variable cost of $56.00. How many units must be sold to break even?",247 units,388 units,679 units,181 units
 107,5,2026-09-06T05:00:21Z,2026-09-06T06:05:21Z,q0184,An item listed at $787.53 is discounted by 20%. What is the sale price?,$630.02,$767.53,$157.51,$945.04
+108,1,2026-09-06T06:00:23Z,2026-09-06T07:05:23Z,q1466,"A support queue holds 10 billing tickets, 7 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",73.9%,76.9%,30.4%,43.5%
+108,2,2026-09-06T06:00:23Z,2026-09-06T07:05:23Z,q0345,A contract signed on 20 February 2026 has a 119-day settlement period. On what date does it settle?,19 July 2026,12 June 2026,20 June 2026,19 June 2026
+108,3,2026-09-06T06:00:23Z,2026-09-06T07:05:23Z,q0871,"Quarterly revenue moved from $4,900.00 to $5,491.00. What is the percentage change?",-12.1%,112.1%,12.1%,10.8%
+108,4,2026-09-06T06:00:23Z,2026-09-06T07:05:23Z,q1134,"Fixed costs are $18,500.00. Each unit sells for $147.00 with a variable cost of $86.00. How many units must be sold to break even?",303 units,126 units,215 units,79 units
+108,5,2026-09-06T06:00:23Z,2026-09-06T07:05:23Z,q0543,Region A had 71 orders averaging $77.00; region B had 184 orders averaging $25.00. What is the overall average order value?,62.52,39.48,51.00,54.71
