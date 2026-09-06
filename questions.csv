@@ -539,3 +539,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 108,3,2026-09-06T06:00:23Z,2026-09-06T07:05:23Z,q0871,"Quarterly revenue moved from $4,900.00 to $5,491.00. What is the percentage change?",-12.1%,112.1%,12.1%,10.8%
 108,4,2026-09-06T06:00:23Z,2026-09-06T07:05:23Z,q1134,"Fixed costs are $18,500.00. Each unit sells for $147.00 with a variable cost of $86.00. How many units must be sold to break even?",303 units,126 units,215 units,79 units
 108,5,2026-09-06T06:00:23Z,2026-09-06T07:05:23Z,q0543,Region A had 71 orders averaging $77.00; region B had 184 orders averaging $25.00. What is the overall average order value?,62.52,39.48,51.00,54.71
+109,1,2026-09-06T07:00:24Z,2026-09-06T08:05:24Z,q0881,"A support queue holds 16 billing tickets, 5 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",47.1%,88.9%,61.8%,14.7%
+109,2,2026-09-06T07:00:24Z,2026-09-06T08:05:24Z,q0199,"An invoice for $1,918.64 is settled at an exchange rate of 1.8177. What is the converted amount?","3,487.51","3,679.38","1,055.53","3,295.65"
+109,3,2026-09-06T07:00:24Z,2026-09-06T08:05:24Z,q1318,An item listed at $598.31 is discounted by 30%. What is the sale price?,$568.31,$418.82,$777.80,$179.49
+109,4,2026-09-06T07:00:24Z,2026-09-06T08:05:24Z,q1584,"A $8,580.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$4,902.86","$3,677.14","$6,435.00","$1,225.71"
+109,5,2026-09-06T07:00:24Z,2026-09-06T08:05:24Z,q0120,"A support queue holds 8 billing tickets, 25 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",21.6%,55.6%,17.8%,73.3%
