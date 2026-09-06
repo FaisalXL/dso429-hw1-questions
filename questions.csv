@@ -589,3 +589,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 118,3,2026-09-06T16:00:25Z,2026-09-06T17:05:25Z,q0087,"A product line generates $16,500.00 in revenue against $7,652.95 in cost of goods sold. What is the gross margin?",46.4%,115.6%,53.6%,36.6%
 118,4,2026-09-06T16:00:25Z,2026-09-06T17:05:25Z,q1509,"An invoice for $1,901.01 is settled at an exchange rate of 1.5423. What is the converted amount?","3,122.03","2,931.93","1,232.58","2,741.83"
 118,5,2026-09-06T16:00:25Z,2026-09-06T17:05:25Z,q0720,"Fixed costs are $8,500.00. Each unit sells for $88.00 with a variable cost of $52.00. How many units must be sold to break even?",236 units,97 units,163 units,61 units
+119,1,2026-09-06T17:00:24Z,2026-09-06T18:05:24Z,q0852,"An invoice for $5,142.03 is settled at an exchange rate of 1.8382. What is the converted amount?","9,966.28","2,797.32","8,937.88","9,452.08"
+119,2,2026-09-06T17:00:24Z,2026-09-06T18:05:24Z,q0826,"An investment of $20,000.00 grows at 14% compounded annually. What is its value after 3 years?","$25,992.00","$8,400.00","$28,400.00","$29,630.88"
+119,3,2026-09-06T17:00:24Z,2026-09-06T18:05:24Z,q0578,"An invoice for $2,548.49 is settled at an exchange rate of 1.5764. What is the converted amount?","3,762.59","4,017.44","4,272.29","1,616.65"
+119,4,2026-09-06T17:00:24Z,2026-09-06T18:05:24Z,q0928,A $990.00 marketing budget is split between two channels in the ratio 4:8. What does the first channel receive?,$330.00,$82.50,$660.00,$495.00
+119,5,2026-09-06T17:00:24Z,2026-09-06T18:05:24Z,q1250,"An investment of $11,000.00 grows at 12% compounded annually. What is its value after 2 years?","$2,640.00","$12,320.00","$13,640.00","$13,798.40"
