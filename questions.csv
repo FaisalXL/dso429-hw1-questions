@@ -509,3 +509,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 102,3,2026-09-06T00:00:23Z,2026-09-06T01:05:23Z,q0729,"A product line generates $77,750.00 in revenue against $57,266.57 in cost of goods sold. What is the gross margin?",73.7%,15.2%,35.8%,26.3%
 102,4,2026-09-06T00:00:23Z,2026-09-06T01:05:23Z,q1241,Region A had 56 orders averaging $90.00; region B had 157 orders averaging $93.00. What is the overall average order value?,125.10,91.50,90.79,92.21
 102,5,2026-09-06T00:00:23Z,2026-09-06T01:05:23Z,q1187,"Quarterly revenue moved from $2,050.00 to $2,633.00. What is the percentage change?",128.4%,-28.4%,28.4%,22.1%
+103,1,2026-09-06T01:00:21Z,2026-09-06T02:05:21Z,q0910,"An investment of $11,000.00 grows at 13% compounded annually. What is its value after 8 years?","$22,440.00","$29,242.89","$25,878.66","$11,440.00"
+103,2,2026-09-06T01:00:21Z,2026-09-06T02:05:21Z,q0513,A retailer sells 508 units at $24.88 each. What is total revenue?,"$12,639.04","$13,147.04","$12,390.24","$12,887.84"
+103,3,2026-09-06T01:00:21Z,2026-09-06T02:05:21Z,q0023,"A $1,170.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?",$877.50,$167.14,$501.43,$668.57
+103,4,2026-09-06T01:00:21Z,2026-09-06T02:05:21Z,q1235,"Quarterly revenue moved from $2,950.00 to $4,577.00. What is the percentage change?",35.5%,-55.2%,155.2%,55.2%
+103,5,2026-09-06T01:00:21Z,2026-09-06T02:05:21Z,q0308,"A monthly headcount series runs 40, 56, 72, 88, 104. If the pattern continues, what is the next value?",136,120,152,104
