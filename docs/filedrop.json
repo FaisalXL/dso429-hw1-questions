@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T21:06:43.269795Z",
+  "generated_at": "2026-09-06T21:30:24.282552Z",
   "model": "file-drop",
   "latest_round": 123,
   "rounds_closed": 122,
@@ -1358,14 +1358,14 @@
         },
         {
           "round_id": 123,
-          "status": "open",
+          "status": "hit",
           "closed": false,
           "deadline_at": "2026-09-06T22:05:21Z",
-          "first_seen_at": null,
-          "n_correct": null,
+          "first_seen_at": "2026-09-06T21:30:22.141720Z",
+          "n_correct": 5,
           "n_questions": 5,
           "tampered": false,
-          "url": null
+          "url": "https://github.com/thisisyourchampion/dso429-hw1-bot/blob/main/answers/round-0123.json"
         }
       ]
     },
