@@ -2,7 +2,7 @@
   "student_id": "faisal",
   "name": "Faisal (TA test)",
   "email_masked": "jr****@gmail.com",
-  "streak": 88,
+  "streak": 89,
   "hits": 1,
   "eligible": 1,
   "uptime_pct": 100.0,
@@ -2423,9 +2423,9 @@
       "period": "test",
       "released_at": "2026-09-06T04:00:24Z",
       "deadline_at": "2026-09-06T05:05:24Z",
-      "closed": false,
-      "voided": false,
-      "status": "open",
+      "closed": true,
+      "voided": true,
+      "status": "hit",
       "submitted_at": "2026-09-06T04:15:21.784Z",
       "reason": null,
       "attempts": [
@@ -2447,9 +2447,15 @@
       "closed": false,
       "voided": false,
       "status": "open",
-      "submitted_at": null,
-      "reason": "no submission",
-      "attempts": [],
+      "submitted_at": "2026-09-06T05:15:21.430Z",
+      "reason": null,
+      "attempts": [
+        {
+          "at": "2026-09-06T05:15:21.430Z",
+          "on_time": true,
+          "counted": true
+        }
+      ],
       "n_correct": null,
       "n_questions": 5,
       "wrong": null
