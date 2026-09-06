@@ -614,3 +614,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 123,3,2026-09-06T21:00:21Z,2026-09-06T22:05:21Z,q0932,"A product line generates $36,000.00 in revenue against $24,256.22 in cost of goods sold. What is the gross margin?",48.4%,32.6%,19.5%,67.4%
 123,4,2026-09-06T21:00:21Z,2026-09-06T22:05:21Z,q1636,"A product line generates $83,750.00 in revenue against $63,750.45 in cost of goods sold. What is the gross margin?",76.1%,13.6%,31.4%,23.9%
 123,5,2026-09-06T21:00:21Z,2026-09-06T22:05:21Z,q0833,"A support queue holds 7 billing tickets, 5 technical tickets and 3 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",33.3%,80.0%,46.7%,87.5%
+124,1,2026-09-06T22:00:24Z,2026-09-06T23:05:24Z,q0688,"A monthly headcount series runs 18, 22, 26, 30, 34. If the pattern continues, what is the next value?",34,42,46,38
+124,2,2026-09-06T22:00:24Z,2026-09-06T23:05:24Z,q0675,Region A had 191 orders averaging $37.00; region B had 82 orders averaging $43.00. What is the overall average order value?,40.00,41.20,55.46,38.80
+124,3,2026-09-06T22:00:24Z,2026-09-06T23:05:24Z,q0880,"A $8,760.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$3,754.29","$5,005.71","$1,251.43","$6,570.00"
+124,4,2026-09-06T22:00:24Z,2026-09-06T23:05:24Z,q0721,"An invoice for $8,520.54 is settled at an exchange rate of 1.1298. What is the converted amount?","10,478.56","7,541.64","8,774.45","9,626.51"
+124,5,2026-09-06T22:00:24Z,2026-09-06T23:05:24Z,q1501,A $720.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?,$102.86,$411.43,$540.00,$308.57
