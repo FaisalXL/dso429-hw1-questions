@@ -574,3 +574,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 115,3,2026-09-06T13:00:25Z,2026-09-06T14:05:25Z,q0216,"A support queue holds 11 billing tickets, 6 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",56.7%,20.0%,36.7%,57.9%
 115,4,2026-09-06T13:00:25Z,2026-09-06T14:05:25Z,q0113,"An investment of $26,500.00 grows at 4% compounded annually. What is its value after 7 years?","$33,920.00","$7,420.00","$34,872.19","$33,530.95"
 115,5,2026-09-06T13:00:25Z,2026-09-06T14:05:25Z,q0664,"A monthly headcount series runs 31, 48, 65, 82, 99. If the pattern continues, what is the next value?",99,150,116,133
+116,1,2026-09-06T14:00:25Z,2026-09-06T15:05:25Z,q0518,"Fixed costs are $12,500.00. Each unit sells for $40.00 with a variable cost of $14.00. How many units must be sold to break even?",231 units,893 units,481 units,312 units
+116,2,2026-09-06T14:00:25Z,2026-09-06T15:05:25Z,q1286,"An invoice for $5,342.36 is settled at an exchange rate of 1.3240. What is the converted amount?","6,539.05","7,073.28","7,607.52","4,035.02"
+116,3,2026-09-06T14:00:25Z,2026-09-06T15:05:25Z,q0415,A contract signed on 25 June 2026 has a 333-day settlement period. On what date does it settle?,24 May 2027,23 June 2027,25 May 2027,17 May 2027
+116,4,2026-09-06T14:00:25Z,2026-09-06T15:05:25Z,q0892,A $630.00 marketing budget is split between two channels in the ratio 4:3. What does the first channel receive?,$360.00,$90.00,$270.00,$840.00
+116,5,2026-09-06T14:00:25Z,2026-09-06T15:05:25Z,q1257,"A support queue holds 21 billing tickets, 13 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",50.0%,31.0%,81.0%,100.0%

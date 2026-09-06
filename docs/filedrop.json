@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T13:59:09.367655Z",
+  "generated_at": "2026-09-06T14:00:32.823262Z",
   "model": "file-drop",
-  "latest_round": 115,
+  "latest_round": 116,
   "rounds_closed": 114,
   "students": [
     {
@@ -1278,6 +1278,17 @@
           "n_questions": 5,
           "tampered": false,
           "url": "https://github.com/thisisyourchampion/dso429-hw1-bot/blob/main/answers/round-0115.json"
+        },
+        {
+          "round_id": 116,
+          "status": "open",
+          "closed": false,
+          "deadline_at": "2026-09-06T15:05:25Z",
+          "first_seen_at": null,
+          "n_correct": null,
+          "n_questions": 5,
+          "tampered": false,
+          "url": null
         }
       ]
     },
@@ -2550,6 +2561,17 @@
           "status": "open",
           "closed": false,
           "deadline_at": "2026-09-06T14:05:25Z",
+          "first_seen_at": null,
+          "n_correct": null,
+          "n_questions": 5,
+          "tampered": false,
+          "url": null
+        },
+        {
+          "round_id": 116,
+          "status": "open",
+          "closed": false,
+          "deadline_at": "2026-09-06T15:05:25Z",
           "first_seen_at": null,
           "n_correct": null,
           "n_questions": 5,
@@ -3832,6 +3854,17 @@
           "n_questions": 5,
           "tampered": false,
           "url": null
+        },
+        {
+          "round_id": 116,
+          "status": "open",
+          "closed": false,
+          "deadline_at": "2026-09-06T15:05:25Z",
+          "first_seen_at": null,
+          "n_correct": null,
+          "n_questions": 5,
+          "tampered": false,
+          "url": null
         }
       ]
     },
@@ -5104,6 +5137,17 @@
           "status": "open",
           "closed": false,
           "deadline_at": "2026-09-06T14:05:25Z",
+          "first_seen_at": null,
+          "n_correct": null,
+          "n_questions": 5,
+          "tampered": false,
+          "url": null
+        },
+        {
+          "round_id": 116,
+          "status": "open",
+          "closed": false,
+          "deadline_at": "2026-09-06T15:05:25Z",
           "first_seen_at": null,
           "n_correct": null,
           "n_questions": 5,
