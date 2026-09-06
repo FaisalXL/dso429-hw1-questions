@@ -619,3 +619,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 124,3,2026-09-06T22:00:24Z,2026-09-06T23:05:24Z,q0880,"A $8,760.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$3,754.29","$5,005.71","$1,251.43","$6,570.00"
 124,4,2026-09-06T22:00:24Z,2026-09-06T23:05:24Z,q0721,"An invoice for $8,520.54 is settled at an exchange rate of 1.1298. What is the converted amount?","10,478.56","7,541.64","8,774.45","9,626.51"
 124,5,2026-09-06T22:00:24Z,2026-09-06T23:05:24Z,q1501,A $720.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?,$102.86,$411.43,$540.00,$308.57
+125,1,2026-09-06T23:00:23Z,2026-09-07T00:05:23Z,q1566,"An investment of $20,500.00 grows at 3% compounded annually. What is its value after 5 years?","$23,072.93","$23,575.00","$23,765.12","$3,075.00"
+125,2,2026-09-06T23:00:23Z,2026-09-07T00:05:23Z,q1219,A contract signed on 21 January 2026 has a 136-day settlement period. On what date does it settle?,30 May 2026,6 July 2026,7 June 2026,6 June 2026
+125,3,2026-09-06T23:00:23Z,2026-09-07T00:05:23Z,q1396,A retailer sells 204 units at $64.35 each. What is total revenue?,"$13,127.40","$13,331.40","$13,770.90","$12,483.90"
+125,4,2026-09-06T23:00:23Z,2026-09-07T00:05:23Z,q0685,"Fixed costs are $19,000.00. Each unit sells for $173.00 with a variable cost of $120.00. How many units must be sold to break even?",110 units,358 units,65 units,158 units
+125,5,2026-09-06T23:00:23Z,2026-09-07T00:05:23Z,q1598,A retailer sells 169 units at $39.56 each. What is total revenue?,"$6,685.64","$7,081.24","$6,290.04","$6,854.64"
