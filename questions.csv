@@ -594,3 +594,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 119,3,2026-09-06T17:00:24Z,2026-09-06T18:05:24Z,q0578,"An invoice for $2,548.49 is settled at an exchange rate of 1.5764. What is the converted amount?","3,762.59","4,017.44","4,272.29","1,616.65"
 119,4,2026-09-06T17:00:24Z,2026-09-06T18:05:24Z,q0928,A $990.00 marketing budget is split between two channels in the ratio 4:8. What does the first channel receive?,$330.00,$82.50,$660.00,$495.00
 119,5,2026-09-06T17:00:24Z,2026-09-06T18:05:24Z,q1250,"An investment of $11,000.00 grows at 12% compounded annually. What is its value after 2 years?","$2,640.00","$12,320.00","$13,640.00","$13,798.40"
+120,1,2026-09-06T18:00:25Z,2026-09-06T19:05:25Z,q0768,"Fixed costs are $64,000.00. Each unit sells for $36.00 with a variable cost of $13.00. How many units must be sold to break even?","1,306 units","1,778 units","4,923 units","2,783 units"
+120,2,2026-09-06T18:00:25Z,2026-09-06T19:05:25Z,q1098,"Fixed costs are $39,500.00. Each unit sells for $168.00 with a variable cost of $51.00. How many units must be sold to break even?",338 units,775 units,235 units,180 units
+120,3,2026-09-06T18:00:25Z,2026-09-06T19:05:25Z,q0365,"An invoice for $5,835.09 is settled at an exchange rate of 1.8768. What is the converted amount?","3,109.06","10,367.79","11,534.81","10,951.30"
+120,4,2026-09-06T18:00:25Z,2026-09-06T19:05:25Z,q0481,An item listed at $654.38 is discounted by 45%. What is the sale price?,$609.38,$359.91,$948.85,$294.47
+120,5,2026-09-06T18:00:25Z,2026-09-06T19:05:25Z,q1273,"An investment of $7,500.00 grows at 8% compounded annually. What is its value after 7 years?","$11,700.00","$12,853.68","$4,200.00","$11,901.56"
