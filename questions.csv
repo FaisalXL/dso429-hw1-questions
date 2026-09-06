@@ -579,3 +579,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 116,3,2026-09-06T14:00:25Z,2026-09-06T15:05:25Z,q0415,A contract signed on 25 June 2026 has a 333-day settlement period. On what date does it settle?,24 May 2027,23 June 2027,25 May 2027,17 May 2027
 116,4,2026-09-06T14:00:25Z,2026-09-06T15:05:25Z,q0892,A $630.00 marketing budget is split between two channels in the ratio 4:3. What does the first channel receive?,$360.00,$90.00,$270.00,$840.00
 116,5,2026-09-06T14:00:25Z,2026-09-06T15:05:25Z,q1257,"A support queue holds 21 billing tickets, 13 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",50.0%,31.0%,81.0%,100.0%
+117,1,2026-09-06T15:00:21Z,2026-09-06T16:05:21Z,q1053,Region A had 128 orders averaging $48.00; region B had 17 orders averaging $91.00. What is the overall average order value?,69.50,85.96,60.09,53.04
+117,2,2026-09-06T15:00:21Z,2026-09-06T16:05:21Z,q1081,A retailer sells 733 units at $63.32 each. What is total revenue?,"$47,146.56","$47,046.76","$46,413.56","$45,780.36"
+117,3,2026-09-06T15:00:21Z,2026-09-06T16:05:21Z,q1295,An item listed at $402.00 is discounted by 10%. What is the sale price?,$392.00,$442.20,$40.20,$361.80
+117,4,2026-09-06T15:00:21Z,2026-09-06T16:05:21Z,q1513,A $900.00 marketing budget is split between two channels in the ratio 7:8. What does the first channel receive?,$60.00,$420.00,$787.50,$480.00
+117,5,2026-09-06T15:00:21Z,2026-09-06T16:05:21Z,q0638,"An invoice for $7,604.56 is settled at an exchange rate of 1.6424. What is the converted amount?","12,489.73","11,729.27","4,630.15","13,250.19"
