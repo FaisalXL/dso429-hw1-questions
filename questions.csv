@@ -504,3 +504,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 101,3,2026-09-05T23:00:22Z,2026-09-06T00:05:22Z,q0802,"An investment of $21,000.00 grows at 12% compounded annually. What is its value after 3 years?","$29,503.49","$7,560.00","$28,560.00","$26,342.40"
 101,4,2026-09-05T23:00:22Z,2026-09-06T00:05:22Z,q0431,"Quarterly revenue moved from $1,550.00 to $1,145.00. What is the percentage change?",-35.4%,73.9%,26.1%,-26.1%
 101,5,2026-09-05T23:00:22Z,2026-09-06T00:05:22Z,q1240,"An invoice for $6,117.25 is settled at an exchange rate of 1.0935. What is the converted amount?","6,077.49","7,300.94","5,594.19","6,689.21"
+102,1,2026-09-06T00:00:23Z,2026-09-06T01:05:23Z,q0769,"An invoice for $5,762.99 is settled at an exchange rate of 0.8335. What is the converted amount?","5,379.75","4,803.45","4,227.15","6,914.21"
+102,2,2026-09-06T00:00:23Z,2026-09-06T01:05:23Z,q0172,An item listed at $415.95 is discounted by 25%. What is the sale price?,$311.96,$519.94,$103.99,$390.95
+102,3,2026-09-06T00:00:23Z,2026-09-06T01:05:23Z,q0729,"A product line generates $77,750.00 in revenue against $57,266.57 in cost of goods sold. What is the gross margin?",73.7%,15.2%,35.8%,26.3%
+102,4,2026-09-06T00:00:23Z,2026-09-06T01:05:23Z,q1241,Region A had 56 orders averaging $90.00; region B had 157 orders averaging $93.00. What is the overall average order value?,125.10,91.50,90.79,92.21
+102,5,2026-09-06T00:00:23Z,2026-09-06T01:05:23Z,q1187,"Quarterly revenue moved from $2,050.00 to $2,633.00. What is the percentage change?",128.4%,-28.4%,28.4%,22.1%
