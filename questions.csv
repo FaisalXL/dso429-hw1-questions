@@ -604,3 +604,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 121,3,2026-09-06T19:00:22Z,2026-09-06T20:05:22Z,q0290,"A product line generates $21,750.00 in revenue against $13,393.27 in cost of goods sold. What is the gross margin?",23.8%,62.4%,61.6%,38.4%
 121,4,2026-09-06T19:00:22Z,2026-09-06T20:05:22Z,q0861,An item listed at $488.31 is discounted by 10%. What is the sale price?,$48.83,$537.14,$478.31,$439.48
 121,5,2026-09-06T19:00:22Z,2026-09-06T20:05:22Z,q0806,"A monthly headcount series runs 35, 48, 61, 74, 87. If the pattern continues, what is the next value?",113,87,126,100
+122,1,2026-09-06T20:00:22Z,2026-09-06T21:05:22Z,q0049,A retailer sells 961 units at $30.45 each. What is total revenue?,"$29,566.95","$28,957.95","$29,262.45","$30,223.45"
+122,2,2026-09-06T20:00:22Z,2026-09-06T21:05:22Z,q1607,A contract signed on 2 September 2026 has a 300-day settlement period. On what date does it settle?,29 July 2027,30 June 2027,22 June 2027,29 June 2027
+122,3,2026-09-06T20:00:22Z,2026-09-06T21:05:22Z,q0637,"Fixed costs are $70,500.00. Each unit sells for $190.00 with a variable cost of $94.00. How many units must be sold to break even?",750 units,734 units,248 units,371 units
+122,4,2026-09-06T20:00:22Z,2026-09-06T21:05:22Z,q0503,"Quarterly revenue moved from $2,650.00 to $4,103.00. What is the percentage change?",154.8%,35.4%,-54.8%,54.8%
+122,5,2026-09-06T20:00:22Z,2026-09-06T21:05:22Z,q0815,"Fixed costs are $26,000.00. Each unit sells for $194.00 with a variable cost of $109.00. How many units must be sold to break even?",306 units,134 units,86 units,239 units
