@@ -659,3 +659,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 132,3,2026-09-07T06:00:21Z,2026-09-07T07:05:21Z,q0026,"Quarterly revenue moved from $2,250.00 to $1,804.00. What is the percentage change?",19.8%,-24.7%,-19.8%,80.2%
 132,4,2026-09-07T06:00:21Z,2026-09-07T07:05:21Z,q1507,"An investment of $18,000.00 grows at 10% compounded annually. What is its value after 5 years?","$26,353.80","$27,000.00","$28,989.18","$9,000.00"
 132,5,2026-09-07T06:00:21Z,2026-09-07T07:05:21Z,q1225,An item listed at $446.50 is discounted by 20%. What is the sale price?,$426.50,$535.80,$89.30,$357.20
+133,1,2026-09-07T07:00:21Z,2026-09-07T08:05:21Z,q0123,"A product line generates $16,750.00 in revenue against $9,754.56 in cost of goods sold. What is the gross margin?",71.7%,26.4%,41.8%,58.2%
+133,2,2026-09-07T07:00:21Z,2026-09-07T08:05:21Z,q0464,A $720.00 marketing budget is split between two channels in the ratio 4:3. What does the first channel receive?,$411.43,$102.86,$308.57,$960.00
+133,3,2026-09-07T07:00:21Z,2026-09-07T08:05:21Z,q0156,"A support queue holds 10 billing tickets, 23 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",48.9%,21.3%,70.2%,27.0%
+133,4,2026-09-07T07:00:21Z,2026-09-07T08:05:21Z,q0226,A contract signed on 21 January 2026 has a 336-day settlement period. On what date does it settle?,24 December 2026,22 January 2027,23 December 2026,16 December 2026
+133,5,2026-09-07T07:00:21Z,2026-09-07T08:05:21Z,q0491,"Quarterly revenue moved from $3,950.00 to $2,642.00. What is the percentage change?",66.9%,-33.1%,-49.5%,33.1%
