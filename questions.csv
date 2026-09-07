@@ -719,3 +719,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 144,3,2026-09-07T18:00:21Z,2026-09-07T19:05:21Z,q0944,"A product line generates $27,500.00 in revenue against $14,425.54 in cost of goods sold. What is the gross margin?",31.2%,90.6%,52.5%,47.5%
 144,4,2026-09-07T18:00:21Z,2026-09-07T19:05:21Z,q0547,"A support queue holds 5 billing tickets, 16 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",13.9%,58.3%,44.4%,16.1%
 144,5,2026-09-07T18:00:21Z,2026-09-07T19:05:21Z,q1197,"A support queue holds 7 billing tickets, 14 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",20.6%,25.9%,41.2%,61.8%
+145,1,2026-09-07T19:00:21Z,2026-09-07T20:05:21Z,q0245,"An investment of $17,000.00 grows at 4% compounded annually. What is its value after 3 years?","$18,387.20","$19,040.00","$19,122.69","$2,040.00"
+145,2,2026-09-07T19:00:21Z,2026-09-07T20:05:21Z,q0371,A retailer sells 919 units at $22.34 each. What is total revenue?,"$20,307.06","$20,530.46","$21,449.46","$20,753.86"
+145,3,2026-09-07T19:00:21Z,2026-09-07T20:05:21Z,q0037,A retailer sells 500 units at $35.79 each. What is total revenue?,"$17,895.00","$18,395.00","$17,537.10","$18,252.90"
+145,4,2026-09-07T19:00:21Z,2026-09-07T20:05:21Z,q0530,"Fixed costs are $5,500.00. Each unit sells for $76.00 with a variable cost of $64.00. How many units must be sold to break even?",458 units,39 units,86 units,72 units
+145,5,2026-09-07T19:00:21Z,2026-09-07T20:05:21Z,q1444,A retailer sells 566 units at $46.80 each. What is total revenue?,"$26,488.80","$26,956.80","$27,054.80","$26,020.80"
