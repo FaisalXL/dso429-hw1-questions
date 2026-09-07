@@ -649,3 +649,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 130,3,2026-09-07T04:00:25Z,2026-09-07T05:05:25Z,q0162,"Fixed costs are $5,500.00. Each unit sells for $177.00 with a variable cost of $157.00. How many units must be sold to break even?",31 units,275 units,35 units,16 units
 130,4,2026-09-07T04:00:25Z,2026-09-07T05:05:25Z,q0529,"An investment of $21,500.00 grows at 4% compounded annually. What is its value after 4 years?","$24,940.00","$3,440.00","$25,151.96","$24,184.58"
 130,5,2026-09-07T04:00:25Z,2026-09-07T05:05:25Z,q1583,A contract signed on 24 April 2026 has a 391-day settlement period. On what date does it settle?,20 May 2027,19 June 2027,21 May 2027,13 May 2027
+131,1,2026-09-07T05:00:21Z,2026-09-07T06:05:21Z,q0773,"A $8,310.00 marketing budget is split between two channels in the ratio 5:2. What does the first channel receive?","$20,775.00","$5,935.71","$2,374.29","$1,187.14"
+131,2,2026-09-07T05:00:21Z,2026-09-07T06:05:21Z,q1674,"Fixed costs are $33,500.00. Each unit sells for $184.00 with a variable cost of $87.00. How many units must be sold to break even?",345 units,124 units,182 units,385 units
+131,3,2026-09-07T05:00:21Z,2026-09-07T06:05:21Z,q1366,"Fixed costs are $58,500.00. Each unit sells for $34.00 with a variable cost of $12.00. How many units must be sold to break even?","1,721 units","2,659 units","4,875 units","1,272 units"
+131,4,2026-09-07T05:00:21Z,2026-09-07T06:05:21Z,q1259,"Quarterly revenue moved from $3,200.00 to $4,277.00. What is the percentage change?",25.2%,-33.7%,33.7%,133.7%
+131,5,2026-09-07T05:00:21Z,2026-09-07T06:05:21Z,q1550,A retailer sells 594 units at $31.72 each. What is total revenue?,"$18,841.68","$18,524.48","$19,158.88","$19,435.68"
