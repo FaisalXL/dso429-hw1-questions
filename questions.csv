@@ -679,3 +679,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 136,3,2026-09-07T10:00:25Z,2026-09-07T11:05:25Z,q0197,"An investment of $8,500.00 grows at 12% compounded annually. What is its value after 5 years?","$13,374.91","$5,100.00","$14,979.90","$13,600.00"
 136,4,2026-09-07T10:00:25Z,2026-09-07T11:05:25Z,q0385,"A product line generates $75,750.00 in revenue against $37,756.46 in cost of goods sold. What is the gross margin?",100.6%,49.8%,33.5%,50.2%
 136,5,2026-09-07T10:00:25Z,2026-09-07T11:05:25Z,q0018,"Fixed costs are $32,500.00. Each unit sells for $141.00 with a variable cost of $104.00. How many units must be sold to break even?",133 units,312 units,878 units,230 units
+137,1,2026-09-07T11:00:23Z,2026-09-07T12:05:23Z,q1395,"A support queue holds 21 billing tickets, 4 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",12.1%,175.0%,75.8%,63.6%
+137,2,2026-09-07T11:00:23Z,2026-09-07T12:05:23Z,q1339,Quarterly revenue moved from $500.00 to $611.00. What is the percentage change?,22.2%,-22.2%,18.2%,122.2%
+137,3,2026-09-07T11:00:23Z,2026-09-07T12:05:23Z,q1551,"Quarterly revenue moved from $2,850.00 to $4,509.00. What is the percentage change?",58.2%,-58.2%,158.2%,36.8%
+137,4,2026-09-07T11:00:23Z,2026-09-07T12:05:23Z,q1626,"An investment of $48,500.00 grows at 4% compounded annually. What is its value after 8 years?","$64,020.00","$66,375.60","$15,520.00","$63,822.69"
+137,5,2026-09-07T11:00:23Z,2026-09-07T12:05:23Z,q1176,"Quarterly revenue moved from $4,050.00 to $2,717.00. What is the percentage change?",67.1%,32.9%,-49.1%,-32.9%
