@@ -714,3 +714,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 143,3,2026-09-07T17:00:25Z,2026-09-07T18:05:25Z,q0452,A $600.00 marketing budget is split between two channels in the ratio 6:4. What does the first channel receive?,$360.00,$900.00,$240.00,$60.00
 143,4,2026-09-07T17:00:25Z,2026-09-07T18:05:25Z,q0313,Quarterly revenue moved from $900.00 to $548.00. What is the percentage change?,60.9%,39.1%,-64.2%,-39.1%
 143,5,2026-09-07T17:00:25Z,2026-09-07T18:05:25Z,q1113,"A monthly headcount series runs 31, 40, 49, 58, 67. If the pattern continues, what is the next value?",85,67,76,94
+144,1,2026-09-07T18:00:21Z,2026-09-07T19:05:21Z,q1384,A retailer sells 193 units at $58.08 each. What is total revenue?,"$10,628.64","$11,790.24","$11,209.44","$11,402.44"
+144,2,2026-09-07T18:00:21Z,2026-09-07T19:05:21Z,q0305,"Fixed costs are $5,500.00. Each unit sells for $113.00 with a variable cost of $26.00. How many units must be sold to break even?",212 units,40 units,63 units,49 units
+144,3,2026-09-07T18:00:21Z,2026-09-07T19:05:21Z,q0944,"A product line generates $27,500.00 in revenue against $14,425.54 in cost of goods sold. What is the gross margin?",31.2%,90.6%,52.5%,47.5%
+144,4,2026-09-07T18:00:21Z,2026-09-07T19:05:21Z,q0547,"A support queue holds 5 billing tickets, 16 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",13.9%,58.3%,44.4%,16.1%
+144,5,2026-09-07T18:00:21Z,2026-09-07T19:05:21Z,q1197,"A support queue holds 7 billing tickets, 14 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",20.6%,25.9%,41.2%,61.8%
