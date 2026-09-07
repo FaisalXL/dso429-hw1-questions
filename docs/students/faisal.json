@@ -3330,11 +3330,16 @@
       "closed": false,
       "voided": false,
       "status": "open",
-      "submitted_at": "2026-09-07T19:15:18.875Z",
+      "submitted_at": "2026-09-07T19:30:18.232Z",
       "reason": null,
       "attempts": [
         {
           "at": "2026-09-07T19:15:18.875Z",
+          "on_time": true,
+          "counted": false
+        },
+        {
+          "at": "2026-09-07T19:30:18.232Z",
           "on_time": true,
           "counted": true
         }
