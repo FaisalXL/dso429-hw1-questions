@@ -624,3 +624,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 125,3,2026-09-06T23:00:23Z,2026-09-07T00:05:23Z,q1396,A retailer sells 204 units at $64.35 each. What is total revenue?,"$13,127.40","$13,331.40","$13,770.90","$12,483.90"
 125,4,2026-09-06T23:00:23Z,2026-09-07T00:05:23Z,q0685,"Fixed costs are $19,000.00. Each unit sells for $173.00 with a variable cost of $120.00. How many units must be sold to break even?",110 units,358 units,65 units,158 units
 125,5,2026-09-06T23:00:23Z,2026-09-07T00:05:23Z,q1598,A retailer sells 169 units at $39.56 each. What is total revenue?,"$6,685.64","$7,081.24","$6,290.04","$6,854.64"
+126,1,2026-09-07T00:00:22Z,2026-09-07T01:05:22Z,q0020,Region A had 130 orders averaging $93.00; region B had 121 orders averaging $40.00. What is the overall average order value?,65.55,66.50,67.45,130.23
+126,2,2026-09-07T00:00:22Z,2026-09-07T01:05:22Z,q1574,A retailer sells 555 units at $38.52 each. What is total revenue?,"$21,763.80","$20,993.40","$21,933.60","$21,378.60"
+126,3,2026-09-07T00:00:22Z,2026-09-07T01:05:22Z,q1490,"A support queue holds 15 billing tickets, 17 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",50.0%,37.8%,71.1%,33.3%
+126,4,2026-09-07T00:00:22Z,2026-09-07T01:05:22Z,q1306,"A product line generates $24,000.00 in revenue against $15,346.69 in cost of goods sold. What is the gross margin?",63.9%,36.1%,22.0%,56.4%
+126,5,2026-09-07T00:00:22Z,2026-09-07T01:05:22Z,q0564,"An investment of $32,000.00 grows at 6% compounded annually. What is its value after 5 years?","$40,399.26","$42,823.22","$41,600.00","$9,600.00"
