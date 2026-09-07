@@ -654,3 +654,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 131,3,2026-09-07T05:00:21Z,2026-09-07T06:05:21Z,q1366,"Fixed costs are $58,500.00. Each unit sells for $34.00 with a variable cost of $12.00. How many units must be sold to break even?","1,721 units","2,659 units","4,875 units","1,272 units"
 131,4,2026-09-07T05:00:21Z,2026-09-07T06:05:21Z,q1259,"Quarterly revenue moved from $3,200.00 to $4,277.00. What is the percentage change?",25.2%,-33.7%,33.7%,133.7%
 131,5,2026-09-07T05:00:21Z,2026-09-07T06:05:21Z,q1550,A retailer sells 594 units at $31.72 each. What is total revenue?,"$18,841.68","$18,524.48","$19,158.88","$19,435.68"
+132,1,2026-09-07T06:00:21Z,2026-09-07T07:05:21Z,q1293,Quarterly revenue moved from $700.00 to $591.00. What is the percentage change?,15.6%,-18.4%,-15.6%,84.4%
+132,2,2026-09-07T06:00:21Z,2026-09-07T07:05:21Z,q0168,"A support queue holds 16 billing tickets, 18 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",79.1%,37.2%,41.9%,59.3%
+132,3,2026-09-07T06:00:21Z,2026-09-07T07:05:21Z,q0026,"Quarterly revenue moved from $2,250.00 to $1,804.00. What is the percentage change?",19.8%,-24.7%,-19.8%,80.2%
+132,4,2026-09-07T06:00:21Z,2026-09-07T07:05:21Z,q1507,"An investment of $18,000.00 grows at 10% compounded annually. What is its value after 5 years?","$26,353.80","$27,000.00","$28,989.18","$9,000.00"
+132,5,2026-09-07T06:00:21Z,2026-09-07T07:05:21Z,q1225,An item listed at $446.50 is discounted by 20%. What is the sale price?,$426.50,$535.80,$89.30,$357.20
