@@ -724,3 +724,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 145,3,2026-09-07T19:00:21Z,2026-09-07T20:05:21Z,q0037,A retailer sells 500 units at $35.79 each. What is total revenue?,"$17,895.00","$18,395.00","$17,537.10","$18,252.90"
 145,4,2026-09-07T19:00:21Z,2026-09-07T20:05:21Z,q0530,"Fixed costs are $5,500.00. Each unit sells for $76.00 with a variable cost of $64.00. How many units must be sold to break even?",458 units,39 units,86 units,72 units
 145,5,2026-09-07T19:00:21Z,2026-09-07T20:05:21Z,q1444,A retailer sells 566 units at $46.80 each. What is total revenue?,"$26,488.80","$26,956.80","$27,054.80","$26,020.80"
+146,1,2026-09-07T20:00:24Z,2026-09-07T21:05:24Z,q0058,A contract signed on 28 April 2026 has a 178-day settlement period. On what date does it settle?,24 October 2026,16 October 2026,22 November 2026,23 October 2026
+146,2,2026-09-07T20:00:24Z,2026-09-07T21:05:24Z,q1276,Region A had 117 orders averaging $32.00; region B had 72 orders averaging $64.00. What is the overall average order value?,48.00,44.19,51.81,71.38
+146,3,2026-09-07T20:00:24Z,2026-09-07T21:05:24Z,q0508,"An invoice for $7,473.26 is settled at an exchange rate of 1.4526. What is the converted amount?","5,144.75","10,855.66","11,602.98","10,108.33"
+146,4,2026-09-07T20:00:24Z,2026-09-07T21:05:24Z,q0242,"Quarterly revenue moved from $4,300.00 to $5,682.00. What is the percentage change?",132.1%,24.3%,-32.1%,32.1%
+146,5,2026-09-07T20:00:24Z,2026-09-07T21:05:24Z,q0854,"A monthly headcount series runs 35, 40, 45, 50, 55. If the pattern continues, what is the next value?",55,60,65,70
