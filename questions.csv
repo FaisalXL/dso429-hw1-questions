@@ -729,3 +729,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 146,3,2026-09-07T20:00:24Z,2026-09-07T21:05:24Z,q0508,"An invoice for $7,473.26 is settled at an exchange rate of 1.4526. What is the converted amount?","5,144.75","10,855.66","11,602.98","10,108.33"
 146,4,2026-09-07T20:00:24Z,2026-09-07T21:05:24Z,q0242,"Quarterly revenue moved from $4,300.00 to $5,682.00. What is the percentage change?",132.1%,24.3%,-32.1%,32.1%
 146,5,2026-09-07T20:00:24Z,2026-09-07T21:05:24Z,q0854,"A monthly headcount series runs 35, 40, 45, 50, 55. If the pattern continues, what is the next value?",55,60,65,70
+147,1,2026-09-07T21:00:26Z,2026-09-07T22:05:26Z,q0185,"An investment of $34,000.00 grows at 13% compounded annually. What is its value after 5 years?","$55,436.10","$56,100.00","$22,100.00","$62,642.80"
+147,2,2026-09-07T21:00:26Z,2026-09-07T22:05:26Z,q1009,A contract signed on 29 December 2026 has a 171-day settlement period. On what date does it settle?,18 July 2027,11 June 2027,19 June 2027,18 June 2027
+147,3,2026-09-07T21:00:26Z,2026-09-07T22:05:26Z,q1313,"A $8,310.00 marketing budget is split between two channels in the ratio 6:2. What does the first channel receive?","$2,077.50","$6,232.50","$24,930.00","$1,038.75"
+147,4,2026-09-07T21:00:26Z,2026-09-07T22:05:26Z,q1369,"A monthly headcount series runs 13, 29, 45, 61, 77. If the pattern continues, what is the next value?",77,109,125,93
+147,5,2026-09-07T21:00:26Z,2026-09-07T22:05:26Z,q0553,"Fixed costs are $8,000.00. Each unit sells for $147.00 with a variable cost of $72.00. How many units must be sold to break even?",54 units,37 units,107 units,111 units
