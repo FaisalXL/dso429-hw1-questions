@@ -734,3 +734,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 147,3,2026-09-07T21:00:26Z,2026-09-07T22:05:26Z,q1313,"A $8,310.00 marketing budget is split between two channels in the ratio 6:2. What does the first channel receive?","$2,077.50","$6,232.50","$24,930.00","$1,038.75"
 147,4,2026-09-07T21:00:26Z,2026-09-07T22:05:26Z,q1369,"A monthly headcount series runs 13, 29, 45, 61, 77. If the pattern continues, what is the next value?",77,109,125,93
 147,5,2026-09-07T21:00:26Z,2026-09-07T22:05:26Z,q0553,"Fixed costs are $8,000.00. Each unit sells for $147.00 with a variable cost of $72.00. How many units must be sold to break even?",54 units,37 units,107 units,111 units
+148,1,2026-09-07T22:00:23Z,2026-09-07T23:05:23Z,q0368,A contract signed on 15 February 2026 has a 394-day settlement period. On what date does it settle?,15 April 2027,16 March 2027,9 March 2027,17 March 2027
+148,2,2026-09-07T22:00:23Z,2026-09-07T23:05:23Z,q1363,"A product line generates $12,500.00 in revenue against $7,368.91 in cost of goods sold. What is the gross margin?",25.8%,69.6%,41.0%,59.0%
+148,3,2026-09-07T22:00:23Z,2026-09-07T23:05:23Z,q0374,An item listed at $150.36 is discounted by 15%. What is the sale price?,$172.91,$22.55,$135.36,$127.81
+148,4,2026-09-07T22:00:23Z,2026-09-07T23:05:23Z,q1460,"Fixed costs are $53,000.00. Each unit sells for $157.00 with a variable cost of $75.00. How many units must be sold to break even?",707 units,646 units,338 units,228 units
+148,5,2026-09-07T22:00:23Z,2026-09-07T23:05:23Z,q0337,Quarterly revenue moved from $700.00 to $951.00. What is the percentage change?,35.9%,135.9%,26.4%,-35.9%
