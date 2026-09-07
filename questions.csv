@@ -709,3 +709,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 142,3,2026-09-07T16:00:25Z,2026-09-07T17:05:25Z,q0441,"A support queue holds 21 billing tickets, 11 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",50.0%,100.0%,76.2%,26.2%
 142,4,2026-09-07T16:00:25Z,2026-09-07T17:05:25Z,q1017,"Fixed costs are $59,000.00. Each unit sells for $191.00 with a variable cost of $88.00. How many units must be sold to break even?",309 units,573 units,211 units,670 units
 142,5,2026-09-07T16:00:25Z,2026-09-07T17:05:25Z,q0714,"A support queue holds 6 billing tickets, 25 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",15.0%,67.4%,13.0%,54.3%
+143,1,2026-09-07T17:00:25Z,2026-09-07T18:05:25Z,q1516,"Quarterly revenue moved from $1,700.00 to $2,086.00. What is the percentage change?",18.5%,22.7%,122.7%,-22.7%
+143,2,2026-09-07T17:00:25Z,2026-09-07T18:05:25Z,q0749,"A $8,220.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$2,740.00","$16,440.00","$5,480.00","$1,370.00"
+143,3,2026-09-07T17:00:25Z,2026-09-07T18:05:25Z,q0452,A $600.00 marketing budget is split between two channels in the ratio 6:4. What does the first channel receive?,$360.00,$900.00,$240.00,$60.00
+143,4,2026-09-07T17:00:25Z,2026-09-07T18:05:25Z,q0313,Quarterly revenue moved from $900.00 to $548.00. What is the percentage change?,60.9%,39.1%,-64.2%,-39.1%
+143,5,2026-09-07T17:00:25Z,2026-09-07T18:05:25Z,q1113,"A monthly headcount series runs 31, 40, 49, 58, 67. If the pattern continues, what is the next value?",85,67,76,94
