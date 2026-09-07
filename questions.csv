@@ -694,3 +694,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 139,3,2026-09-07T13:00:26Z,2026-09-07T14:05:26Z,q0843,A contract signed on 12 November 2026 has a 342-day settlement period. On what date does it settle?,19 November 2027,13 October 2027,20 October 2027,21 October 2027
 139,4,2026-09-07T13:00:26Z,2026-09-07T14:05:26Z,q1421,"Quarterly revenue moved from $3,200.00 to $4,815.00. What is the percentage change?",50.5%,-50.5%,33.5%,150.5%
 139,5,2026-09-07T13:00:26Z,2026-09-07T14:05:26Z,q1671,"A product line generates $43,000.00 in revenue against $34,621.25 in cost of goods sold. What is the gross margin?",24.2%,19.5%,80.5%,10.8%
+140,1,2026-09-07T14:00:22Z,2026-09-07T15:05:22Z,q0571,"A support queue holds 7 billing tickets, 24 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",19.4%,66.7%,24.1%,86.1%
+140,2,2026-09-07T14:00:22Z,2026-09-07T15:05:22Z,q1181,"An invoice for $6,444.98 is settled at an exchange rate of 1.8521. What is the converted amount?","11,936.75","11,292.25","12,581.25","3,479.82"
+140,3,2026-09-07T14:00:22Z,2026-09-07T15:05:22Z,q1262,"An investment of $21,000.00 grows at 6% compounded annually. What is its value after 2 years?","$2,520.00","$23,520.00","$22,260.00","$23,595.60"
+140,4,2026-09-07T14:00:22Z,2026-09-07T15:05:22Z,q1419,"A support queue holds 7 billing tickets, 22 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",64.7%,85.3%,25.9%,20.6%
+140,5,2026-09-07T14:00:22Z,2026-09-07T15:05:22Z,q0074,"Quarterly revenue moved from $2,900.00 to $4,133.00. What is the percentage change?",42.5%,29.8%,-42.5%,142.5%
