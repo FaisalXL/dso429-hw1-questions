@@ -674,3 +674,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 135,3,2026-09-07T09:00:27Z,2026-09-07T10:05:27Z,q1346,"A monthly headcount series runs 17, 23, 29, 35, 41. If the pattern continues, what is the next value?",47,53,41,59
 135,4,2026-09-07T09:00:27Z,2026-09-07T10:05:27Z,q1621,"A support queue holds 13 billing tickets, 20 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",48.8%,46.4%,31.7%,80.5%
 135,5,2026-09-07T09:00:27Z,2026-09-07T10:05:27Z,q1101,"A monthly headcount series runs 14, 31, 48, 65, 82. If the pattern continues, what is the next value?",133,99,116,82
+136,1,2026-09-07T10:00:25Z,2026-09-07T11:05:25Z,q1303,"A support queue holds 18 billing tickets, 4 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",71.0%,12.9%,138.5%,58.1%
+136,2,2026-09-07T10:00:25Z,2026-09-07T11:05:25Z,q0525,A retailer sells 792 units at $29.01 each. What is total revenue?,"$22,975.92","$23,767.92","$22,685.82","$23,266.02"
+136,3,2026-09-07T10:00:25Z,2026-09-07T11:05:25Z,q0197,"An investment of $8,500.00 grows at 12% compounded annually. What is its value after 5 years?","$13,374.91","$5,100.00","$14,979.90","$13,600.00"
+136,4,2026-09-07T10:00:25Z,2026-09-07T11:05:25Z,q0385,"A product line generates $75,750.00 in revenue against $37,756.46 in cost of goods sold. What is the gross margin?",100.6%,49.8%,33.5%,50.2%
+136,5,2026-09-07T10:00:25Z,2026-09-07T11:05:25Z,q0018,"Fixed costs are $32,500.00. Each unit sells for $141.00 with a variable cost of $104.00. How many units must be sold to break even?",133 units,312 units,878 units,230 units
