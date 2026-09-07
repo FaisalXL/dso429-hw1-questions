@@ -684,3 +684,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 137,3,2026-09-07T11:00:23Z,2026-09-07T12:05:23Z,q1551,"Quarterly revenue moved from $2,850.00 to $4,509.00. What is the percentage change?",58.2%,-58.2%,158.2%,36.8%
 137,4,2026-09-07T11:00:23Z,2026-09-07T12:05:23Z,q1626,"An investment of $48,500.00 grows at 4% compounded annually. What is its value after 8 years?","$64,020.00","$66,375.60","$15,520.00","$63,822.69"
 137,5,2026-09-07T11:00:23Z,2026-09-07T12:05:23Z,q1176,"Quarterly revenue moved from $4,050.00 to $2,717.00. What is the percentage change?",67.1%,32.9%,-49.1%,-32.9%
+138,1,2026-09-07T12:00:22Z,2026-09-07T13:05:22Z,q0767,"An investment of $13,000.00 grows at 9% compounded annually. What is its value after 5 years?","$18,350.56","$18,850.00","$20,002.11","$5,850.00"
+138,2,2026-09-07T12:00:22Z,2026-09-07T13:05:22Z,q1417,A contract signed on 23 September 2026 has a 32-day settlement period. On what date does it settle?,24 November 2026,25 October 2026,18 October 2026,26 October 2026
+138,3,2026-09-07T12:00:22Z,2026-09-07T13:05:22Z,q0832,"A $5,580.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$1,116.00","$2,232.00","$3,348.00","$8,370.00"
+138,4,2026-09-07T12:00:22Z,2026-09-07T13:05:22Z,q1663,"Fixed costs are $8,000.00. Each unit sells for $65.00 with a variable cost of $18.00. How many units must be sold to break even?",96 units,123 units,444 units,170 units
+138,5,2026-09-07T12:00:22Z,2026-09-07T13:05:22Z,q0889,Region A had 85 orders averaging $85.00; region B had 153 orders averaging $57.00. What is the overall average order value?,67.00,71.00,75.00,104.22
