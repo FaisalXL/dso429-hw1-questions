@@ -689,3 +689,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 138,3,2026-09-07T12:00:22Z,2026-09-07T13:05:22Z,q0832,"A $5,580.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$1,116.00","$2,232.00","$3,348.00","$8,370.00"
 138,4,2026-09-07T12:00:22Z,2026-09-07T13:05:22Z,q1663,"Fixed costs are $8,000.00. Each unit sells for $65.00 with a variable cost of $18.00. How many units must be sold to break even?",96 units,123 units,444 units,170 units
 138,5,2026-09-07T12:00:22Z,2026-09-07T13:05:22Z,q0889,Region A had 85 orders averaging $85.00; region B had 153 orders averaging $57.00. What is the overall average order value?,67.00,71.00,75.00,104.22
+139,1,2026-09-07T13:00:26Z,2026-09-07T14:05:26Z,q0160,An item listed at $320.28 is discounted by 10%. What is the sale price?,$310.28,$32.03,$352.31,$288.25
+139,2,2026-09-07T13:00:26Z,2026-09-07T14:05:26Z,q0922,"An investment of $36,000.00 grows at 7% compounded annually. What is its value after 7 years?","$53,640.00","$57,808.13","$54,026.29","$17,640.00"
+139,3,2026-09-07T13:00:26Z,2026-09-07T14:05:26Z,q0843,A contract signed on 12 November 2026 has a 342-day settlement period. On what date does it settle?,19 November 2027,13 October 2027,20 October 2027,21 October 2027
+139,4,2026-09-07T13:00:26Z,2026-09-07T14:05:26Z,q1421,"Quarterly revenue moved from $3,200.00 to $4,815.00. What is the percentage change?",50.5%,-50.5%,33.5%,150.5%
+139,5,2026-09-07T13:00:26Z,2026-09-07T14:05:26Z,q1671,"A product line generates $43,000.00 in revenue against $34,621.25 in cost of goods sold. What is the gross margin?",24.2%,19.5%,80.5%,10.8%
