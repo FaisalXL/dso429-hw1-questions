@@ -774,3 +774,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 155,3,2026-09-08T05:00:23Z,2026-09-08T06:05:23Z,q0294,"An invoice for $2,346.21 is settled at an exchange rate of 1.7336. What is the converted amount?","4,067.39","4,302.01","3,832.77","1,353.37"
 155,4,2026-09-08T05:00:23Z,2026-09-08T06:05:23Z,q0873,An item listed at $490.76 is discounted by 30%. What is the sale price?,$343.53,$460.76,$637.99,$147.23
 155,5,2026-09-08T05:00:23Z,2026-09-08T06:05:23Z,q0726,"A support queue holds 10 billing tickets, 17 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",81.8%,43.5%,51.5%,30.3%
+156,1,2026-09-08T06:00:26Z,2026-09-08T07:05:26Z,q1133,"An investment of $10,000.00 grows at 15% compounded annually. What is its value after 7 years?","$10,500.00","$23,130.61","$20,500.00","$26,600.20"
+156,2,2026-09-08T06:00:26Z,2026-09-08T07:05:26Z,q0642,A $630.00 marketing budget is split between two channels in the ratio 3:6. What does the first channel receive?,$70.00,$210.00,$420.00,$315.00
+156,3,2026-09-08T06:00:26Z,2026-09-08T07:05:26Z,q0859,Quarterly revenue moved from $250.00 to $377.00. What is the percentage change?,33.7%,-50.8%,50.8%,150.8%
+156,4,2026-09-08T06:00:26Z,2026-09-08T07:05:26Z,q0893,"A support queue holds 14 billing tickets, 21 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",44.7%,74.5%,29.8%,42.4%
+156,5,2026-09-08T06:00:26Z,2026-09-08T07:05:26Z,q1364,An item listed at $225.00 is discounted by 25%. What is the sale price?,$281.25,$200.00,$56.25,$168.75
