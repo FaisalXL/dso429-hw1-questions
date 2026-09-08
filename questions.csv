@@ -749,3 +749,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 150,3,2026-09-08T00:00:23Z,2026-09-08T01:05:23Z,q0402,"A monthly headcount series runs 28, 42, 56, 70, 84. If the pattern continues, what is the next value?",126,98,84,112
 150,4,2026-09-08T00:00:23Z,2026-09-08T01:05:23Z,q0475,A contract signed on 5 January 2026 has a 80-day settlement period. On what date does it settle?,19 March 2026,27 March 2026,25 April 2026,26 March 2026
 150,5,2026-09-08T00:00:23Z,2026-09-08T01:05:23Z,q1323,A contract signed on 3 June 2026 has a 209-day settlement period. On what date does it settle?,22 December 2026,29 December 2026,28 January 2027,30 December 2026
+151,1,2026-09-08T01:00:25Z,2026-09-08T02:05:25Z,q0044,Region A had 68 orders averaging $77.00; region B had 67 orders averaging $44.00. What is the overall average order value?,60.62,120.35,60.50,60.38
+151,2,2026-09-08T01:00:25Z,2026-09-08T02:05:25Z,q1117,A retailer sells 710 units at $84.72 each. What is total revenue?,"$60,998.40","$59,304.00","$60,861.20","$60,151.20"
+151,3,2026-09-08T01:00:25Z,2026-09-08T02:05:25Z,q0997,A contract signed on 6 March 2026 has a 318-day settlement period. On what date does it settle?,17 February 2027,11 January 2027,19 January 2027,18 January 2027
+151,4,2026-09-08T01:00:25Z,2026-09-08T02:05:25Z,q0443,"Quarterly revenue moved from $4,250.00 to $5,681.00. What is the percentage change?",25.2%,-33.7%,33.7%,133.7%
+151,5,2026-09-08T01:00:25Z,2026-09-08T02:05:25Z,q0502,A retailer sells 352 units at $56.80 each. What is total revenue?,"$20,345.60","$19,993.60","$19,425.60","$20,561.60"
