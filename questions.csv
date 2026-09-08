@@ -849,3 +849,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 170,3,2026-09-08T20:00:23Z,2026-09-08T21:05:23Z,q1668,"A support queue holds 5 billing tickets, 6 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",23.8%,28.6%,52.4%,31.2%
 170,4,2026-09-08T20:00:23Z,2026-09-08T21:05:23Z,q1023,A retailer sells 195 units at $61.96 each. What is total revenue?,"$12,277.20","$12,701.80","$11,462.60","$12,082.20"
 170,5,2026-09-08T20:00:23Z,2026-09-08T21:05:23Z,q0885,An item listed at $598.28 is discounted by 40%. What is the sale price?,$558.28,$837.59,$239.31,$358.97
+171,1,2026-09-08T21:00:21Z,2026-09-08T22:05:21Z,q0669,"Quarterly revenue moved from $4,700.00 to $7,030.00. What is the percentage change?",49.6%,33.1%,149.6%,-49.6%
+171,2,2026-09-08T21:00:21Z,2026-09-08T22:05:21Z,q1031,A contract signed on 3 February 2026 has a 105-day settlement period. On what date does it settle?,20 May 2026,19 May 2026,12 May 2026,18 June 2026
+171,3,2026-09-08T21:00:21Z,2026-09-08T22:05:21Z,q0124,An item listed at $497.76 is discounted by 20%. What is the sale price?,$597.31,$398.21,$99.55,$477.76
+171,4,2026-09-08T21:00:21Z,2026-09-08T22:05:21Z,q0318,An invoice for $514.06 is settled at an exchange rate of 1.4796. What is the converted amount?,709.20,760.60,812.01,347.43
+171,5,2026-09-08T21:00:21Z,2026-09-08T22:05:21Z,q1665,Region A had 68 orders averaging $88.00; region B had 14 orders averaging $24.00. What is the overall average order value?,77.07,92.94,34.93,56.00
