@@ -769,3 +769,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 154,3,2026-09-08T04:00:23Z,2026-09-08T05:05:23Z,q0515,"A product line generates $41,750.00 in revenue against $32,209.49 in cost of goods sold. What is the gross margin?",29.6%,12.9%,22.9%,77.1%
 154,4,2026-09-08T04:00:23Z,2026-09-08T05:05:23Z,q1039,"Fixed costs are $22,500.00. Each unit sells for $160.00 with a variable cost of $79.00. How many units must be sold to break even?",278 units,285 units,141 units,94 units
 154,5,2026-09-08T04:00:23Z,2026-09-08T05:05:23Z,q1622,A retailer sells 718 units at $74.73 each. What is total revenue?,"$53,656.14","$54,403.44","$52,908.84","$54,374.14"
+155,1,2026-09-08T05:00:23Z,2026-09-08T06:05:23Z,q0235,"An invoice for $3,835.68 is settled at an exchange rate of 1.6769. What is the converted amount?","6,048.48","6,432.05","2,287.36","6,815.62"
+155,2,2026-09-08T05:00:23Z,2026-09-08T06:05:23Z,q0256,An item listed at $279.17 is discounted by 15%. What is the sale price?,$237.29,$41.88,$321.05,$264.17
+155,3,2026-09-08T05:00:23Z,2026-09-08T06:05:23Z,q0294,"An invoice for $2,346.21 is settled at an exchange rate of 1.7336. What is the converted amount?","4,067.39","4,302.01","3,832.77","1,353.37"
+155,4,2026-09-08T05:00:23Z,2026-09-08T06:05:23Z,q0873,An item listed at $490.76 is discounted by 30%. What is the sale price?,$343.53,$460.76,$637.99,$147.23
+155,5,2026-09-08T05:00:23Z,2026-09-08T06:05:23Z,q0726,"A support queue holds 10 billing tickets, 17 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",81.8%,43.5%,51.5%,30.3%
