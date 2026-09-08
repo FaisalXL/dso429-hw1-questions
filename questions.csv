@@ -784,3 +784,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 157,3,2026-09-08T07:00:24Z,2026-09-08T08:05:24Z,q0251,"A $6,060.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$12,120.00","$4,040.00","$2,020.00","$1,010.00"
 157,4,2026-09-08T07:00:24Z,2026-09-08T08:05:24Z,q0386,An item listed at $415.36 is discounted by 10%. What is the sale price?,$41.54,$373.82,$405.36,$456.90
 157,5,2026-09-08T07:00:24Z,2026-09-08T08:05:24Z,q0297,A contract signed on 24 May 2026 has a 309-day settlement period. On what date does it settle?,29 March 2027,28 April 2027,22 March 2027,30 March 2027
+158,1,2026-09-08T08:00:26Z,2026-09-08T09:05:26Z,q1060,"A product line generates $11,500.00 in revenue against $6,890.30 in cost of goods sold. What is the gross margin?",40.1%,59.9%,25.1%,66.9%
+158,2,2026-09-08T08:00:26Z,2026-09-08T09:05:26Z,q0007,"An invoice for $3,235.05 is settled at an exchange rate of 0.8033. What is the converted amount?","2,275.21","2,598.72","4,027.20","2,922.22"
+158,3,2026-09-08T08:00:26Z,2026-09-08T09:05:26Z,q0784,"A $1,140.00 marketing budget is split between two channels in the ratio 3:6. What does the first channel receive?",$570.00,$380.00,$760.00,$126.67
+158,4,2026-09-08T08:00:26Z,2026-09-08T09:05:26Z,q0363,"An investment of $13,500.00 grows at 8% compounded annually. What is its value after 6 years?","$19,835.93","$6,480.00","$21,422.80","$19,980.00"
+158,5,2026-09-08T08:00:26Z,2026-09-08T09:05:26Z,q1399,An item listed at $184.00 is discounted by 10%. What is the sale price?,$174.00,$202.40,$18.40,$165.60
