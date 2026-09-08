@@ -764,3 +764,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 153,3,2026-09-08T03:00:21Z,2026-09-08T04:05:21Z,q1348,"A $8,220.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$3,522.86","$1,174.29","$4,697.14","$6,165.00"
 153,4,2026-09-08T03:00:21Z,2026-09-08T04:05:21Z,q0755,"An investment of $22,500.00 grows at 6% compounded annually. What is its value after 8 years?","$10,800.00","$33,831.68","$33,300.00","$35,861.58"
 153,5,2026-09-08T03:00:21Z,2026-09-08T04:05:21Z,q1066,"A monthly headcount series runs 22, 30, 38, 46, 54. If the pattern continues, what is the next value?",62,54,78,70
+154,1,2026-09-08T04:00:23Z,2026-09-08T05:05:23Z,q0730,An item listed at $326.21 is discounted by 30%. What is the sale price?,$296.21,$97.86,$424.07,$228.35
+154,2,2026-09-08T04:00:23Z,2026-09-08T05:05:23Z,q0029,"An investment of $18,000.00 grows at 15% compounded annually. What is its value after 7 years?","$18,900.00","$47,880.36","$41,635.09","$36,900.00"
+154,3,2026-09-08T04:00:23Z,2026-09-08T05:05:23Z,q0515,"A product line generates $41,750.00 in revenue against $32,209.49 in cost of goods sold. What is the gross margin?",29.6%,12.9%,22.9%,77.1%
+154,4,2026-09-08T04:00:23Z,2026-09-08T05:05:23Z,q1039,"Fixed costs are $22,500.00. Each unit sells for $160.00 with a variable cost of $79.00. How many units must be sold to break even?",278 units,285 units,141 units,94 units
+154,5,2026-09-08T04:00:23Z,2026-09-08T05:05:23Z,q1622,A retailer sells 718 units at $74.73 each. What is total revenue?,"$53,656.14","$54,403.44","$52,908.84","$54,374.14"
