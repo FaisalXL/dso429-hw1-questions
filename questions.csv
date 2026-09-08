@@ -814,3 +814,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 163,3,2026-09-08T13:00:28Z,2026-09-08T14:05:28Z,q0145,A retailer sells 500 units at $48.77 each. What is total revenue?,"$24,885.00","$23,897.30","$24,872.70","$24,385.00"
 163,4,2026-09-08T13:00:28Z,2026-09-08T14:05:28Z,q0680,A retailer sells 208 units at $33.70 each. What is total revenue?,"$7,217.60","$7,346.60","$6,672.60","$7,009.60"
 163,5,2026-09-08T13:00:28Z,2026-09-08T14:05:28Z,q1037,An item listed at $510.93 is discounted by 25%. What is the sale price?,$383.20,$638.66,$127.73,$485.93
+164,1,2026-09-08T14:00:27Z,2026-09-08T15:05:27Z,q0661,"Fixed costs are $8,500.00. Each unit sells for $32.00 with a variable cost of $12.00. How many units must be sold to break even?",266 units,193 units,425 units,708 units
+164,2,2026-09-08T14:00:27Z,2026-09-08T15:05:27Z,q1045,"A support queue holds 10 billing tickets, 25 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",33.3%,62.5%,87.5%,25.0%
+164,3,2026-09-08T14:00:27Z,2026-09-08T15:05:27Z,q0505,An item listed at $120.27 is discounted by 10%. What is the sale price?,$108.24,$110.27,$12.03,$132.30
+164,4,2026-09-08T14:00:27Z,2026-09-08T15:05:27Z,q1152,A retailer sells 713 units at $51.65 each. What is total revenue?,"$37,539.45","$36,826.45","$36,309.95","$37,342.95"
+164,5,2026-09-08T14:00:27Z,2026-09-08T15:05:27Z,q0079,"An invoice for $4,131.12 is settled at an exchange rate of 0.7391. What is the converted amount?","2,640.20","5,589.39","3,053.31","3,466.42"
