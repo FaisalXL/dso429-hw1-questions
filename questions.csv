@@ -794,3 +794,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 159,3,2026-09-08T09:00:23Z,2026-09-08T10:05:23Z,q0686,"An invoice for $7,387.35 is settled at an exchange rate of 1.1562. What is the converted amount?","6,389.34","9,279.99","7,802.52","8,541.25"
 159,4,2026-09-08T09:00:23Z,2026-09-08T10:05:23Z,q0598,"A product line generates $47,250.00 in revenue against $29,227.60 in cost of goods sold. What is the gross margin?",61.7%,23.6%,38.1%,61.9%
 159,5,2026-09-08T09:00:23Z,2026-09-08T10:05:23Z,q1483,"An investment of $13,000.00 grows at 2% compounded annually. What is its value after 6 years?","$14,353.05","$1,560.00","$14,640.11","$14,560.00"
+160,1,2026-09-08T10:00:22Z,2026-09-08T11:05:22Z,q0794,"A monthly headcount series runs 17, 22, 27, 32, 37. If the pattern continues, what is the next value?",42,52,37,47
+160,2,2026-09-08T10:00:22Z,2026-09-08T11:05:22Z,q0934,"An investment of $47,500.00 grows at 15% compounded annually. What is its value after 8 years?","$57,000.00","$104,500.00","$145,303.59","$126,350.94"
+160,3,2026-09-08T10:00:22Z,2026-09-08T11:05:22Z,q1387,An item listed at $703.81 is discounted by 40%. What is the sale price?,$663.81,$985.33,$281.52,$422.29
+160,4,2026-09-08T10:00:22Z,2026-09-08T11:05:22Z,q1042,"A monthly headcount series runs 25, 34, 43, 52, 61. If the pattern continues, what is the next value?",79,88,70,61
+160,5,2026-09-08T10:00:22Z,2026-09-08T11:05:22Z,q0904,"A $6,150.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$2,050.00","$12,300.00","$4,100.00","$1,025.00"
