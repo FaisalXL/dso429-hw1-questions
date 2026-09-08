@@ -844,3 +844,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 169,3,2026-09-08T19:00:26Z,2026-09-08T20:05:26Z,q1386,"A product line generates $7,750.00 in revenue against $6,502.92 in cost of goods sold. What is the gross margin?",19.2%,16.1%,8.7%,83.9%
 169,4,2026-09-08T19:00:26Z,2026-09-08T20:05:26Z,q1666,A contract signed on 10 January 2026 has a 118-day settlement period. On what date does it settle?,8 May 2026,9 May 2026,7 June 2026,1 May 2026
 169,5,2026-09-08T19:00:26Z,2026-09-08T20:05:26Z,q1375,"A product line generates $64,000.00 in revenue against $52,898.07 in cost of goods sold. What is the gross margin?",17.3%,21.0%,9.5%,82.7%
+170,1,2026-09-08T20:00:23Z,2026-09-08T21:05:23Z,q0320,"A monthly headcount series runs 7, 16, 25, 34, 43. If the pattern continues, what is the next value?",61,43,70,52
+170,2,2026-09-08T20:00:23Z,2026-09-08T21:05:23Z,q0986,A contract signed on 4 December 2026 has a 164-day settlement period. On what date does it settle?,16 June 2027,10 May 2027,17 May 2027,18 May 2027
+170,3,2026-09-08T20:00:23Z,2026-09-08T21:05:23Z,q1668,"A support queue holds 5 billing tickets, 6 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",23.8%,28.6%,52.4%,31.2%
+170,4,2026-09-08T20:00:23Z,2026-09-08T21:05:23Z,q1023,A retailer sells 195 units at $61.96 each. What is total revenue?,"$12,277.20","$12,701.80","$11,462.60","$12,082.20"
+170,5,2026-09-08T20:00:23Z,2026-09-08T21:05:23Z,q0885,An item listed at $598.28 is discounted by 40%. What is the sale price?,$558.28,$837.59,$239.31,$358.97
