@@ -839,3 +839,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 168,3,2026-09-08T18:00:26Z,2026-09-08T19:05:26Z,q0429,"A support queue holds 25 billing tickets, 5 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",64.1%,12.8%,76.9%,178.6%
 168,4,2026-09-08T18:00:26Z,2026-09-08T19:05:26Z,q0940,"A $1,170.00 marketing budget is split between two channels in the ratio 6:8. What does the first channel receive?",$877.50,$501.43,$668.57,$83.57
 168,5,2026-09-08T18:00:26Z,2026-09-08T19:05:26Z,q0719,"An investment of $37,500.00 grows at 11% compounded annually. What is its value after 7 years?","$28,875.00","$77,856.01","$70,140.55","$66,375.00"
+169,1,2026-09-08T19:00:26Z,2026-09-08T20:05:26Z,q0649,"Fixed costs are $38,000.00. Each unit sells for $130.00 with a variable cost of $59.00. How many units must be sold to break even?",644 units,535 units,292 units,201 units
+169,2,2026-09-08T19:00:26Z,2026-09-08T20:05:26Z,q0400,"An invoice for $6,016.19 is settled at an exchange rate of 1.2982. What is the converted amount?","7,810.22","8,411.84","7,208.60","4,634.26"
+169,3,2026-09-08T19:00:26Z,2026-09-08T20:05:26Z,q1386,"A product line generates $7,750.00 in revenue against $6,502.92 in cost of goods sold. What is the gross margin?",19.2%,16.1%,8.7%,83.9%
+169,4,2026-09-08T19:00:26Z,2026-09-08T20:05:26Z,q1666,A contract signed on 10 January 2026 has a 118-day settlement period. On what date does it settle?,8 May 2026,9 May 2026,7 June 2026,1 May 2026
+169,5,2026-09-08T19:00:26Z,2026-09-08T20:05:26Z,q1375,"A product line generates $64,000.00 in revenue against $52,898.07 in cost of goods sold. What is the gross margin?",17.3%,21.0%,9.5%,82.7%
