@@ -829,3 +829,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 166,3,2026-09-08T16:00:24Z,2026-09-08T17:05:24Z,q1109,"An investment of $24,000.00 grows at 11% compounded annually. What is its value after 5 years?","$37,200.00","$13,200.00","$40,441.40","$36,433.69"
 166,4,2026-09-08T16:00:24Z,2026-09-08T17:05:24Z,q0436,"An invoice for $2,991.57 is settled at an exchange rate of 0.8699. What is the converted amount?","3,438.98","2,303.21","2,901.52","2,602.37"
 166,5,2026-09-08T16:00:24Z,2026-09-08T17:05:24Z,q0133,A retailer sells 834 units at $59.61 each. What is total revenue?,"$49,118.64","$49,714.74","$50,548.74","$50,310.84"
+167,1,2026-09-08T17:00:23Z,2026-09-08T18:05:23Z,q0470,"An investment of $42,000.00 grows at 15% compounded annually. What is its value after 6 years?","$84,477.00","$97,148.55","$79,800.00","$37,800.00"
+167,2,2026-09-08T17:00:23Z,2026-09-08T18:05:23Z,q0897,An item listed at $448.04 is discounted by 30%. What is the sale price?,$313.63,$418.04,$582.45,$134.41
+167,3,2026-09-08T17:00:23Z,2026-09-08T18:05:23Z,q0506,"An investment of $34,000.00 grows at 12% compounded annually. What is its value after 5 years?","$54,400.00","$59,919.62","$53,499.66","$20,400.00"
+167,4,2026-09-08T17:00:23Z,2026-09-08T18:05:23Z,q0673,"Fixed costs are $15,500.00. Each unit sells for $43.00 with a variable cost of $17.00. How many units must be sold to break even?",360 units,258 units,912 units,596 units
+167,5,2026-09-08T17:00:23Z,2026-09-08T18:05:23Z,q1129,A retailer sells 205 units at $22.56 each. What is total revenue?,"$4,850.40","$4,399.20","$4,829.80","$4,624.80"
