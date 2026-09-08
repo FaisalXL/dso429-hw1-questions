@@ -859,3 +859,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 172,3,2026-09-08T22:00:22Z,2026-09-08T23:05:22Z,q1024,Quarterly revenue moved from $250.00 to $372.00. What is the percentage change?,32.8%,-48.8%,148.8%,48.8%
 172,4,2026-09-08T22:00:22Z,2026-09-08T23:05:22Z,q0987,"A $6,330.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$2,532.00","$1,266.00","$3,798.00","$4,220.00"
 172,5,2026-09-08T22:00:22Z,2026-09-08T23:05:22Z,q0634,"A product line generates $81,500.00 in revenue against $50,140.76 in cost of goods sold. What is the gross margin?",62.5%,38.5%,23.8%,61.5%
+173,1,2026-09-08T23:00:24Z,2026-09-09T00:05:24Z,q1076,"An invoice for $3,887.65 is settled at an exchange rate of 1.6519. What is the converted amount?","6,422.01","6,033.24","2,353.44","6,810.77"
+173,2,2026-09-08T23:00:24Z,2026-09-09T00:05:24Z,q1199,"Quarterly revenue moved from $4,300.00 to $5,059.00. What is the percentage change?",117.7%,15.0%,17.7%,-17.7%
+173,3,2026-09-08T23:00:24Z,2026-09-09T00:05:24Z,q0878,"A monthly headcount series runs 19, 26, 33, 40, 47. If the pattern continues, what is the next value?",61,68,47,54
+173,4,2026-09-08T23:00:24Z,2026-09-09T00:05:24Z,q1255,A contract signed on 4 May 2026 has a 316-day settlement period. On what date does it settle?,9 March 2027,15 April 2027,17 March 2027,16 March 2027
+173,5,2026-09-08T23:00:24Z,2026-09-09T00:05:24Z,q1629,Region A had 90 orders averaging $49.00; region B had 19 orders averaging $85.00. What is the overall average order value?,66.94,78.72,55.28,67.00
