@@ -744,3 +744,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 149,3,2026-09-07T23:00:22Z,2026-09-08T00:05:22Z,q1565,An item listed at $611.24 is discounted by 25%. What is the sale price?,$764.05,$152.81,$586.24,$458.43
 149,4,2026-09-07T23:00:22Z,2026-09-08T00:05:22Z,q1196,"A $8,280.00 marketing budget is split between two channels in the ratio 2:6. What does the first channel receive?","$6,210.00","$2,760.00","$1,035.00","$2,070.00"
 149,5,2026-09-07T23:00:22Z,2026-09-08T00:05:22Z,q0980,An item listed at $666.37 is discounted by 20%. What is the sale price?,$646.37,$799.64,$133.27,$533.10
+150,1,2026-09-08T00:00:23Z,2026-09-08T01:05:23Z,q1610,A retailer sells 938 units at $51.99 each. What is total revenue?,"$48,766.62","$49,704.62","$49,286.52","$48,246.72"
+150,2,2026-09-08T00:00:23Z,2026-09-08T01:05:23Z,q0348,"Quarterly revenue moved from $2,700.00 to $4,235.00. What is the percentage change?",-56.9%,56.9%,156.9%,36.2%
+150,3,2026-09-08T00:00:23Z,2026-09-08T01:05:23Z,q0402,"A monthly headcount series runs 28, 42, 56, 70, 84. If the pattern continues, what is the next value?",126,98,84,112
+150,4,2026-09-08T00:00:23Z,2026-09-08T01:05:23Z,q0475,A contract signed on 5 January 2026 has a 80-day settlement period. On what date does it settle?,19 March 2026,27 March 2026,25 April 2026,26 March 2026
+150,5,2026-09-08T00:00:23Z,2026-09-08T01:05:23Z,q1323,A contract signed on 3 June 2026 has a 209-day settlement period. On what date does it settle?,22 December 2026,29 December 2026,28 January 2027,30 December 2026
