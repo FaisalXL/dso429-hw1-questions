@@ -799,3 +799,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 160,3,2026-09-08T10:00:22Z,2026-09-08T11:05:22Z,q1387,An item listed at $703.81 is discounted by 40%. What is the sale price?,$663.81,$985.33,$281.52,$422.29
 160,4,2026-09-08T10:00:22Z,2026-09-08T11:05:22Z,q1042,"A monthly headcount series runs 25, 34, 43, 52, 61. If the pattern continues, what is the next value?",79,88,70,61
 160,5,2026-09-08T10:00:22Z,2026-09-08T11:05:22Z,q0904,"A $6,150.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$2,050.00","$12,300.00","$4,100.00","$1,025.00"
+161,1,2026-09-08T11:00:24Z,2026-09-08T12:05:24Z,q0279,"A product line generates $25,500.00 in revenue against $22,134.20 in cost of goods sold. What is the gross margin?",15.2%,7.1%,13.2%,86.8%
+161,2,2026-09-08T11:00:24Z,2026-09-08T12:05:24Z,q1429,A contract signed on 8 July 2026 has a 143-day settlement period. On what date does it settle?,21 November 2026,28 December 2026,28 November 2026,29 November 2026
+161,3,2026-09-08T11:00:24Z,2026-09-08T12:05:24Z,q0796,"A $8,040.00 marketing budget is split between two channels in the ratio 2:4. What does the first channel receive?","$5,360.00","$1,340.00","$4,020.00","$2,680.00"
+161,4,2026-09-08T11:00:24Z,2026-09-08T12:05:24Z,q0724,A contract signed on 22 March 2026 has a 216-day settlement period. On what date does it settle?,24 October 2026,25 October 2026,17 October 2026,23 November 2026
+161,5,2026-09-08T11:00:24Z,2026-09-08T12:05:24Z,q0710,Region A had 42 orders averaging $31.00; region B had 90 orders averaging $86.00. What is the overall average order value?,48.50,68.50,58.50,100.47
