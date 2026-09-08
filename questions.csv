@@ -824,3 +824,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 165,3,2026-09-08T15:00:25Z,2026-09-08T16:05:25Z,q1617,Region A had 17 orders averaging $93.00; region B had 58 orders averaging $46.00. What is the overall average order value?,56.65,82.35,69.50,73.26
 165,4,2026-09-08T15:00:25Z,2026-09-08T16:05:25Z,q0821,"A support queue holds 8 billing tickets, 5 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",47.1%,76.5%,88.9%,29.4%
 165,5,2026-09-08T15:00:25Z,2026-09-08T16:05:25Z,q0420,"A product line generates $65,750.00 in revenue against $57,586.47 in cost of goods sold. What is the gross margin?",6.6%,12.4%,87.6%,14.2%
+166,1,2026-09-08T16:00:24Z,2026-09-08T17:05:24Z,q0169,A retailer sells 269 units at $51.32 each. What is total revenue?,"$13,291.88","$13,805.08","$14,318.28","$14,074.08"
+166,2,2026-09-08T16:00:24Z,2026-09-08T17:05:24Z,q1211,"Quarterly revenue moved from $4,750.00 to $6,857.00. What is the percentage change?",144.4%,44.4%,30.7%,-44.4%
+166,3,2026-09-08T16:00:24Z,2026-09-08T17:05:24Z,q1109,"An investment of $24,000.00 grows at 11% compounded annually. What is its value after 5 years?","$37,200.00","$13,200.00","$40,441.40","$36,433.69"
+166,4,2026-09-08T16:00:24Z,2026-09-08T17:05:24Z,q0436,"An invoice for $2,991.57 is settled at an exchange rate of 0.8699. What is the converted amount?","3,438.98","2,303.21","2,901.52","2,602.37"
+166,5,2026-09-08T16:00:24Z,2026-09-08T17:05:24Z,q0133,A retailer sells 834 units at $59.61 each. What is total revenue?,"$49,118.64","$49,714.74","$50,548.74","$50,310.84"
