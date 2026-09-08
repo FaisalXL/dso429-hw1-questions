@@ -819,3 +819,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 164,3,2026-09-08T14:00:27Z,2026-09-08T15:05:27Z,q0505,An item listed at $120.27 is discounted by 10%. What is the sale price?,$108.24,$110.27,$12.03,$132.30
 164,4,2026-09-08T14:00:27Z,2026-09-08T15:05:27Z,q1152,A retailer sells 713 units at $51.65 each. What is total revenue?,"$37,539.45","$36,826.45","$36,309.95","$37,342.95"
 164,5,2026-09-08T14:00:27Z,2026-09-08T15:05:27Z,q0079,"An invoice for $4,131.12 is settled at an exchange rate of 0.7391. What is the converted amount?","2,640.20","5,589.39","3,053.31","3,466.42"
+165,1,2026-09-08T15:00:25Z,2026-09-08T16:05:25Z,q1132,An item listed at $440.22 is discounted by 10%. What is the sale price?,$396.20,$430.22,$44.02,$484.24
+165,2,2026-09-08T15:00:25Z,2026-09-08T16:05:25Z,q0521,"A monthly headcount series runs 19, 31, 43, 55, 67. If the pattern continues, what is the next value?",79,103,67,91
+165,3,2026-09-08T15:00:25Z,2026-09-08T16:05:25Z,q1617,Region A had 17 orders averaging $93.00; region B had 58 orders averaging $46.00. What is the overall average order value?,56.65,82.35,69.50,73.26
+165,4,2026-09-08T15:00:25Z,2026-09-08T16:05:25Z,q0821,"A support queue holds 8 billing tickets, 5 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",47.1%,76.5%,88.9%,29.4%
+165,5,2026-09-08T15:00:25Z,2026-09-08T16:05:25Z,q0420,"A product line generates $65,750.00 in revenue against $57,586.47 in cost of goods sold. What is the gross margin?",6.6%,12.4%,87.6%,14.2%
