@@ -3455,11 +3455,16 @@
       "closed": false,
       "voided": false,
       "status": "open",
-      "submitted_at": "2026-09-08T00:15:21.445Z",
+      "submitted_at": "2026-09-08T00:30:18.242Z",
       "reason": null,
       "attempts": [
         {
           "at": "2026-09-08T00:15:21.445Z",
+          "on_time": true,
+          "counted": false
+        },
+        {
+          "at": "2026-09-08T00:30:18.242Z",
           "on_time": true,
           "counted": true
         }
