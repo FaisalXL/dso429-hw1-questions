@@ -979,3 +979,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 196,3,2026-09-09T22:00:20Z,2026-09-09T23:05:20Z,q1149,A contract signed on 19 December 2026 has a 344-day settlement period. On what date does it settle?,21 November 2027,28 November 2027,28 December 2027,29 November 2027
 196,4,2026-09-09T22:00:20Z,2026-09-09T23:05:20Z,q0401,Region A had 162 orders averaging $33.00; region B had 67 orders averaging $41.00. What is the overall average order value?,37.00,49.96,38.66,35.34
 196,5,2026-09-09T22:00:20Z,2026-09-09T23:05:20Z,q1016,"An investment of $9,000.00 grows at 12% compounded annually. What is its value after 3 years?","$12,240.00","$11,289.60","$12,644.35","$3,240.00"
+197,1,2026-09-09T23:00:15Z,2026-09-10T00:05:15Z,q1280,A retailer sells 628 units at $37.24 each. What is total revenue?,"$23,014.32","$23,386.72","$23,759.12","$24,014.72"
+197,2,2026-09-09T23:00:15Z,2026-09-10T00:05:15Z,q1336,"A $6,330.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$1,266.00","$2,532.00","$3,798.00","$9,495.00"
+197,3,2026-09-09T23:00:15Z,2026-09-10T00:05:15Z,q1624,"A product line generates $35,250.00 in revenue against $27,364.17 in cost of goods sold. What is the gross margin?",77.6%,28.8%,22.4%,12.6%
+197,4,2026-09-09T23:00:15Z,2026-09-10T00:05:15Z,q0603,Region A had 142 orders averaging $20.00; region B had 132 orders averaging $26.00. What is the overall average order value?,22.89,23.00,23.11,44.17
+197,5,2026-09-09T23:00:15Z,2026-09-10T00:05:15Z,q0064,An item listed at $229.15 is discounted by 15%. What is the sale price?,$194.78,$263.52,$214.15,$34.37
