@@ -874,3 +874,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 175,3,2026-09-09T01:00:21Z,2026-09-09T02:05:21Z,q1500,A contract signed on 5 May 2026 has a 269-day settlement period. On what date does it settle?,22 January 2027,28 February 2027,29 January 2027,30 January 2027
 175,4,2026-09-09T01:00:21Z,2026-09-09T02:05:21Z,q0528,An item listed at $371.44 is discounted by 5%. What is the sale price?,$366.44,$352.87,$390.01,$18.57
 175,5,2026-09-09T01:00:21Z,2026-09-09T02:05:21Z,q0349,"A product line generates $73,750.00 in revenue against $51,301.21 in cost of goods sold. What is the gross margin?",30.4%,18.0%,43.8%,69.6%
+176,1,2026-09-09T02:00:23Z,2026-09-09T03:05:23Z,q1169,"An invoice for $8,591.20 is settled at an exchange rate of 0.7750. What is the converted amount?","5,799.06","6,658.18","11,085.42","7,517.30"
+176,2,2026-09-09T02:00:23Z,2026-09-09T03:05:23Z,q0223,"An invoice for $8,108.47 is settled at an exchange rate of 1.0138. What is the converted amount?","7,998.10","7,409.52","9,031.21","8,220.37"
+176,3,2026-09-09T02:00:23Z,2026-09-09T03:05:23Z,q0853,Region A had 160 orders averaging $72.00; region B had 181 orders averaging $70.00. What is the overall average order value?,133.65,71.06,71.00,70.94
+176,4,2026-09-09T02:00:23Z,2026-09-09T03:05:23Z,q0898,"An investment of $11,000.00 grows at 12% compounded annually. What is its value after 5 years?","$17,308.71","$19,385.76","$17,600.00","$6,600.00"
+176,5,2026-09-09T02:00:23Z,2026-09-09T03:05:23Z,q0728,"Quarterly revenue moved from $1,450.00 to $1,662.00. What is the percentage change?",12.8%,114.6%,14.6%,-14.6%
