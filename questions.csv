@@ -969,3 +969,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 194,3,2026-09-09T20:00:23Z,2026-09-09T21:05:23Z,q0890,"A monthly headcount series runs 4, 11, 18, 25, 32. If the pattern continues, what is the next value?",32,46,39,53
 194,4,2026-09-09T20:00:23Z,2026-09-09T21:05:23Z,q0775,"Quarterly revenue moved from $3,700.00 to $4,322.00. What is the percentage change?",116.8%,16.8%,-16.8%,14.4%
 194,5,2026-09-09T20:00:23Z,2026-09-09T21:05:23Z,q1206,"A monthly headcount series runs 38, 42, 46, 50, 54. If the pattern continues, what is the next value?",66,54,62,58
+195,1,2026-09-09T21:00:24Z,2026-09-09T22:05:24Z,q1279,"A support queue holds 12 billing tickets, 23 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",33.3%,25.0%,47.9%,72.9%
+195,2,2026-09-09T21:00:24Z,2026-09-09T22:05:24Z,q1456,Quarterly revenue moved from $500.00 to $257.00. What is the percentage change?,48.6%,-94.6%,51.4%,-48.6%
+195,3,2026-09-09T21:00:24Z,2026-09-09T22:05:24Z,q0380,A contract signed on 26 April 2026 has a 393-day settlement period. On what date does it settle?,24 May 2027,25 May 2027,17 May 2027,23 June 2027
+195,4,2026-09-09T21:00:24Z,2026-09-09T22:05:24Z,q1057,"A support queue holds 19 billing tickets, 23 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",46.9%,38.8%,85.7%,63.3%
+195,5,2026-09-09T21:00:24Z,2026-09-09T22:05:24Z,q0862,"An investment of $31,500.00 grows at 11% compounded annually. What is its value after 7 years?","$55,755.00","$58,918.06","$24,255.00","$65,399.04"
