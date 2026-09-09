@@ -889,3 +889,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 178,3,2026-09-09T04:00:24Z,2026-09-09T05:05:24Z,q0109,A retailer sells 823 units at $49.86 each. What is total revenue?,"$41,034.78","$41,533.38","$40,536.18","$41,857.78"
 178,4,2026-09-09T04:00:24Z,2026-09-09T05:05:24Z,q0364,"Fixed costs are $54,500.00. Each unit sells for $197.00 with a variable cost of $109.00. How many units must be sold to break even?",277 units,178 units,500 units,619 units
 178,5,2026-09-09T04:00:24Z,2026-09-09T05:05:24Z,q1245,"A support queue holds 18 billing tickets, 24 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",51.1%,62.1%,38.3%,89.4%
+179,1,2026-09-09T05:00:24Z,2026-09-09T06:05:24Z,q0556,"A monthly headcount series runs 28, 44, 60, 76, 92. If the pattern continues, what is the next value?",92,124,140,108
+179,2,2026-09-09T05:00:24Z,2026-09-09T06:05:24Z,q1557,Region A had 130 orders averaging $87.00; region B had 64 orders averaging $90.00. What is the overall average order value?,131.31,89.01,88.50,87.99
+179,3,2026-09-09T05:00:24Z,2026-09-09T06:05:24Z,q0085,A retailer sells 443 units at $87.45 each. What is total revenue?,"$39,614.85","$38,740.35","$39,183.35","$37,865.85"
+179,4,2026-09-09T05:00:24Z,2026-09-09T06:05:24Z,q0985,"A monthly headcount series runs 3, 13, 23, 33, 43. If the pattern continues, what is the next value?",43,63,53,73
+179,5,2026-09-09T05:00:24Z,2026-09-09T06:05:24Z,q1650,"An investment of $48,500.00 grows at 15% compounded annually. What is its value after 8 years?","$148,362.61","$129,010.96","$58,200.00","$106,700.00"
