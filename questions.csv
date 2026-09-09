@@ -939,3 +939,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 188,3,2026-09-09T14:00:23Z,2026-09-09T15:05:23Z,q0315,An item listed at $214.42 is discounted by 45%. What is the sale price?,$117.93,$96.49,$310.91,$169.42
 188,4,2026-09-09T14:00:23Z,2026-09-09T15:05:23Z,q1299,Region A had 137 orders averaging $55.00; region B had 87 orders averaging $29.00. What is the overall average order value?,73.42,39.10,42.00,44.90
 188,5,2026-09-09T14:00:23Z,2026-09-09T15:05:23Z,q0857,"A support queue holds 24 billing tickets, 10 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",87.2%,61.5%,25.6%,160.0%
+189,1,2026-09-09T15:00:23Z,2026-09-09T16:05:23Z,q1115,"A $5,490.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$1,098.00","$8,235.00","$2,196.00","$3,294.00"
+189,2,2026-09-09T15:00:23Z,2026-09-09T16:05:23Z,q0577,"Fixed costs are $18,000.00. Each unit sells for $93.00 with a variable cost of $39.00. How many units must be sold to break even?",194 units,462 units,333 units,136 units
+189,3,2026-09-09T15:00:23Z,2026-09-09T16:05:23Z,q0224,Region A had 84 orders averaging $93.00; region B had 96 orders averaging $23.00. What is the overall average order value?,104.38,58.00,60.33,55.67
+189,4,2026-09-09T15:00:23Z,2026-09-09T16:05:23Z,q1532,"An invoice for $2,264.61 is settled at an exchange rate of 1.6480. What is the converted amount?","3,958.54","1,374.16","3,505.62","3,732.08"
+189,5,2026-09-09T15:00:23Z,2026-09-09T16:05:23Z,q1485,"An invoice for $5,251.41 is settled at an exchange rate of 1.5650. What is the converted amount?","8,743.60","7,693.32","3,355.53","8,218.46"
