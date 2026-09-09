@@ -944,3 +944,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 189,3,2026-09-09T15:00:23Z,2026-09-09T16:05:23Z,q0224,Region A had 84 orders averaging $93.00; region B had 96 orders averaging $23.00. What is the overall average order value?,104.38,58.00,60.33,55.67
 189,4,2026-09-09T15:00:23Z,2026-09-09T16:05:23Z,q1532,"An invoice for $2,264.61 is settled at an exchange rate of 1.6480. What is the converted amount?","3,958.54","1,374.16","3,505.62","3,732.08"
 189,5,2026-09-09T15:00:23Z,2026-09-09T16:05:23Z,q1485,"An invoice for $5,251.41 is settled at an exchange rate of 1.5650. What is the converted amount?","8,743.60","7,693.32","3,355.53","8,218.46"
+190,1,2026-09-09T16:00:25Z,2026-09-09T17:05:25Z,q0214,A contract signed on 7 August 2026 has a 284-day settlement period. On what date does it settle?,17 June 2027,11 May 2027,19 May 2027,18 May 2027
+190,2,2026-09-09T16:00:25Z,2026-09-09T17:05:25Z,q1457,"A product line generates $10,500.00 in revenue against $5,615.49 in cost of goods sold. What is the gross margin?",53.5%,30.3%,46.5%,87.0%
+190,3,2026-09-09T16:00:25Z,2026-09-09T17:05:25Z,q0449,Region A had 176 orders averaging $81.00; region B had 135 orders averaging $45.00. What is the overall average order value?,60.63,115.52,65.37,63.00
+190,4,2026-09-09T16:00:25Z,2026-09-09T17:05:25Z,q0215,"A $6,030.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$3,618.00","$4,020.00","$2,412.00","$1,206.00"
+190,5,2026-09-09T16:00:25Z,2026-09-09T17:05:25Z,q1479,A retailer sells 497 units at $4.61 each. What is total revenue?,"$2,788.17","$2,245.07","$2,291.17","$2,337.27"
