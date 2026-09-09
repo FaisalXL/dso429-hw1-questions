@@ -904,3 +904,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 181,3,2026-09-09T07:00:24Z,2026-09-09T08:05:24Z,q1581,Region A had 24 orders averaging $81.00; region B had 142 orders averaging $74.00. What is the overall average order value?,75.01,77.50,79.99,87.69
 181,4,2026-09-09T07:00:24Z,2026-09-09T08:05:24Z,q1104,"A support queue holds 20 billing tickets, 22 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",69.0%,44.9%,40.8%,85.7%
 181,5,2026-09-09T07:00:24Z,2026-09-09T08:05:24Z,q1223,"Quarterly revenue moved from $1,550.00 to $955.00. What is the percentage change?",38.4%,-38.4%,61.6%,-62.3%
+182,1,2026-09-09T08:00:23Z,2026-09-09T09:05:23Z,q0545,A contract signed on 25 September 2026 has a 271-day settlement period. On what date does it settle?,24 June 2027,23 June 2027,23 July 2027,16 June 2027
+182,2,2026-09-09T08:00:23Z,2026-09-09T09:05:23Z,q0030,"Fixed costs are $10,000.00. Each unit sells for $178.00 with a variable cost of $115.00. How many units must be sold to break even?",34 units,159 units,87 units,56 units
+182,3,2026-09-09T08:00:23Z,2026-09-09T09:05:23Z,q0419,"Quarterly revenue moved from $1,950.00 to $1,362.00. What is the percentage change?",30.2%,69.8%,-43.2%,-30.2%
+182,4,2026-09-09T08:00:23Z,2026-09-09T09:05:23Z,q1140,"A support queue holds 25 billing tickets, 11 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",75.0%,22.9%,52.1%,108.7%
+182,5,2026-09-09T08:00:23Z,2026-09-09T09:05:23Z,q0679,"A support queue holds 22 billing tickets, 21 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",39.3%,76.8%,37.5%,64.7%
