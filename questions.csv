@@ -959,3 +959,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 192,3,2026-09-09T18:00:23Z,2026-09-09T19:05:23Z,q1468,Quarterly revenue moved from $400.00 to $614.00. What is the percentage change?,34.9%,153.5%,53.5%,-53.5%
 192,4,2026-09-09T18:00:23Z,2026-09-09T19:05:23Z,q1625,An item listed at $444.89 is discounted by 30%. What is the sale price?,$311.42,$133.47,$578.36,$414.89
 192,5,2026-09-09T18:00:23Z,2026-09-09T19:05:23Z,q1207,A contract signed on 18 October 2026 has a 62-day settlement period. On what date does it settle?,18 January 2027,19 December 2026,12 December 2026,20 December 2026
+193,1,2026-09-09T19:00:23Z,2026-09-09T20:05:23Z,q0500,"A $8,250.00 marketing budget is split between two channels in the ratio 3:5. What does the first channel receive?","$5,156.25","$1,031.25","$4,950.00","$3,093.75"
+193,2,2026-09-09T19:00:23Z,2026-09-09T20:05:23Z,q0901,Region A had 77 orders averaging $67.00; region B had 141 orders averaging $52.00. What is the overall average order value?,59.50,88.59,57.30,61.70
+193,3,2026-09-09T19:00:23Z,2026-09-09T20:05:23Z,q0273,"A monthly headcount series runs 19, 28, 37, 46, 55. If the pattern continues, what is the next value?",64,73,55,82
+193,4,2026-09-09T19:00:23Z,2026-09-09T20:05:23Z,q0295,Region A had 118 orders averaging $72.00; region B had 40 orders averaging $63.00. What is the overall average order value?,67.50,65.28,69.72,93.36
+193,5,2026-09-09T19:00:23Z,2026-09-09T20:05:23Z,q0786,A retailer sells 657 units at $11.54 each. What is total revenue?,"$7,466.38","$7,581.78","$7,697.18","$8,238.78"
