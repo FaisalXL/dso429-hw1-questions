@@ -884,3 +884,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 177,3,2026-09-09T03:00:25Z,2026-09-09T04:05:25Z,q0397,An item listed at $671.13 is discounted by 40%. What is the sale price?,$402.68,$268.45,$631.13,$939.58
 177,4,2026-09-09T03:00:25Z,2026-09-09T04:05:25Z,q1041,Region A had 159 orders averaging $58.00; region B had 78 orders averaging $79.00. What is the overall average order value?,96.75,72.09,64.91,68.50
 177,5,2026-09-09T03:00:25Z,2026-09-09T04:05:25Z,q1555,"Fixed costs are $7,500.00. Each unit sells for $145.00 with a variable cost of $66.00. How many units must be sold to break even?",52 units,114 units,95 units,36 units
+178,1,2026-09-09T04:00:24Z,2026-09-09T05:05:24Z,q0569,A contract signed on 7 August 2026 has a 315-day settlement period. On what date does it settle?,11 June 2027,18 June 2027,19 June 2027,18 July 2027
+178,2,2026-09-09T04:00:24Z,2026-09-09T05:05:24Z,q0414,"A monthly headcount series runs 15, 22, 29, 36, 43. If the pattern continues, what is the next value?",57,50,64,43
+178,3,2026-09-09T04:00:24Z,2026-09-09T05:05:24Z,q0109,A retailer sells 823 units at $49.86 each. What is total revenue?,"$41,034.78","$41,533.38","$40,536.18","$41,857.78"
+178,4,2026-09-09T04:00:24Z,2026-09-09T05:05:24Z,q0364,"Fixed costs are $54,500.00. Each unit sells for $197.00 with a variable cost of $109.00. How many units must be sold to break even?",277 units,178 units,500 units,619 units
+178,5,2026-09-09T04:00:24Z,2026-09-09T05:05:24Z,q1245,"A support queue holds 18 billing tickets, 24 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",51.1%,62.1%,38.3%,89.4%
