@@ -894,3 +894,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 179,3,2026-09-09T05:00:24Z,2026-09-09T06:05:24Z,q0085,A retailer sells 443 units at $87.45 each. What is total revenue?,"$39,614.85","$38,740.35","$39,183.35","$37,865.85"
 179,4,2026-09-09T05:00:24Z,2026-09-09T06:05:24Z,q0985,"A monthly headcount series runs 3, 13, 23, 33, 43. If the pattern continues, what is the next value?",43,63,53,73
 179,5,2026-09-09T05:00:24Z,2026-09-09T06:05:24Z,q1650,"An investment of $48,500.00 grows at 15% compounded annually. What is its value after 8 years?","$148,362.61","$129,010.96","$58,200.00","$106,700.00"
+180,1,2026-09-09T06:00:24Z,2026-09-09T07:05:24Z,q0317,"Fixed costs are $12,000.00. Each unit sells for $95.00 with a variable cost of $22.00. How many units must be sold to break even?",103 units,126 units,545 units,164 units
+180,2,2026-09-09T06:00:24Z,2026-09-09T07:05:24Z,q1472,"Fixed costs are $31,500.00. Each unit sells for $108.00 with a variable cost of $37.00. How many units must be sold to break even?",292 units,444 units,851 units,217 units
+180,3,2026-09-09T06:00:24Z,2026-09-09T07:05:24Z,q0706,An item listed at $343.75 is discounted by 45%. What is the sale price?,$154.69,$498.44,$298.75,$189.06
+180,4,2026-09-09T06:00:24Z,2026-09-09T07:05:24Z,q1473,"An invoice for $6,949.94 is settled at an exchange rate of 0.6758. What is the converted amount?","5,391.76","10,284.02","4,001.78","4,696.77"
+180,5,2026-09-09T06:00:24Z,2026-09-09T07:05:24Z,q1414,"An invoice for $1,898.04 is settled at an exchange rate of 1.7988. What is the converted amount?","3,414.19","3,224.39","3,604.00","1,055.17"
