@@ -909,3 +909,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 182,3,2026-09-09T08:00:23Z,2026-09-09T09:05:23Z,q0419,"Quarterly revenue moved from $1,950.00 to $1,362.00. What is the percentage change?",30.2%,69.8%,-43.2%,-30.2%
 182,4,2026-09-09T08:00:23Z,2026-09-09T09:05:23Z,q1140,"A support queue holds 25 billing tickets, 11 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",75.0%,22.9%,52.1%,108.7%
 182,5,2026-09-09T08:00:23Z,2026-09-09T09:05:23Z,q0679,"A support queue holds 22 billing tickets, 21 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",39.3%,76.8%,37.5%,64.7%
+183,1,2026-09-09T09:00:25Z,2026-09-09T10:05:25Z,q1443,"A support queue holds 25 billing tickets, 22 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",37.9%,81.0%,43.1%,75.8%
+183,2,2026-09-09T09:00:25Z,2026-09-09T10:05:25Z,q0694,"A product line generates $29,750.00 in revenue against $19,296.83 in cost of goods sold. What is the gross margin?",21.3%,64.9%,35.1%,54.2%
+183,3,2026-09-09T09:00:25Z,2026-09-09T10:05:25Z,q1408,A retailer sells 335 units at $83.87 each. What is total revenue?,"$27,257.75","$28,431.45","$28,096.45","$28,935.15"
+183,4,2026-09-09T09:00:25Z,2026-09-09T10:05:25Z,q0283,"An invoice for $3,982.96 is settled at an exchange rate of 1.0382. What is the converted amount?","4,533.41","3,836.41","4,135.11","3,736.81"
+183,5,2026-09-09T09:00:25Z,2026-09-09T10:05:25Z,q0265,A retailer sells 857 units at $4.70 each. What is total revenue?,"$4,074.90","$3,980.90","$4,027.90","$4,884.90"
