@@ -864,3 +864,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 173,3,2026-09-08T23:00:24Z,2026-09-09T00:05:24Z,q0878,"A monthly headcount series runs 19, 26, 33, 40, 47. If the pattern continues, what is the next value?",61,68,47,54
 173,4,2026-09-08T23:00:24Z,2026-09-09T00:05:24Z,q1255,A contract signed on 4 May 2026 has a 316-day settlement period. On what date does it settle?,9 March 2027,15 April 2027,17 March 2027,16 March 2027
 173,5,2026-09-08T23:00:24Z,2026-09-09T00:05:24Z,q1629,Region A had 90 orders averaging $49.00; region B had 19 orders averaging $85.00. What is the overall average order value?,66.94,78.72,55.28,67.00
+174,1,2026-09-09T00:00:21Z,2026-09-09T01:05:21Z,q0994,"Fixed costs are $20,500.00. Each unit sells for $150.00 with a variable cost of $28.00. How many units must be sold to break even?",115 units,137 units,732 units,168 units
+174,2,2026-09-09T00:00:21Z,2026-09-09T01:05:21Z,q0112,An item listed at $137.58 is discounted by 40%. What is the sale price?,$55.03,$82.55,$192.61,$97.58
+174,3,2026-09-09T00:00:21Z,2026-09-09T01:05:21Z,q0850,"An investment of $30,500.00 grows at 14% compounded annually. What is its value after 5 years?","$51,850.00","$58,725.14","$51,513.28","$21,350.00"
+174,4,2026-09-09T00:00:21Z,2026-09-09T01:05:21Z,q0130,A contract signed on 18 April 2026 has a 175-day settlement period. On what date does it settle?,10 October 2026,11 October 2026,3 October 2026,9 November 2026
+174,5,2026-09-09T00:00:21Z,2026-09-09T01:05:21Z,q1220,"A $8,670.00 marketing budget is split between two channels in the ratio 5:2. What does the first channel receive?","$6,192.86","$21,675.00","$2,477.14","$1,238.57"
