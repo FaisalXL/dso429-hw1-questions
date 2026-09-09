@@ -899,3 +899,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 180,3,2026-09-09T06:00:24Z,2026-09-09T07:05:24Z,q0706,An item listed at $343.75 is discounted by 45%. What is the sale price?,$154.69,$498.44,$298.75,$189.06
 180,4,2026-09-09T06:00:24Z,2026-09-09T07:05:24Z,q1473,"An invoice for $6,949.94 is settled at an exchange rate of 0.6758. What is the converted amount?","5,391.76","10,284.02","4,001.78","4,696.77"
 180,5,2026-09-09T06:00:24Z,2026-09-09T07:05:24Z,q1414,"An invoice for $1,898.04 is settled at an exchange rate of 1.7988. What is the converted amount?","3,414.19","3,224.39","3,604.00","1,055.17"
+181,1,2026-09-09T07:00:24Z,2026-09-09T08:05:24Z,q1462,Region A had 141 orders averaging $67.00; region B had 55 orders averaging $45.00. What is the overall average order value?,51.17,60.83,84.55,56.00
+181,2,2026-09-09T07:00:24Z,2026-09-09T08:05:24Z,q1130,"Quarterly revenue moved from $4,650.00 to $4,116.00. What is the percentage change?",-13.0%,11.5%,-11.5%,88.5%
+181,3,2026-09-09T07:00:24Z,2026-09-09T08:05:24Z,q1581,Region A had 24 orders averaging $81.00; region B had 142 orders averaging $74.00. What is the overall average order value?,75.01,77.50,79.99,87.69
+181,4,2026-09-09T07:00:24Z,2026-09-09T08:05:24Z,q1104,"A support queue holds 20 billing tickets, 22 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",69.0%,44.9%,40.8%,85.7%
+181,5,2026-09-09T07:00:24Z,2026-09-09T08:05:24Z,q1223,"Quarterly revenue moved from $1,550.00 to $955.00. What is the percentage change?",38.4%,-38.4%,61.6%,-62.3%
