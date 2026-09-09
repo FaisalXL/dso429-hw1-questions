@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T13:30:31.274293Z",
+  "generated_at": "2026-09-09T13:31:02.333757Z",
   "model": "file-drop",
   "latest_round": 187,
   "rounds_closed": 186,
@@ -2065,7 +2065,7 @@
           "status": "hit",
           "closed": false,
           "deadline_at": "2026-09-09T14:05:23Z",
-          "first_seen_at": "2026-09-09T13:30:27.346763Z",
+          "first_seen_at": "2026-09-09T13:30:57.719394Z",
           "n_correct": 5,
           "n_questions": 5,
           "tampered": false,
