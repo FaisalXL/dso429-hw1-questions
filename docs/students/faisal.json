@@ -4464,11 +4464,16 @@
       "closed": false,
       "voided": false,
       "status": "open",
-      "submitted_at": "2026-09-09T20:15:36.369Z",
+      "submitted_at": "2026-09-09T20:30:19.254Z",
       "reason": null,
       "attempts": [
         {
           "at": "2026-09-09T20:15:36.369Z",
+          "on_time": true,
+          "counted": false
+        },
+        {
+          "at": "2026-09-09T20:30:19.254Z",
           "on_time": true,
           "counted": true
         }
