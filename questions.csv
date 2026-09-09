@@ -929,3 +929,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 186,3,2026-09-09T12:00:29Z,2026-09-09T13:05:29Z,q1450,"An invoice for $3,270.08 is settled at an exchange rate of 1.5783. What is the converted amount?","4,834.16","2,071.90","5,488.18","5,161.17"
 186,4,2026-09-09T12:00:29Z,2026-09-09T13:05:29Z,q0654,"A $6,540.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$2,616.00","$3,924.00","$4,360.00","$1,308.00"
 186,5,2026-09-09T12:00:29Z,2026-09-09T13:05:29Z,q0737,"A $8,580.00 marketing budget is split between two channels in the ratio 2:4. What does the first channel receive?","$1,430.00","$5,720.00","$4,290.00","$2,860.00"
+187,1,2026-09-09T13:00:23Z,2026-09-09T14:05:23Z,q1059,"Quarterly revenue moved from $4,450.00 to $5,552.00. What is the percentage change?",24.8%,-24.8%,19.8%,124.8%
+187,2,2026-09-09T13:00:23Z,2026-09-09T14:05:23Z,q0514,"Quarterly revenue moved from $1,500.00 to $1,264.00. What is the percentage change?",-15.7%,-18.7%,84.3%,15.7%
+187,3,2026-09-09T13:00:23Z,2026-09-09T14:05:23Z,q0105,"A monthly headcount series runs 6, 14, 22, 30, 38. If the pattern continues, what is the next value?",38,62,46,54
+187,4,2026-09-09T13:00:23Z,2026-09-09T14:05:23Z,q0520,Region A had 111 orders averaging $29.00; region B had 85 orders averaging $22.00. What is the overall average order value?,25.96,45.85,25.50,25.04
+187,5,2026-09-09T13:00:23Z,2026-09-09T14:05:23Z,q0646,"A product line generates $24,000.00 in revenue against $11,441.46 in cost of goods sold. What is the gross margin?",35.4%,47.7%,52.3%,109.8%
