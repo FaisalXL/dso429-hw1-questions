@@ -4213,15 +4213,35 @@
       "closed": false,
       "voided": false,
       "status": "open",
-      "submitted_at": "2026-09-09T09:15:22.879Z",
+      "submitted_at": "2026-09-09T09:30:19.445Z",
       "reason": null,
       "attempts": [
         {
           "at": "2026-09-09T09:15:22.879Z",
           "on_time": true,
+          "counted": false
+        },
+        {
+          "at": "2026-09-09T09:30:19.445Z",
+          "on_time": true,
           "counted": true
         }
       ],
+      "n_correct": null,
+      "n_questions": 5,
+      "wrong": null
+    },
+    {
+      "round_id": 184,
+      "period": "test",
+      "released_at": "2026-09-09T10:00:25Z",
+      "deadline_at": "2026-09-09T11:05:25Z",
+      "closed": false,
+      "voided": false,
+      "status": "open",
+      "submitted_at": null,
+      "reason": "no submission",
+      "attempts": [],
       "n_correct": null,
       "n_questions": 5,
       "wrong": null
