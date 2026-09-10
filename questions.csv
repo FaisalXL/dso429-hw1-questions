@@ -1054,3 +1054,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 211,3,2026-09-10T13:01:05Z,2026-09-10T14:06:05Z,q1263,"Fixed costs are $71,500.00. Each unit sells for $43.00 with a variable cost of $15.00. How many units must be sold to break even?","1,663 units","1,233 units","2,554 units","4,767 units"
 211,4,2026-09-10T13:01:05Z,2026-09-10T14:06:05Z,q0366,Region A had 96 orders averaging $44.00; region B had 150 orders averaging $87.00. What is the overall average order value?,60.78,115.16,65.50,70.22
 211,5,2026-09-10T13:01:05Z,2026-09-10T14:06:05Z,q1047,"Quarterly revenue moved from $2,600.00 to $2,900.00. What is the percentage change?",111.5%,-11.5%,10.3%,11.5%
+212,1,2026-09-10T14:01:09Z,2026-09-10T15:06:09Z,q0640,"A monthly headcount series runs 30, 47, 64, 81, 98. If the pattern continues, what is the next value?",149,132,98,115
+212,2,2026-09-10T14:01:09Z,2026-09-10T15:06:09Z,q1377,"An investment of $31,500.00 grows at 13% compounded annually. What is its value after 2 years?","$39,690.00","$40,222.35","$35,595.00","$8,190.00"
+212,3,2026-09-10T14:01:09Z,2026-09-10T15:06:09Z,q0996,Region A had 61 orders averaging $43.00; region B had 30 orders averaging $86.00. What is the overall average order value?,57.18,71.82,64.50,85.30
+212,4,2026-09-10T14:01:09Z,2026-09-10T15:06:09Z,q0075,"A product line generates $40,750.00 in revenue against $32,415.02 in cost of goods sold. What is the gross margin?",20.5%,25.7%,79.5%,11.4%
+212,5,2026-09-10T14:01:09Z,2026-09-10T15:06:09Z,q0219,"A product line generates $17,000.00 in revenue against $15,078.74 in cost of goods sold. What is the gross margin?",6.0%,88.7%,12.7%,11.3%
