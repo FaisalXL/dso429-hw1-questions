@@ -1049,3 +1049,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 210,3,2026-09-10T12:01:13Z,2026-09-10T13:06:13Z,q1315,A retailer sells 131 units at $83.28 each. What is total revenue?,"$10,909.68","$10,076.88","$11,742.48","$11,040.68"
 210,4,2026-09-10T12:01:13Z,2026-09-10T13:06:13Z,q0800,"A product line generates $11,000.00 in revenue against $9,877.76 in cost of goods sold. What is the gross margin?",5.4%,89.8%,11.4%,10.2%
 210,5,2026-09-10T12:01:13Z,2026-09-10T13:06:13Z,q1252,"An invoice for $6,015.37 is settled at an exchange rate of 1.8410. What is the converted amount?","3,267.45","11,074.30","11,675.83","10,472.76"
+211,1,2026-09-10T13:01:05Z,2026-09-10T14:06:05Z,q0988,"A support queue holds 25 billing tickets, 12 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",24.5%,104.2%,51.0%,75.5%
+211,2,2026-09-10T13:01:05Z,2026-09-10T14:06:05Z,q0233,"An investment of $20,500.00 grows at 7% compounded annually. What is its value after 2 years?","$23,470.45","$23,370.00","$21,935.00","$2,870.00"
+211,3,2026-09-10T13:01:05Z,2026-09-10T14:06:05Z,q1263,"Fixed costs are $71,500.00. Each unit sells for $43.00 with a variable cost of $15.00. How many units must be sold to break even?","1,663 units","1,233 units","2,554 units","4,767 units"
+211,4,2026-09-10T13:01:05Z,2026-09-10T14:06:05Z,q0366,Region A had 96 orders averaging $44.00; region B had 150 orders averaging $87.00. What is the overall average order value?,60.78,115.16,65.50,70.22
+211,5,2026-09-10T13:01:05Z,2026-09-10T14:06:05Z,q1047,"Quarterly revenue moved from $2,600.00 to $2,900.00. What is the percentage change?",111.5%,-11.5%,10.3%,11.5%
