@@ -994,3 +994,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 199,3,2026-09-10T01:01:08Z,2026-09-10T02:06:08Z,q1502,"A support queue holds 25 billing tickets, 15 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",88.9%,55.6%,125.0%,33.3%
 199,4,2026-09-10T01:01:08Z,2026-09-10T02:06:08Z,q0925,Region A had 79 orders averaging $64.00; region B had 45 orders averaging $34.00. What is the overall average order value?,49.00,83.37,44.89,53.11
 199,5,2026-09-10T01:01:08Z,2026-09-10T02:06:08Z,q0781,Region A had 87 orders averaging $25.00; region B had 108 orders averaging $50.00. What is the overall average order value?,36.15,70.14,38.85,37.50
+200,1,2026-09-10T02:01:10Z,2026-09-10T03:06:10Z,q0766,An item listed at $148.54 is discounted by 10%. What is the sale price?,$138.54,$14.85,$133.69,$163.39
+200,2,2026-09-10T02:01:10Z,2026-09-10T03:06:10Z,q0847,"Quarterly revenue moved from $1,650.00 to $1,117.00. What is the percentage change?",32.3%,67.7%,-47.7%,-32.3%
+200,3,2026-09-10T02:01:10Z,2026-09-10T03:06:10Z,q1012,A retailer sells 705 units at $51.57 each. What is total revenue?,"$36,872.55","$36,356.85","$35,841.15","$37,061.85"
+200,4,2026-09-10T02:01:10Z,2026-09-10T03:06:10Z,q1669,A retailer sells 926 units at $35.87 each. What is total revenue?,"$32,856.92","$33,574.32","$33,215.62","$34,141.62"
+200,5,2026-09-10T02:01:10Z,2026-09-10T03:06:10Z,q0140,Region A had 72 orders averaging $67.00; region B had 179 orders averaging $85.00. What is the overall average order value?,111.95,72.16,79.84,76.00
