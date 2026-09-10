@@ -1009,3 +1009,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 202,3,2026-09-10T04:01:09Z,2026-09-10T05:06:09Z,q1195,A contract signed on 18 April 2026 has a 31-day settlement period. On what date does it settle?,19 May 2026,20 May 2026,18 June 2026,12 May 2026
 202,4,2026-09-10T04:01:09Z,2026-09-10T05:06:09Z,q1222,A retailer sells 319 units at $4.51 each. What is total revenue?,"$1,438.69","$1,393.59","$1,483.79","$1,757.69"
 202,5,2026-09-10T04:01:09Z,2026-09-10T05:06:09Z,q1298,"An invoice for $8,292.98 is settled at an exchange rate of 1.1878. What is the converted amount?","9,021.10","9,850.40","10,679.70","6,981.80"
+203,1,2026-09-10T05:01:25Z,2026-09-10T06:06:25Z,q0702,"A support queue holds 18 billing tickets, 5 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",105.9%,65.7%,14.3%,51.4%
+203,2,2026-09-10T05:01:25Z,2026-09-10T06:06:25Z,q0203,"A $7,740.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$4,644.00","$11,610.00","$1,548.00","$3,096.00"
+203,3,2026-09-10T05:01:25Z,2026-09-10T06:06:25Z,q0268,An item listed at $51.72 is discounted by 15%. What is the sale price?,$36.72,$7.76,$59.48,$43.96
+203,4,2026-09-10T05:01:25Z,2026-09-10T06:06:25Z,q1006,"An invoice for $5,123.36 is settled at an exchange rate of 1.8927. What is the converted amount?","9,696.98","2,706.91","9,184.65","10,209.32"
+203,5,2026-09-10T05:01:25Z,2026-09-10T06:06:25Z,q1494,An item listed at $112.87 is discounted by 30%. What is the sale price?,$82.87,$79.01,$33.86,$146.73
