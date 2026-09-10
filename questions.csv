@@ -1004,3 +1004,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 201,3,2026-09-10T03:01:12Z,2026-09-10T04:06:12Z,q0830,"A monthly headcount series runs 17, 29, 41, 53, 65. If the pattern continues, what is the next value?",89,101,77,65
 201,4,2026-09-10T03:01:12Z,2026-09-10T04:06:12Z,q0776,"A product line generates $61,750.00 in revenue against $28,854.06 in cost of goods sold. What is the gross margin?",36.3%,114.0%,53.3%,46.7%
 201,5,2026-09-10T03:01:12Z,2026-09-10T04:06:12Z,q1274,"Fixed costs are $66,500.00. Each unit sells for $33.00 with a variable cost of $23.00. How many units must be sold to break even?","2,891 units","2,015 units","1,188 units","6,650 units"
+202,1,2026-09-10T04:01:09Z,2026-09-10T05:06:09Z,q0909,An item listed at $850.88 is discounted by 5%. What is the sale price?,$845.88,$808.34,$42.54,$893.42
+202,2,2026-09-10T04:01:09Z,2026-09-10T05:06:09Z,q1201,An item listed at $881.56 is discounted by 5%. What is the sale price?,$44.08,$837.48,$925.64,$876.56
+202,3,2026-09-10T04:01:09Z,2026-09-10T05:06:09Z,q1195,A contract signed on 18 April 2026 has a 31-day settlement period. On what date does it settle?,19 May 2026,20 May 2026,18 June 2026,12 May 2026
+202,4,2026-09-10T04:01:09Z,2026-09-10T05:06:09Z,q1222,A retailer sells 319 units at $4.51 each. What is total revenue?,"$1,438.69","$1,393.59","$1,483.79","$1,757.69"
+202,5,2026-09-10T04:01:09Z,2026-09-10T05:06:09Z,q1298,"An invoice for $8,292.98 is settled at an exchange rate of 1.1878. What is the converted amount?","9,021.10","9,850.40","10,679.70","6,981.80"
