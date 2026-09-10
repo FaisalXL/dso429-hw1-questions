@@ -1014,3 +1014,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 203,3,2026-09-10T05:01:25Z,2026-09-10T06:06:25Z,q0268,An item listed at $51.72 is discounted by 15%. What is the sale price?,$36.72,$7.76,$59.48,$43.96
 203,4,2026-09-10T05:01:25Z,2026-09-10T06:06:25Z,q1006,"An invoice for $5,123.36 is settled at an exchange rate of 1.8927. What is the converted amount?","9,696.98","2,706.91","9,184.65","10,209.32"
 203,5,2026-09-10T05:01:25Z,2026-09-10T06:06:25Z,q1494,An item listed at $112.87 is discounted by 30%. What is the sale price?,$82.87,$79.01,$33.86,$146.73
+204,1,2026-09-10T06:01:08Z,2026-09-10T07:06:08Z,q0516,An item listed at $680.38 is discounted by 20%. What is the sale price?,$660.38,$816.46,$136.08,$544.30
+204,2,2026-09-10T06:01:08Z,2026-09-10T07:06:08Z,q0752,Quarterly revenue moved from $450.00 to $637.00. What is the percentage change?,-41.6%,41.6%,29.4%,141.6%
+204,3,2026-09-10T06:01:08Z,2026-09-10T07:06:08Z,q0016,An item listed at $510.02 is discounted by 5%. What is the sale price?,$484.52,$25.50,$535.52,$505.02
+204,4,2026-09-10T06:01:08Z,2026-09-10T07:06:08Z,q0122,Quarterly revenue moved from $750.00 to $497.00. What is the percentage change?,66.3%,-33.7%,33.7%,-50.9%
+204,5,2026-09-10T06:01:08Z,2026-09-10T07:06:08Z,q0127,"An invoice for $7,234.30 is settled at an exchange rate of 1.2587. What is the converted amount?","9,829.24","8,382.38","9,105.81","5,747.44"
