@@ -1099,3 +1099,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 220,3,2026-09-10T22:01:09Z,2026-09-10T23:06:09Z,q1373,A retailer sells 611 units at $77.62 each. What is total revenue?,"$48,036.82","$46,649.62","$47,425.82","$48,202.02"
 220,4,2026-09-10T22:01:09Z,2026-09-10T23:06:09Z,q0440,"A $1,230.00 marketing budget is split between two channels in the ratio 2:8. What does the first channel receive?",$307.50,$123.00,$984.00,$246.00
 220,5,2026-09-10T22:01:09Z,2026-09-10T23:06:09Z,q1087,"An invoice for $2,467.56 is settled at an exchange rate of 1.6869. What is the converted amount?","3,915.77","4,162.53","1,462.78","4,409.28"
+221,1,2026-09-10T23:01:08Z,2026-09-11T00:06:08Z,q0090,"Fixed costs are $45,000.00. Each unit sells for $191.00 with a variable cost of $115.00. How many units must be sold to break even?",236 units,391 units,592 units,147 units
+221,2,2026-09-10T23:01:08Z,2026-09-11T00:06:08Z,q0040,An item listed at $708.85 is discounted by 25%. What is the sale price?,$886.06,$177.21,$531.64,$683.85
+221,3,2026-09-10T23:01:08Z,2026-09-11T00:06:08Z,q0403,A contract signed on 9 May 2026 has a 28-day settlement period. On what date does it settle?,30 May 2026,6 July 2026,6 June 2026,7 June 2026
+221,4,2026-09-10T23:01:08Z,2026-09-11T00:06:08Z,q0200,Region A had 154 orders averaging $91.00; region B had 200 orders averaging $59.00. What is the overall average order value?,72.92,75.00,129.07,77.08
+221,5,2026-09-10T23:01:08Z,2026-09-11T00:06:08Z,q0148,An item listed at $643.83 is discounted by 30%. What is the sale price?,$836.98,$613.83,$193.15,$450.68
