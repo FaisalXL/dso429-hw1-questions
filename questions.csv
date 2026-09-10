@@ -1039,3 +1039,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 208,3,2026-09-10T10:01:02Z,2026-09-10T11:06:02Z,q1645,"A support queue holds 10 billing tickets, 5 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",88.2%,142.9%,29.4%,58.8%
 208,4,2026-09-10T10:01:02Z,2026-09-10T11:06:02Z,q1069,"A support queue holds 23 billing tickets, 7 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",17.9%,76.9%,143.8%,59.0%
 208,5,2026-09-10T10:01:02Z,2026-09-10T11:06:02Z,q1112,Region A had 22 orders averaging $72.00; region B had 77 orders averaging $59.00. What is the overall average order value?,69.11,79.57,61.89,65.50
+209,1,2026-09-10T11:01:07Z,2026-09-10T12:06:07Z,q0677,A contract signed on 25 August 2026 has a 87-day settlement period. On what date does it settle?,20 November 2026,20 December 2026,13 November 2026,21 November 2026
+209,2,2026-09-10T11:01:07Z,2026-09-10T12:06:07Z,q1261,An item listed at $522.27 is discounted by 10%. What is the sale price?,$470.04,$512.27,$574.50,$52.23
+209,3,2026-09-10T11:01:07Z,2026-09-10T12:06:07Z,q1105,A retailer sells 312 units at $50.01 each. What is total revenue?,"$16,103.22","$15,915.12","$15,103.02","$15,603.12"
+209,4,2026-09-10T11:01:07Z,2026-09-10T12:06:07Z,q0284,Region A had 48 orders averaging $90.00; region B had 166 orders averaging $85.00. What is the overall average order value?,88.88,87.50,111.02,86.12
+209,5,2026-09-10T11:01:07Z,2026-09-10T12:06:07Z,q0486,"A monthly headcount series runs 8, 14, 20, 26, 32. If the pattern continues, what is the next value?",38,50,44,32
