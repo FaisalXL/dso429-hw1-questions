@@ -999,3 +999,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 200,3,2026-09-10T02:01:10Z,2026-09-10T03:06:10Z,q1012,A retailer sells 705 units at $51.57 each. What is total revenue?,"$36,872.55","$36,356.85","$35,841.15","$37,061.85"
 200,4,2026-09-10T02:01:10Z,2026-09-10T03:06:10Z,q1669,A retailer sells 926 units at $35.87 each. What is total revenue?,"$32,856.92","$33,574.32","$33,215.62","$34,141.62"
 200,5,2026-09-10T02:01:10Z,2026-09-10T03:06:10Z,q0140,Region A had 72 orders averaging $67.00; region B had 179 orders averaging $85.00. What is the overall average order value?,111.95,72.16,79.84,76.00
+201,1,2026-09-10T03:01:12Z,2026-09-10T04:06:12Z,q0824,"A product line generates $34,000.00 in revenue against $24,013.31 in cost of goods sold. What is the gross margin?",29.4%,17.2%,41.6%,70.6%
+201,2,2026-09-10T03:01:12Z,2026-09-10T04:06:12Z,q1372,"A support queue holds 15 billing tickets, 3 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",10.3%,107.1%,51.7%,62.1%
+201,3,2026-09-10T03:01:12Z,2026-09-10T04:06:12Z,q0830,"A monthly headcount series runs 17, 29, 41, 53, 65. If the pattern continues, what is the next value?",89,101,77,65
+201,4,2026-09-10T03:01:12Z,2026-09-10T04:06:12Z,q0776,"A product line generates $61,750.00 in revenue against $28,854.06 in cost of goods sold. What is the gross margin?",36.3%,114.0%,53.3%,46.7%
+201,5,2026-09-10T03:01:12Z,2026-09-10T04:06:12Z,q1274,"Fixed costs are $66,500.00. Each unit sells for $33.00 with a variable cost of $23.00. How many units must be sold to break even?","2,891 units","2,015 units","1,188 units","6,650 units"
