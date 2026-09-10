@@ -1024,3 +1024,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 205,3,2026-09-10T07:01:02Z,2026-09-10T08:06:02Z,q0254,"Quarterly revenue moved from $1,000.00 to $516.00. What is the percentage change?",48.4%,-48.4%,-93.8%,51.6%
 205,4,2026-09-10T07:01:02Z,2026-09-10T08:06:02Z,q0157,A retailer sells 975 units at $22.89 each. What is total revenue?,"$22,317.75","$23,292.75","$22,546.65","$22,088.85"
 205,5,2026-09-10T07:01:02Z,2026-09-10T08:06:02Z,q0298,"A $8,880.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$13,320.00","$3,552.00","$5,328.00","$1,776.00"
+206,1,2026-09-10T08:01:04Z,2026-09-10T09:06:04Z,q0333,A contract signed on 18 February 2026 has a 120-day settlement period. On what date does it settle?,18 July 2026,18 June 2026,11 June 2026,19 June 2026
+206,2,2026-09-10T08:01:04Z,2026-09-10T09:06:04Z,q0170,"Quarterly revenue moved from $4,450.00 to $6,473.00. What is the percentage change?",145.5%,31.3%,-45.5%,45.5%
+206,3,2026-09-10T08:01:04Z,2026-09-10T09:06:04Z,q0740,"Quarterly revenue moved from $4,300.00 to $3,480.00. What is the percentage change?",80.9%,19.1%,-23.6%,-19.1%
+206,4,2026-09-10T08:01:04Z,2026-09-10T09:06:04Z,q1587,Quarterly revenue moved from $600.00 to $528.00. What is the percentage change?,-13.6%,-12.0%,88.0%,12.0%
+206,5,2026-09-10T08:01:04Z,2026-09-10T09:06:04Z,q0454,A retailer sells 324 units at $22.60 each. What is total revenue?,"$7,548.40","$7,322.40","$7,646.40","$7,096.40"
