@@ -1084,3 +1084,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 217,3,2026-09-10T19:01:08Z,2026-09-10T20:06:08Z,q0957,"An investment of $49,000.00 grows at 6% compounded annually. What is its value after 6 years?","$69,507.44","$66,640.00","$17,640.00","$65,573.05"
 217,4,2026-09-10T19:01:08Z,2026-09-10T20:06:08Z,q0059,"A $7,260.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$5,445.00","$1,037.14","$3,111.43","$4,148.57"
 217,5,2026-09-10T19:01:08Z,2026-09-10T20:06:08Z,q1458,An item listed at $395.19 is discounted by 5%. What is the sale price?,$390.19,$375.43,$19.76,$414.95
+218,1,2026-09-10T20:01:09Z,2026-09-10T21:06:09Z,q1289,A contract signed on 19 May 2026 has a 163-day settlement period. On what date does it settle?,29 October 2026,22 October 2026,30 October 2026,28 November 2026
+218,2,2026-09-10T20:01:09Z,2026-09-10T21:06:09Z,q0722,Region A had 188 orders averaging $26.00; region B had 82 orders averaging $58.00. What is the overall average order value?,48.28,35.72,51.30,42.00
+218,3,2026-09-10T20:01:09Z,2026-09-10T21:06:09Z,q1213,An item listed at $538.59 is discounted by 10%. What is the sale price?,$528.59,$53.86,$592.45,$484.73
+218,4,2026-09-10T20:01:09Z,2026-09-10T21:06:09Z,q0617,A contract signed on 25 June 2026 has a 208-day settlement period. On what date does it settle?,12 January 2027,20 January 2027,19 January 2027,18 February 2027
+218,5,2026-09-10T20:01:09Z,2026-09-10T21:06:09Z,q0695,An item listed at $389.49 is discounted by 20%. What is the sale price?,$369.49,$311.59,$467.39,$77.90
