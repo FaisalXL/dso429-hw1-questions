@@ -1019,3 +1019,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 204,3,2026-09-10T06:01:08Z,2026-09-10T07:06:08Z,q0016,An item listed at $510.02 is discounted by 5%. What is the sale price?,$484.52,$25.50,$535.52,$505.02
 204,4,2026-09-10T06:01:08Z,2026-09-10T07:06:08Z,q0122,Quarterly revenue moved from $750.00 to $497.00. What is the percentage change?,66.3%,-33.7%,33.7%,-50.9%
 204,5,2026-09-10T06:01:08Z,2026-09-10T07:06:08Z,q0127,"An invoice for $7,234.30 is settled at an exchange rate of 1.2587. What is the converted amount?","9,829.24","8,382.38","9,105.81","5,747.44"
+205,1,2026-09-10T07:01:02Z,2026-09-10T08:06:02Z,q0217,A retailer sells 311 units at $80.93 each. What is total revenue?,"$25,169.23","$25,978.53","$24,359.93","$25,480.23"
+205,2,2026-09-10T07:01:02Z,2026-09-10T08:06:02Z,q1437,"Fixed costs are $46,000.00. Each unit sells for $162.00 with a variable cost of $77.00. How many units must be sold to break even?",192 units,597 units,541 units,284 units
+205,3,2026-09-10T07:01:02Z,2026-09-10T08:06:02Z,q0254,"Quarterly revenue moved from $1,000.00 to $516.00. What is the percentage change?",48.4%,-48.4%,-93.8%,51.6%
+205,4,2026-09-10T07:01:02Z,2026-09-10T08:06:02Z,q0157,A retailer sells 975 units at $22.89 each. What is total revenue?,"$22,317.75","$23,292.75","$22,546.65","$22,088.85"
+205,5,2026-09-10T07:01:02Z,2026-09-10T08:06:02Z,q0298,"A $8,880.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$13,320.00","$3,552.00","$5,328.00","$1,776.00"
