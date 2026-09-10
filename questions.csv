@@ -1029,3 +1029,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 206,3,2026-09-10T08:01:04Z,2026-09-10T09:06:04Z,q0740,"Quarterly revenue moved from $4,300.00 to $3,480.00. What is the percentage change?",80.9%,19.1%,-23.6%,-19.1%
 206,4,2026-09-10T08:01:04Z,2026-09-10T09:06:04Z,q1587,Quarterly revenue moved from $600.00 to $528.00. What is the percentage change?,-13.6%,-12.0%,88.0%,12.0%
 206,5,2026-09-10T08:01:04Z,2026-09-10T09:06:04Z,q0454,A retailer sells 324 units at $22.60 each. What is total revenue?,"$7,548.40","$7,322.40","$7,646.40","$7,096.40"
+207,1,2026-09-10T09:01:09Z,2026-09-10T10:06:09Z,q1266,A contract signed on 2 August 2026 has a 300-day settlement period. On what date does it settle?,22 May 2027,29 May 2027,28 June 2027,30 May 2027
+207,2,2026-09-10T09:01:09Z,2026-09-10T10:06:09Z,q1204,"An invoice for $5,684.49 is settled at an exchange rate of 1.1199. What is the converted amount?","6,366.06","6,934.51","5,797.61","5,075.89"
+207,3,2026-09-10T09:01:09Z,2026-09-10T10:06:09Z,q1208,"A $1,290.00 marketing budget is split between two channels in the ratio 2:6. What does the first channel receive?",$322.50,$161.25,$430.00,$967.50
+207,4,2026-09-10T09:01:09Z,2026-09-10T10:06:09Z,q0544,"A monthly headcount series runs 24, 39, 54, 69, 84. If the pattern continues, what is the next value?",84,99,129,114
+207,5,2026-09-10T09:01:09Z,2026-09-10T10:06:09Z,q0856,"A $5,670.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$2,268.00","$3,402.00","$1,134.00","$8,505.00"
