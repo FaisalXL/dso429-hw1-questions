@@ -1094,3 +1094,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 219,3,2026-09-10T21:01:12Z,2026-09-10T22:06:12Z,q1167,"An investment of $43,000.00 grows at 7% compounded annually. What is its value after 5 years?","$56,364.23","$58,050.00","$60,309.72","$15,050.00"
 219,4,2026-09-10T21:01:12Z,2026-09-10T22:06:12Z,q0758,Region A had 136 orders averaging $89.00; region B had 174 orders averaging $58.00. What is the overall average order value?,71.60,127.56,75.40,73.50
 219,5,2026-09-10T21:01:12Z,2026-09-10T22:06:12Z,q0274,A contract signed on 20 October 2026 has a 383-day settlement period. On what date does it settle?,7 November 2027,8 November 2027,31 October 2027,7 December 2027
+220,1,2026-09-10T22:01:09Z,2026-09-10T23:06:09Z,q0611,An item listed at $308.79 is discounted by 10%. What is the sale price?,$30.88,$298.79,$277.91,$339.67
+220,2,2026-09-10T22:01:09Z,2026-09-10T23:06:09Z,q0316,"An investment of $6,000.00 grows at 8% compounded annually. What is its value after 6 years?","$2,880.00","$8,880.00","$8,815.97","$9,521.25"
+220,3,2026-09-10T22:01:09Z,2026-09-10T23:06:09Z,q1373,A retailer sells 611 units at $77.62 each. What is total revenue?,"$48,036.82","$46,649.62","$47,425.82","$48,202.02"
+220,4,2026-09-10T22:01:09Z,2026-09-10T23:06:09Z,q0440,"A $1,230.00 marketing budget is split between two channels in the ratio 2:8. What does the first channel receive?",$307.50,$123.00,$984.00,$246.00
+220,5,2026-09-10T22:01:09Z,2026-09-10T23:06:09Z,q1087,"An invoice for $2,467.56 is settled at an exchange rate of 1.6869. What is the converted amount?","3,915.77","4,162.53","1,462.78","4,409.28"
