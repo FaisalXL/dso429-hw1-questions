@@ -984,3 +984,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 197,3,2026-09-09T23:00:15Z,2026-09-10T00:05:15Z,q1624,"A product line generates $35,250.00 in revenue against $27,364.17 in cost of goods sold. What is the gross margin?",77.6%,28.8%,22.4%,12.6%
 197,4,2026-09-09T23:00:15Z,2026-09-10T00:05:15Z,q0603,Region A had 142 orders averaging $20.00; region B had 132 orders averaging $26.00. What is the overall average order value?,22.89,23.00,23.11,44.17
 197,5,2026-09-09T23:00:15Z,2026-09-10T00:05:15Z,q0064,An item listed at $229.15 is discounted by 15%. What is the sale price?,$194.78,$263.52,$214.15,$34.37
+198,1,2026-09-10T00:01:14Z,2026-09-10T01:06:14Z,q1438,"An invoice for $6,668.14 is settled at an exchange rate of 0.6208. What is the converted amount?","3,472.77","4,806.40","4,139.58","10,741.20"
+198,2,2026-09-10T00:01:14Z,2026-09-10T01:06:14Z,q0511,A contract signed on 15 September 2026 has a 51-day settlement period. On what date does it settle?,29 October 2026,6 November 2026,5 December 2026,5 November 2026
+198,3,2026-09-10T00:01:14Z,2026-09-10T01:06:14Z,q0435,"Fixed costs are $16,000.00. Each unit sells for $108.00 with a variable cost of $68.00. How many units must be sold to break even?",91 units,148 units,400 units,235 units
+198,4,2026-09-10T00:01:14Z,2026-09-10T01:06:14Z,q1376,An item listed at $255.36 is discounted by 45%. What is the sale price?,$210.36,$114.91,$370.27,$140.45
+198,5,2026-09-10T00:01:14Z,2026-09-10T01:06:14Z,q0651,Region A had 193 orders averaging $32.00; region B had 199 orders averaging $33.00. What is the overall average order value?,32.51,64.04,32.49,32.50
