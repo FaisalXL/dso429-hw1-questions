@@ -1044,3 +1044,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 209,3,2026-09-10T11:01:07Z,2026-09-10T12:06:07Z,q1105,A retailer sells 312 units at $50.01 each. What is total revenue?,"$16,103.22","$15,915.12","$15,103.02","$15,603.12"
 209,4,2026-09-10T11:01:07Z,2026-09-10T12:06:07Z,q0284,Region A had 48 orders averaging $90.00; region B had 166 orders averaging $85.00. What is the overall average order value?,88.88,87.50,111.02,86.12
 209,5,2026-09-10T11:01:07Z,2026-09-10T12:06:07Z,q0486,"A monthly headcount series runs 8, 14, 20, 26, 32. If the pattern continues, what is the next value?",38,50,44,32
+210,1,2026-09-10T12:01:13Z,2026-09-10T13:06:13Z,q0068,Region A had 29 orders averaging $40.00; region B had 192 orders averaging $60.00. What is the overall average order value?,50.00,57.38,42.62,66.04
+210,2,2026-09-10T12:01:13Z,2026-09-10T13:06:13Z,q1294,"A product line generates $12,750.00 in revenue against $5,803.78 in cost of goods sold. What is the gross margin?",119.7%,45.5%,54.5%,37.4%
+210,3,2026-09-10T12:01:13Z,2026-09-10T13:06:13Z,q1315,A retailer sells 131 units at $83.28 each. What is total revenue?,"$10,909.68","$10,076.88","$11,742.48","$11,040.68"
+210,4,2026-09-10T12:01:13Z,2026-09-10T13:06:13Z,q0800,"A product line generates $11,000.00 in revenue against $9,877.76 in cost of goods sold. What is the gross margin?",5.4%,89.8%,11.4%,10.2%
+210,5,2026-09-10T12:01:13Z,2026-09-10T13:06:13Z,q1252,"An invoice for $6,015.37 is settled at an exchange rate of 1.8410. What is the converted amount?","3,267.45","11,074.30","11,675.83","10,472.76"
