@@ -1184,3 +1184,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 237,3,2026-09-11T15:00:32Z,2026-09-11T16:05:32Z,q0093,"A monthly headcount series runs 34, 37, 40, 43, 46. If the pattern continues, what is the next value?",49,55,52,46
 237,4,2026-09-11T15:00:32Z,2026-09-11T16:05:32Z,q0378,Region A had 19 orders averaging $51.00; region B had 129 orders averaging $90.00. What is the overall average order value?,70.50,84.99,56.01,97.51
 237,5,2026-09-11T15:00:32Z,2026-09-11T16:05:32Z,q1043,A contract signed on 12 August 2026 has a 309-day settlement period. On what date does it settle?,17 July 2027,18 June 2027,10 June 2027,17 June 2027
+238,1,2026-09-11T16:00:32Z,2026-09-11T17:05:32Z,q0583,"A support queue holds 25 billing tickets, 9 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",119.0%,19.6%,73.9%,54.3%
+238,2,2026-09-11T16:00:32Z,2026-09-11T17:05:32Z,q0984,Region A had 161 orders averaging $77.00; region B had 129 orders averaging $66.00. What is the overall average order value?,129.88,70.89,71.50,72.11
+238,3,2026-09-11T16:00:32Z,2026-09-11T17:05:32Z,q0742,An item listed at $868.64 is discounted by 10%. What is the sale price?,$86.86,$781.78,$955.50,$858.64
+238,4,2026-09-11T16:00:32Z,2026-09-11T17:05:32Z,q0382,"A support queue holds 11 billing tickets, 15 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",46.9%,81.2%,34.4%,52.4%
+238,5,2026-09-11T16:00:32Z,2026-09-11T17:05:32Z,q0005,"An investment of $29,500.00 grows at 14% compounded annually. What is its value after 2 years?","$38,338.20","$8,260.00","$37,760.00","$33,630.00"
