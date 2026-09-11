@@ -1109,3 +1109,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 222,3,2026-09-11T00:01:10Z,2026-09-11T01:06:10Z,q1162,"A support queue holds 18 billing tickets, 15 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",94.3%,105.9%,42.9%,51.4%
 222,4,2026-09-11T00:01:10Z,2026-09-11T01:06:10Z,q0562,"A product line generates $74,250.00 in revenue against $37,321.45 in cost of goods sold. What is the gross margin?",33.1%,50.3%,49.7%,98.9%
 222,5,2026-09-11T00:01:10Z,2026-09-11T01:06:10Z,q0888,"An invoice for $8,603.45 is settled at an exchange rate of 1.5013. What is the converted amount?","5,730.67","12,916.36","12,056.01","13,776.70"
+223,1,2026-09-11T01:01:07Z,2026-09-11T02:06:07Z,q1248,"A product line generates $74,250.00 in revenue against $62,948.45 in cost of goods sold. What is the gross margin?",8.2%,15.2%,18.0%,84.8%
+223,2,2026-09-11T01:01:07Z,2026-09-11T02:06:07Z,q0667,"A support queue holds 14 billing tickets, 7 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",46.7%,70.0%,23.3%,87.5%
+223,3,2026-09-11T01:01:07Z,2026-09-11T02:06:07Z,q1275,"An invoice for $4,615.77 is settled at an exchange rate of 1.4388. What is the converted amount?","7,102.75","6,179.59","3,208.07","6,641.17"
+223,4,2026-09-11T01:01:07Z,2026-09-11T02:06:07Z,q0147,"A product line generates $42,000.00 in revenue against $25,921.53 in cost of goods sold. What is the gross margin?",61.7%,23.7%,38.3%,62.0%
+223,5,2026-09-11T01:01:07Z,2026-09-11T02:06:07Z,q1194,"A monthly headcount series runs 17, 21, 25, 29, 33. If the pattern continues, what is the next value?",37,41,45,33
