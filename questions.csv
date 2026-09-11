@@ -1139,3 +1139,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 228,3,2026-09-11T06:01:07Z,2026-09-11T07:06:07Z,q0271,"An invoice for $3,633.81 is settled at an exchange rate of 1.1206. What is the converted amount?","4,072.05","3,242.74","4,435.43","3,708.67"
 228,4,2026-09-11T06:01:07Z,2026-09-11T07:06:07Z,q1325,"A support queue holds 5 billing tickets, 13 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",19.2%,58.1%,41.9%,16.1%
 228,5,2026-09-11T06:01:07Z,2026-09-11T07:06:07Z,q0581,A contract signed on 15 February 2026 has a 249-day settlement period. On what date does it settle?,15 October 2026,22 October 2026,21 November 2026,23 October 2026
+229,1,2026-09-11T07:00:24Z,2026-09-11T08:05:24Z,q1330,"An investment of $27,500.00 grows at 3% compounded annually. What is its value after 5 years?","$4,125.00","$31,880.04","$30,951.49","$31,625.00"
+229,2,2026-09-11T07:00:24Z,2026-09-11T08:05:24Z,q0118,A contract signed on 19 June 2026 has a 188-day settlement period. On what date does it settle?,23 January 2027,24 December 2026,25 December 2026,17 December 2026
+229,3,2026-09-11T07:00:24Z,2026-09-11T08:05:24Z,q1563,"Quarterly revenue moved from $2,450.00 to $3,350.00. What is the percentage change?",136.7%,26.9%,-36.7%,36.7%
+229,4,2026-09-11T07:00:24Z,2026-09-11T08:05:24Z,q0765,"A product line generates $12,000.00 in revenue against $8,222.49 in cost of goods sold. What is the gross margin?",68.5%,31.5%,45.9%,18.7%
+229,5,2026-09-11T07:00:24Z,2026-09-11T08:05:24Z,q1100,Region A had 106 orders averaging $27.00; region B had 11 orders averaging $77.00. What is the overall average order value?,52.00,31.70,72.30,34.99
