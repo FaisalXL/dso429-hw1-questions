@@ -2,50 +2,105 @@
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>DSO 429 — File-drop Status</title>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap">
 <style>
-  :root{--paper:#FAFAF8;--raised:#FFF;--ink:#17191A;--ink-soft:#565C5A;--ink-faint:#8A918E;
-    --rule:#E2E4E0;--rule-soft:#EFF0ED;--hit:#2E7D5B;--late:#B07D18;--missed:#B3453A;--open:#C9CDCB;
-    --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;--sans:"IBM Plex Sans",-apple-system,sans-serif;}
-  @media (prefers-color-scheme:dark){:root{--paper:#101211;--raised:#181B1A;--ink:#E8EAE7;
-    --ink-soft:#A0A8A4;--ink-faint:#6E7672;--rule:#262A28;--rule-soft:#1E2120;--open:#333937;}}
+  :root{
+    --paper:#FAFAF8;--raised:#FFFFFF;--ink:#17191A;--ink-soft:#565C5A;--ink-faint:#8A918E;
+    --rule:#E2E4E0;--rule-soft:#EFF0ED;
+    --hit:#2E7D5B;--late:#B07D18;--missed:#B3453A;--open:#C9CDCB;
+    --hit-bg:#E6F2EC;--late-bg:#F7EEDB;--missed-bg:#F6E4E2;
+    --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+    --sans:"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  }
+  @media (prefers-color-scheme:dark){:root{
+    --paper:#101211;--raised:#181B1A;--ink:#E8EAE7;--ink-soft:#A0A8A4;--ink-faint:#6E7672;
+    --rule:#262A28;--rule-soft:#1E2120;
+    --hit:#4FB387;--late:#D6A23F;--missed:#E0766B;--open:#333937;
+    --hit-bg:#15291F;--late-bg:#2E2412;--missed-bg:#321A17;
+  }}
   *{box-sizing:border-box}
-  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.55}
-  .wrap{max-width:1000px;margin:0 auto;padding:40px 22px 80px}
-  .eyebrow{font-family:var(--mono);font-size:.7rem;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-faint)}
-  h1{font-size:2rem;margin:.3rem 0 .2rem;letter-spacing:-.02em}
-  .meta{font-family:var(--mono);font-size:.78rem;color:var(--ink-soft);display:flex;gap:1.1rem;flex-wrap:wrap;margin-bottom:1.2rem}
-  .note{border-left:3px solid var(--late);background:var(--rule-soft);padding:14px 18px;border-radius:0 6px 6px 0;font-size:.88rem;color:var(--ink-soft);margin-bottom:1.4rem}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:1140px;margin:0 auto;padding:36px 22px 80px;display:flex;flex-direction:column;gap:22px}
+  .eyebrow{margin:0;font-family:var(--mono);font-size:.7rem;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-faint)}
+  h1{font-size:2rem;margin:.2rem 0 0;letter-spacing:-.02em;font-weight:700;text-wrap:balance}
+  header{display:flex;flex-direction:column;gap:6px}
+  .sub{margin:0;color:var(--ink-soft);font-size:.93rem;max-width:72ch}
+
+  .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+  .tile{background:var(--raised);border:1px solid var(--rule);border-radius:8px;padding:13px 15px;display:flex;flex-direction:column;gap:3px}
+  .tile .k{font-family:var(--mono);font-size:.64rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-faint)}
+  .tile .v{font-size:1.35rem;font-weight:600;font-variant-numeric:tabular-nums;letter-spacing:-.01em}
+  .tile .s{font-size:.8rem;color:var(--ink-soft);font-variant-numeric:tabular-nums}
+  .tile.live .v{color:var(--hit)}
+  .tile.warn{border-color:var(--late)} .tile.warn .v{color:var(--late)}
+  .dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--hit);margin-right:8px;vertical-align:2px;animation:pulse 2s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+  @media (prefers-reduced-motion:reduce){.dot{animation:none}}
+
+  .note{border-left:3px solid var(--late);background:var(--rule-soft);padding:12px 16px;border-radius:0 6px 6px 0;font-size:.86rem;color:var(--ink-soft)}
   .note b{color:var(--ink)}
-  .legend{display:flex;gap:1.1rem;flex-wrap:wrap;font-family:var(--mono);font-size:.72rem;color:var(--ink-faint);margin-bottom:.8rem}
+  .legend{display:flex;gap:16px;flex-wrap:wrap;font-family:var(--mono);font-size:.7rem;color:var(--ink-faint)}
   .legend i{display:inline-block;width:.7rem;height:.7rem;margin-right:.35rem;border-radius:2px;vertical-align:-1px}
-  .scroller{overflow-x:auto;border:1px solid var(--rule);border-radius:8px;background:var(--raised)}
+
+  .scroller{overflow-x:auto;border:1px solid var(--rule);border-radius:9px;background:var(--raised)}
   table{width:100%;border-collapse:collapse;font-size:.87rem}
-  th{text-align:left;font-family:var(--mono);font-size:.66rem;letter-spacing:.1em;text-transform:uppercase;
-     color:var(--ink-faint);padding:12px 14px;border-bottom:1px solid var(--rule);white-space:nowrap}
-  td{padding:11px 14px;border-bottom:1px solid var(--rule-soft);vertical-align:middle}
-  tr:last-child td{border-bottom:none}
-  .num{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+  thead th{text-align:left;font-family:var(--mono);font-size:.63rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint);padding:12px 14px;border-bottom:1px solid var(--rule);white-space:nowrap;font-weight:500}
+  th.num,td.num{text-align:right}
+  tbody td{padding:13px 14px;border-bottom:1px solid var(--rule-soft);vertical-align:middle}
+  td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+  tr.row{cursor:pointer}
+  tr.row:hover td,tr.row.open td{background:var(--rule-soft)}
+  tr.row:focus-visible{outline:2px solid var(--hit);outline-offset:-2px}
+  .rank{font-family:var(--mono);color:var(--ink-faint);font-size:.8rem;white-space:nowrap;width:3rem}
+  .caret{display:inline-block;width:1.1em;transition:transform .15s}
+  tr.row.open .caret{transform:rotate(90deg)}
+  @media (prefers-reduced-motion:reduce){.caret{transition:none}}
   .who b{font-weight:600}
-  .who span{display:block;font-family:var(--mono);font-size:.68rem;color:var(--ink-faint)}
-  .who a{color:var(--ink-faint);text-decoration:none;border-bottom:1px dotted var(--rule)}
-  .strip{display:flex;gap:2px;min-width:8rem}
-  .strip i{width:9px;height:20px;border-radius:2px;background:var(--open);display:block}
-  .strip i.hit{background:var(--hit)} .strip i.late{background:var(--late)} .strip i.missed{background:var(--missed)}
-  .strip i.tampered{outline:2px solid var(--missed);outline-offset:1px}
-  .flag{font-family:var(--mono);font-size:.68rem;color:var(--missed)}
-  footer{margin-top:22px;font-size:.78rem;color:var(--ink-faint);max-width:70ch}
+  .who .meta{display:block;font-family:var(--mono);font-size:.68rem;color:var(--ink-faint);margin-top:2px}
+  .who a{color:var(--ink-faint);text-decoration:none;border-bottom:1px dotted var(--ink-faint)}
+  .who a:hover{color:var(--ink)}
+  .flag{display:inline-block;margin-top:5px;font-family:var(--mono);font-size:.63rem;color:var(--missed);border:1px solid var(--missed);border-radius:3px;padding:0 5px}
+
+  .bar{display:flex;height:22px;width:300px;min-width:220px;border-radius:3px;overflow:hidden;background:var(--open)}
+  .bar i{flex:1 1 0;min-width:0;background:var(--open)}
+  .bar i.hit{background:var(--hit)} .bar i.late{background:var(--late)} .bar i.missed{background:var(--missed)}
+  .bar.few{gap:2px;background:transparent;border-radius:0} .bar.few i{border-radius:2px}
+  .barlab{display:flex;justify-content:space-between;width:300px;min-width:220px;font-family:var(--mono);font-size:.6rem;color:var(--ink-faint);margin-top:4px}
+  .hi{color:var(--hit)} .mid{color:var(--late)} .lo{color:var(--missed)}
+
+  tr.detail td{padding:0;background:var(--paper)}
+  .panel{padding:18px 20px 22px;display:flex;flex-direction:column;gap:14px;border-bottom:1px solid var(--rule)}
+  .chips{display:flex;flex-wrap:wrap;gap:8px}
+  .chip{font-family:var(--mono);font-size:.72rem;background:var(--raised);border:1px solid var(--rule);border-radius:5px;padding:5px 10px;color:var(--ink-soft)}
+  .chip b{color:var(--ink);font-weight:600}
+  .chip a{color:var(--ink)}
+  .rounds-wrap{max-height:420px;overflow:auto;border:1px solid var(--rule);border-radius:7px;background:var(--raised)}
+  .rounds{font-size:.82rem}
+  .rounds thead th{position:sticky;top:0;background:var(--raised);z-index:1}
+  .rounds td{padding:8px 14px;border-bottom:1px solid var(--rule-soft);white-space:nowrap;font-variant-numeric:tabular-nums}
+  .rounds td.mono{font-family:var(--mono);font-size:.78rem}
+  .rounds a{color:var(--ink-soft)}
+  .pill{display:inline-block;font-family:var(--mono);font-size:.64rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase;padding:2px 8px;border-radius:3px}
+  .pill.hit{background:var(--hit-bg);color:var(--hit)}
+  .pill.late{background:var(--late-bg);color:var(--late)}
+  .pill.missed{background:var(--missed-bg);color:var(--missed)}
+  .pill.open{background:var(--rule-soft);color:var(--ink-soft)}
   .loading{padding:26px;text-align:center;color:var(--ink-faint);font-family:var(--mono);font-size:.8rem}
+  footer{font-size:.78rem;color:var(--ink-faint);max-width:84ch;display:flex;flex-direction:column;gap:6px}
+  footer a{color:var(--ink-faint)}
 </style></head><body>
 <div class="wrap">
-  <p class="eyebrow">DSO 429 · Homework 1 · file-drop model</p>
-  <h1>File-drop Status</h1>
-  <div class="meta" id="meta"></div>
+  <header>
+    <p class="eyebrow">DSO 429 · Homework 1 · file-drop model</p>
+    <h1>File-drop Status</h1>
+    <p class="sub">Each student publishes one answer file per round to a public GitHub repo. This page shows what we have seen from each of them, and when.</p>
+  </header>
+
+  <div class="tiles" id="tiles"></div>
 
   <div class="note">
-    <b>The timestamp is ours, not yours.</b> A git commit date can be set to anything, so it is not
-    used. Staff poll each repo on a schedule and record when a file was <b>first seen</b>. Editing a
-    file after that point is detected and ignored — the copy first observed is the one graded.
+    <b>The timestamp is ours, not the student's.</b> A git commit date can be set to anything, so it is never used.
+    We check each repo on a schedule and record when a file was <b>first seen</b>. Editing a file after that point is detected and ignored — the copy first observed is the one graded.
   </div>
 
   <div class="legend">
@@ -53,60 +108,189 @@
     <span><i style="background:var(--late)"></i>late</span>
     <span><i style="background:var(--missed)"></i>never seen</span>
     <span><i style="background:var(--open)"></i>still open</span>
-    <span><i style="outline:2px solid var(--missed);outline-offset:1px;background:var(--late)"></i>edited after first sight</span>
   </div>
 
   <div class="scroller"><table>
     <thead><tr>
-      <th style="width:2.2rem"></th><th>Student</th><th style="min-width:9rem">Timeline</th>
-      <th class="num">On time</th><th class="num">Uptime</th><th class="num">Accuracy</th>
+      <th></th><th>Student</th><th>History · round 1 → now</th>
+      <th class="num">On time</th><th class="num">Uptime</th><th class="num">Last 24</th>
+      <th class="num">Accuracy</th><th class="num">Streak</th>
     </tr></thead>
-    <tbody id="body"><tr><td colspan="6" class="loading">loading…</td></tr></tbody>
+    <tbody id="body"><tr><td colspan="8" class="loading">loading…</td></tr></tbody>
   </table></div>
+
   <footer id="foot"></footer>
 </div>
 <script>
-const pct = v => (v===null||v===undefined) ? "—" : v.toFixed(1)+"%";
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const pct = v => (v === null || v === undefined) ? "—" : v.toFixed(1) + "%";
+const tone = v => v === null ? "" : v >= 90 ? "hi" : v >= 60 ? "mid" : "lo";
+const when = iso => iso ? new Date(iso).toLocaleString([], {month:"short", day:"numeric", hour:"numeric", minute:"2-digit"}) : "—";
+const clock = iso => iso ? new Date(iso).toLocaleTimeString([], {hour:"numeric", minute:"2-digit"}) : "—";
 
-function strip(rounds){
-  return rounds.map(r=>{
-    const cls=[r.status==="open"?"":r.status, r.tampered?"tampered":""].filter(Boolean).join(" ");
-    const seen=r.first_seen_at?new Date(r.first_seen_at).toLocaleString():"never seen";
-    return `<i class="${cls}" title="Round ${r.round_id} · ${r.status}
-deadline ${new Date(r.deadline_at).toLocaleString()}
-first seen ${seen}${r.n_correct!==null?`\n${r.n_correct}/${r.n_questions} correct`:""}"></i>`;
-  }).join("");
+function ago(iso) {
+  if (!iso) return "never";
+  const s = Math.max(0, (Date.now() - Date.parse(iso)) / 1000);
+  if (s < 60) return Math.round(s) + "s ago";
+  const m = s / 60; if (m < 60) return Math.round(m) + " min ago";
+  const h = m / 60; if (h < 48) return Math.round(h) + " h ago";
+  return Math.round(h / 24) + " days ago";
+}
+function mmss(ms) {
+  const t = Math.max(0, Math.round(ms / 1000));
+  return `${Math.floor(t / 60)}:${String(t % 60).padStart(2, "0")}`;
 }
 
-async function render(){
-  let d;
-  try{
-    const res=await fetch("filedrop.json?t="+Date.now(),{cache:"no-store"});
-    if(!res.ok) throw new Error("filedrop.json "+res.status);
-    d=await res.json();
-  }catch(e){
-    document.getElementById("body").innerHTML=
-      `<tr><td colspan="6" class="loading">could not load filedrop.json — ${e.message}</td></tr>`;
-    return;
+// Everything below the tiles is derived from the same rounds[] the grader
+// uses; nothing here changes a result, it only presents it.
+function stats(s) {
+  const closed = s.rounds.filter(r => r.closed);
+  let streak = 0;
+  for (let i = closed.length - 1; i >= 0 && closed[i].status === "hit"; i--) streak++;
+  const recent = closed.slice(-24);
+  const seen = s.rounds.map(r => r.first_seen_at).filter(Boolean).sort();
+  const spare = closed.filter(r => r.status === "hit" && r.first_seen_at)
+    .map(r => (Date.parse(r.deadline_at) - Date.parse(r.first_seen_at)) / 60000).sort((a, b) => a - b);
+  return {
+    streak,
+    recentHits: recent.filter(r => r.status === "hit").length, recentN: recent.length,
+    lastSeen: seen[seen.length - 1] || null,
+    medianSpare: spare.length ? spare[Math.floor(spare.length / 2)] : null,
+  };
+}
+
+let DATA = null, openId = null, openRound = null;
+
+// The open round is decided against the viewer's clock, not the generator's --
+// the page can be read long after the data was written.
+function currentRound(d) {
+  const rs = d.students[0] ? d.students[0].rounds : [];
+  const now = Date.now();
+  const live = rs.filter(r => r.released_at ? Date.parse(r.released_at) <= now && now < Date.parse(r.deadline_at)
+                                            : !r.closed);
+  return live.sort((a, b) => b.round_id - a.round_id)[0] || null;
+}
+
+function renderTiles(d) {
+  openRound = currentRound(d);
+  const stale = (Date.now() - Date.parse(d.generated_at)) / 60000 > 45;
+  $("tiles").innerHTML = `
+    <div class="tile live"><span class="k">${openRound ? "Open now" : "Between rounds"}</span>
+      <span class="v">${openRound ? `<span class="dot"></span>Round ${openRound.round_id}` : "—"}</span>
+      <span class="s" id="countdown">${openRound ? "" : "the next round publishes on the hour"}</span></div>
+    <div class="tile"><span class="k">Released</span>
+      <span class="v">${openRound ? clock(openRound.released_at) : "—"}</span>
+      <span class="s">${openRound ? "deadline " + clock(openRound.deadline_at) : ""}</span></div>
+    <div class="tile"><span class="k">Rounds published</span>
+      <span class="v">${d.latest_round}</span>
+      <span class="s">${d.rounds_closed} closed · ${d.students.length} repos watched</span></div>
+    <div class="tile ${stale ? "warn" : ""}"><span class="k">Last checked</span>
+      <span class="v" id="checked">${ago(d.generated_at)}</span>
+      <span class="s">${stale ? "this board may be behind" : "at " + clock(d.generated_at)}</span></div>`;
+  tick();
+}
+
+function tick() {
+  const c = $("countdown");
+  if (c && openRound) {
+    const left = Date.parse(openRound.deadline_at) - Date.now();
+    c.textContent = left > 0 ? `closes in ${mmss(left)}` : "closed — refreshing";
   }
-  document.getElementById("meta").innerHTML=
-    `<span>round <b>${d.latest_round}</b></span><span><b>${d.rounds_closed}</b> closed</span>`+
-    `<span>polled <b>${new Date(d.generated_at).toLocaleString()}</b></span>`;
-  document.getElementById("body").innerHTML=d.students.map((s,i)=>`
-    <tr>
-      <td class="num" style="color:var(--ink-faint)">${i+1}</td>
-      <td class="who"><b>${s.name}</b>
-        <span><a href="https://github.com/${s.repo}" target="_blank" rel="noopener">${s.repo}</a></span>
-        ${s.tampered_rounds?`<span class="flag">${s.tampered_rounds} file(s) edited after first sight</span>`:""}
-      </td>
-      <td><div class="strip">${strip(s.rounds)}</div></td>
-      <td class="num">${s.hits}/${s.eligible}</td>
-      <td class="num">${pct(s.uptime_pct)}</td>
-      <td class="num">${pct(s.accuracy_pct)}</td>
-    </tr>`).join("");
-  document.getElementById("foot").textContent =
-    "Uptime counts rounds whose file was first seen before the deadline. Accuracy is over all "
-    + "closed rounds, so a round never submitted counts against it. Hover any block for detail.";
+  const k = $("checked");
+  if (k && DATA) k.textContent = ago(DATA.generated_at);
 }
-render(); setInterval(render, 60000);
+
+function bar(rounds) {
+  const few = rounds.length <= 60;
+  const blocks = rounds.map(r => `<i class="${r.status === "open" ? "" : r.status}" title="Round ${r.round_id} · ${r.status}${r.first_seen_at ? " · seen " + when(r.first_seen_at) : ""}"></i>`).join("");
+  const first = rounds[0], last = rounds[rounds.length - 1];
+  return `<div class="bar ${few ? "few" : ""}">${blocks}</div>
+    <div class="barlab"><span>${first ? "r" + first.round_id + " · " + when(first.released_at || first.deadline_at) : ""}</span><span>${last ? "r" + last.round_id : ""}</span></div>`;
+}
+
+function detail(s, st) {
+  const rows = [...s.rounds].reverse().map(r => {
+    let margin = "—", cls = "";
+    if (r.first_seen_at) {
+      const m = (Date.parse(r.deadline_at) - Date.parse(r.first_seen_at)) / 60000;
+      if (m >= 0) { margin = `${Math.round(m)} min to spare`; cls = "hi"; }
+      else { margin = `${Math.round(-m)} min late`; cls = "mid"; }
+    } else if (!r.closed) margin = "open";
+    const label = {hit: "on time", late: "late", missed: "not seen", open: "open"}[r.status] || r.status;
+    return `<tr>
+      <td class="mono">${r.round_id}</td>
+      <td>${when(r.released_at)}</td>
+      <td>${when(r.deadline_at)}</td>
+      <td>${when(r.first_seen_at)}</td>
+      <td class="${cls}">${margin}</td>
+      <td><span class="pill ${r.status}">${label}</span>${r.tampered ? ' <span class="flag">edited after first sight</span>' : ""}</td>
+      <td class="mono">${r.n_correct !== null && r.n_correct !== undefined ? `${r.n_correct}/${r.n_questions}` : "—"}</td>
+      <td>${r.url ? `<a href="${esc(r.url)}" target="_blank" rel="noopener">file ↗</a>` : ""}</td>
+    </tr>`;
+  }).join("");
+  return `<tr class="detail"><td colspan="8"><div class="panel">
+    <div class="chips">
+      <span class="chip">current streak <b>${st.streak}</b></span>
+      <span class="chip">last 24 rounds <b>${st.recentHits}/${st.recentN}</b></span>
+      <span class="chip">last file seen <b>${when(st.lastSeen)}</b></span>
+      <span class="chip">typical margin <b>${st.medianSpare !== null ? Math.round(st.medianSpare) + " min" : "—"}</b></span>
+      <span class="chip">GitHub push history <b><a href="https://github.com/${esc(s.repo)}/activity" target="_blank" rel="noopener">open ↗</a></b></span>
+    </div>
+    <div class="rounds-wrap"><table class="rounds">
+      <thead><tr><th>Round</th><th>Released</th><th>Deadline</th><th>First seen</th><th>Margin</th><th>Result</th><th>Score</th><th></th></tr></thead>
+      <tbody>${rows}</tbody></table></div>
+  </div></td></tr>`;
+}
+
+function render(d) {
+  DATA = d;
+  renderTiles(d);
+  $("body").innerHTML = d.students.map((s, i) => {
+    const st = stats(s);
+    const recentPct = st.recentN ? 100 * st.recentHits / st.recentN : null;
+    const open = openId === s.student_id;
+    return `<tr class="row ${open ? "open" : ""}" tabindex="0" data-id="${esc(s.student_id)}" aria-expanded="${open}">
+      <td class="rank"><span class="caret">▸</span>${i + 1}</td>
+      <td class="who"><b>${esc(s.name)}</b>
+        <span class="meta"><a href="https://github.com/${esc(s.repo)}" target="_blank" rel="noopener">${esc(s.repo)}</a> · last seen ${ago(st.lastSeen)}</span>
+        ${s.tampered_rounds ? `<span class="flag">${s.tampered_rounds} file(s) edited after first sight</span>` : ""}</td>
+      <td>${bar(s.rounds)}</td>
+      <td class="num">${s.hits}/${s.eligible}</td>
+      <td class="num ${tone(s.uptime_pct)}">${pct(s.uptime_pct)}</td>
+      <td class="num ${tone(recentPct)}">${st.recentN ? `${st.recentHits}/${st.recentN}` : "—"}</td>
+      <td class="num">${pct(s.accuracy_pct)}</td>
+      <td class="num">${st.streak}</td>
+    </tr>${open ? detail(s, st) : ""}`;
+  }).join("");
+  document.querySelectorAll("tr.row").forEach(tr => {
+    const toggle = () => { openId = openId === tr.dataset.id ? null : tr.dataset.id; render(DATA); };
+    tr.addEventListener("click", e => { if (!e.target.closest("a")) toggle(); });
+    tr.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); } });
+  });
+  $("foot").innerHTML = `
+    <span>Times are in your local time zone. “First seen” is when our scheduled check found the file, which can
+      trail the real push by up to one check interval — so time to spare is understated and lateness can be overstated,
+      never the other way round.</span>
+    <span>Uptime counts rounds whose file was first seen before the deadline. Accuracy is over every closed round,
+      so a round never submitted counts against it. Click a student for their round-by-round record.</span>
+    <span><a href="filedrop-classic.html">Classic view</a></span>`;
+}
+
+async function load() {
+  try {
+    const res = await fetch("filedrop.json?t=" + Date.now(), {cache: "no-store"});
+    if (!res.ok) throw new Error("filedrop.json " + res.status);
+    const d = await res.json();
+    // Keep the reader's place in an open round-by-round table across refreshes.
+    const w = document.querySelector(".rounds-wrap"), keep = w ? w.scrollTop : 0;
+    render(d);
+    const w2 = document.querySelector(".rounds-wrap"); if (w2) w2.scrollTop = keep;
+  } catch (e) {
+    if (!DATA) $("body").innerHTML = `<tr><td colspan="8" class="loading">Could not load filedrop.json — ${esc(e.message)}</td></tr>`;
+  }
+}
+load();
+setInterval(load, 60000);
+setInterval(tick, 1000);
 </script></body></html>
