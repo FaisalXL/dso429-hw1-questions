@@ -1179,3 +1179,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 236,3,2026-09-11T14:00:29Z,2026-09-11T15:05:29Z,q0999,"A support queue holds 12 billing tickets, 14 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",38.7%,63.2%,45.2%,83.9%
 236,4,2026-09-11T14:00:29Z,2026-09-11T15:05:29Z,q0845,"A support queue holds 9 billing tickets, 7 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",25.9%,50.0%,59.3%,33.3%
 236,5,2026-09-11T14:00:29Z,2026-09-11T15:05:29Z,q0983,"An invoice for $7,920.83 is settled at an exchange rate of 0.7920. What is the converted amount?","10,001.05","6,273.30","5,481.21","7,065.38"
+237,1,2026-09-11T15:00:32Z,2026-09-11T16:05:32Z,q1476,A contract signed on 13 October 2026 has a 247-day settlement period. On what date does it settle?,17 July 2027,10 June 2027,18 June 2027,17 June 2027
+237,2,2026-09-11T15:00:32Z,2026-09-11T16:05:32Z,q1343,"Fixed costs are $6,500.00. Each unit sells for $193.00 with a variable cost of $116.00. How many units must be sold to break even?",56 units,21 units,84 units,34 units
+237,3,2026-09-11T15:00:32Z,2026-09-11T16:05:32Z,q0093,"A monthly headcount series runs 34, 37, 40, 43, 46. If the pattern continues, what is the next value?",49,55,52,46
+237,4,2026-09-11T15:00:32Z,2026-09-11T16:05:32Z,q0378,Region A had 19 orders averaging $51.00; region B had 129 orders averaging $90.00. What is the overall average order value?,70.50,84.99,56.01,97.51
+237,5,2026-09-11T15:00:32Z,2026-09-11T16:05:32Z,q1043,A contract signed on 12 August 2026 has a 309-day settlement period. On what date does it settle?,17 July 2027,18 June 2027,10 June 2027,17 June 2027
