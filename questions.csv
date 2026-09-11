@@ -1169,3 +1169,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 234,3,2026-09-11T12:00:34Z,2026-09-11T13:05:34Z,q1119,"A product line generates $62,250.00 in revenue against $36,161.52 in cost of goods sold. What is the gross margin?",41.9%,58.1%,26.5%,72.1%
 234,4,2026-09-11T12:00:34Z,2026-09-11T13:05:34Z,q1352,"A product line generates $89,250.00 in revenue against $44,736.23 in cost of goods sold. What is the gross margin?",49.9%,50.1%,33.2%,99.5%
 234,5,2026-09-11T12:00:34Z,2026-09-11T13:05:34Z,q0864,"An invoice for $4,203.50 is settled at an exchange rate of 1.2332. What is the converted amount?","5,183.76","4,763.41","5,604.11","3,408.61"
+235,1,2026-09-11T13:00:31Z,2026-09-11T14:05:31Z,q0718,An item listed at $360.67 is discounted by 25%. What is the sale price?,$90.17,$270.50,$450.84,$335.67
+235,2,2026-09-11T13:00:31Z,2026-09-11T14:05:31Z,q0264,"A support queue holds 10 billing tickets, 22 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",71.1%,22.2%,48.9%,28.6%
+235,3,2026-09-11T13:00:31Z,2026-09-11T14:05:31Z,q1347,A contract signed on 25 January 2026 has a 147-day settlement period. On what date does it settle?,22 June 2026,21 July 2026,21 June 2026,14 June 2026
+235,4,2026-09-11T13:00:31Z,2026-09-11T14:05:31Z,q1643,A contract signed on 27 July 2026 has a 145-day settlement period. On what date does it settle?,18 January 2027,19 December 2026,12 December 2026,20 December 2026
+235,5,2026-09-11T13:00:31Z,2026-09-11T14:05:31Z,q0539,An item listed at $65.32 is discounted by 45%. What is the sale price?,$20.32,$29.39,$35.93,$94.71
