@@ -1114,3 +1114,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 223,3,2026-09-11T01:01:07Z,2026-09-11T02:06:07Z,q1275,"An invoice for $4,615.77 is settled at an exchange rate of 1.4388. What is the converted amount?","7,102.75","6,179.59","3,208.07","6,641.17"
 223,4,2026-09-11T01:01:07Z,2026-09-11T02:06:07Z,q0147,"A product line generates $42,000.00 in revenue against $25,921.53 in cost of goods sold. What is the gross margin?",61.7%,23.7%,38.3%,62.0%
 223,5,2026-09-11T01:01:07Z,2026-09-11T02:06:07Z,q1194,"A monthly headcount series runs 17, 21, 25, 29, 33. If the pattern continues, what is the next value?",37,41,45,33
+224,1,2026-09-11T02:00:33Z,2026-09-11T03:05:33Z,q0687,Region A had 55 orders averaging $64.00; region B had 147 orders averaging $55.00. What is the overall average order value?,78.95,61.55,59.50,57.45
+224,2,2026-09-11T02:00:33Z,2026-09-11T03:05:33Z,q1345,Region A had 200 orders averaging $52.00; region B had 124 orders averaging $75.00. What is the overall average order value?,60.80,63.50,66.20,98.50
+224,3,2026-09-11T02:00:33Z,2026-09-11T03:05:33Z,q0527,"A product line generates $36,750.00 in revenue against $24,820.48 in cost of goods sold. What is the gross margin?",32.5%,48.1%,19.4%,67.5%
+224,4,2026-09-11T02:00:33Z,2026-09-11T03:05:33Z,q0597,"Quarterly revenue moved from $1,900.00 to $1,772.00. What is the percentage change?",93.3%,-7.2%,6.7%,-6.7%
+224,5,2026-09-11T02:00:33Z,2026-09-11T03:05:33Z,q0696,"Fixed costs are $52,000.00. Each unit sells for $162.00 with a variable cost of $93.00. How many units must be sold to break even?",204 units,754 units,321 units,559 units
