@@ -1164,3 +1164,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 233,3,2026-09-11T11:00:31Z,2026-09-11T12:05:31Z,q1322,Region A had 103 orders averaging $89.00; region B had 22 orders averaging $91.00. What is the overall average order value?,90.00,89.35,108.44,90.65
 233,4,2026-09-11T11:00:31Z,2026-09-11T12:05:31Z,q1102,A contract signed on 28 November 2026 has a 347-day settlement period. On what date does it settle?,10 November 2027,11 November 2027,3 November 2027,10 December 2027
 233,5,2026-09-11T11:00:31Z,2026-09-11T12:05:31Z,q0643,"A support queue holds 5 billing tickets, 3 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",53.3%,33.3%,20.0%,50.0%
+234,1,2026-09-11T12:00:34Z,2026-09-11T13:05:34Z,q1660,"A product line generates $71,250.00 in revenue against $51,761.01 in cost of goods sold. What is the gross margin?",15.8%,72.6%,37.7%,27.4%
+234,2,2026-09-11T12:00:34Z,2026-09-11T13:05:34Z,q1021,"A $8,340.00 marketing budget is split between two channels in the ratio 5:3. What does the first channel receive?","$1,042.50","$3,127.50","$13,900.00","$5,212.50"
+234,3,2026-09-11T12:00:34Z,2026-09-11T13:05:34Z,q1119,"A product line generates $62,250.00 in revenue against $36,161.52 in cost of goods sold. What is the gross margin?",41.9%,58.1%,26.5%,72.1%
+234,4,2026-09-11T12:00:34Z,2026-09-11T13:05:34Z,q1352,"A product line generates $89,250.00 in revenue against $44,736.23 in cost of goods sold. What is the gross margin?",49.9%,50.1%,33.2%,99.5%
+234,5,2026-09-11T12:00:34Z,2026-09-11T13:05:34Z,q0864,"An invoice for $4,203.50 is settled at an exchange rate of 1.2332. What is the converted amount?","5,183.76","4,763.41","5,604.11","3,408.61"
