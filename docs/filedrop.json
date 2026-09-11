@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-11T17:00:33.103844Z",
+  "generated_at": "2026-09-11T17:30:31.019200Z",
   "model": "file-drop",
   "latest_round": 239,
-  "rounds_closed": 237,
+  "rounds_closed": 238,
   "students": [
     {
       "student_id": "lucky-fd",
       "name": "Lucky Luciano (file-drop)",
       "repo": "thisisyourchampion/dso429-hw1-bot",
-      "hits": 217,
-      "eligible": 237,
+      "hits": 218,
+      "eligible": 238,
       "uptime_pct": 91.6,
       "accuracy_pct": 99.1,
       "tampered_rounds": 0,
@@ -2861,7 +2861,7 @@
         {
           "round_id": 238,
           "status": "hit",
-          "closed": false,
+          "closed": true,
           "released_at": "2026-09-11T16:00:32Z",
           "deadline_at": "2026-09-11T17:05:32Z",
           "first_seen_at": "2026-09-11T16:30:40.889216Z",
@@ -2872,15 +2872,15 @@
         },
         {
           "round_id": 239,
-          "status": "open",
+          "status": "hit",
           "closed": false,
           "released_at": "2026-09-11T17:00:26Z",
           "deadline_at": "2026-09-11T18:05:26Z",
-          "first_seen_at": null,
-          "n_correct": null,
+          "first_seen_at": "2026-09-11T17:30:28.466176Z",
+          "n_correct": 5,
           "n_questions": 5,
           "tampered": false,
-          "url": null
+          "url": "https://github.com/thisisyourchampion/dso429-hw1-bot/blob/main/answers/round-0239.json"
         }
       ]
     },
@@ -2889,7 +2889,7 @@
       "name": "Demo Student A (punctual)",
       "repo": "FaisalXL/dso429-demo-student-a",
       "hits": 1,
-      "eligible": 237,
+      "eligible": 238,
       "uptime_pct": 0.4,
       "accuracy_pct": 0.2,
       "tampered_rounds": 1,
@@ -5740,8 +5740,8 @@
         },
         {
           "round_id": 238,
-          "status": "open",
-          "closed": false,
+          "status": "missed",
+          "closed": true,
           "released_at": "2026-09-11T16:00:32Z",
           "deadline_at": "2026-09-11T17:05:32Z",
           "first_seen_at": null,
@@ -5769,7 +5769,7 @@
       "name": "Demo Student B (late)",
       "repo": "FaisalXL/dso429-demo-student-b",
       "hits": 0,
-      "eligible": 237,
+      "eligible": 238,
       "uptime_pct": 0.0,
       "accuracy_pct": 0.1,
       "tampered_rounds": 0,
@@ -8620,8 +8620,8 @@
         },
         {
           "round_id": 238,
-          "status": "open",
-          "closed": false,
+          "status": "missed",
+          "closed": true,
           "released_at": "2026-09-11T16:00:32Z",
           "deadline_at": "2026-09-11T17:05:32Z",
           "first_seen_at": null,
@@ -8649,7 +8649,7 @@
       "name": "Demo Student C (goes dark)",
       "repo": "FaisalXL/dso429-demo-student-c",
       "hits": 0,
-      "eligible": 237,
+      "eligible": 238,
       "uptime_pct": 0.0,
       "accuracy_pct": 0.0,
       "tampered_rounds": 0,
@@ -11500,8 +11500,8 @@
         },
         {
           "round_id": 238,
-          "status": "open",
-          "closed": false,
+          "status": "missed",
+          "closed": true,
           "released_at": "2026-09-11T16:00:32Z",
           "deadline_at": "2026-09-11T17:05:32Z",
           "first_seen_at": null,
