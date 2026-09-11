@@ -1199,3 +1199,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 240,3,2026-09-11T18:00:32Z,2026-09-11T19:05:32Z,q0072,"A support queue holds 12 billing tickets, 17 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",69.0%,40.5%,40.0%,28.6%
 240,4,2026-09-11T18:00:32Z,2026-09-11T19:05:32Z,q0744,"Fixed costs are $50,500.00. Each unit sells for $147.00 with a variable cost of $51.00. How many units must be sold to break even?",255 units,344 units,526 units,990 units
 240,5,2026-09-11T18:00:32Z,2026-09-11T19:05:32Z,q1431,"A support queue holds 22 billing tickets, 25 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",36.7%,78.3%,41.7%,57.9%
+241,1,2026-09-11T19:00:33Z,2026-09-11T20:05:33Z,q0558,A $690.00 marketing budget is split between two channels in the ratio 8:6. What does the first channel receive?,$920.00,$394.29,$295.71,$49.29
+241,2,2026-09-11T19:00:33Z,2026-09-11T20:05:33Z,q1492,Quarterly revenue moved from $400.00 to $576.00. What is the percentage change?,30.6%,44.0%,144.0%,-44.0%
+241,3,2026-09-11T19:00:33Z,2026-09-11T20:05:33Z,q1073,An item listed at $351.66 is discounted by 5%. What is the sale price?,$334.08,$17.58,$369.24,$346.66
+241,4,2026-09-11T19:00:33Z,2026-09-11T20:05:33Z,q1420,A retailer sells 670 units at $32.47 each. What is total revenue?,"$21,754.90","$21,430.20","$22,079.60","$22,424.90"
+241,5,2026-09-11T19:00:33Z,2026-09-11T20:05:33Z,q0886,"An investment of $1,500.00 grows at 10% compounded annually. What is its value after 7 years?","$2,657.34","$2,923.08","$2,550.00","$1,050.00"
