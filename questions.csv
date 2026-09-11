@@ -1214,3 +1214,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 243,3,2026-09-11T21:00:46Z,2026-09-11T22:05:46Z,q1178,An item listed at $248.57 is discounted by 20%. What is the sale price?,$198.86,$49.71,$228.57,$298.28
 243,4,2026-09-11T21:00:46Z,2026-09-11T22:05:46Z,q1148,Region A had 38 orders averaging $70.00; region B had 123 orders averaging $85.00. What is the overall average order value?,73.54,77.50,81.46,106.63
 243,5,2026-09-11T21:00:46Z,2026-09-11T22:05:46Z,q1114,A contract signed on 2 August 2026 has a 77-day settlement period. On what date does it settle?,11 October 2026,19 October 2026,17 November 2026,18 October 2026
+244,1,2026-09-11T22:00:44Z,2026-09-11T23:05:44Z,q1613,An item listed at $384.92 is discounted by 10%. What is the sale price?,$346.43,$374.92,$423.41,$38.49
+244,2,2026-09-11T22:00:44Z,2026-09-11T23:05:44Z,q0736,A contract signed on 18 August 2026 has a 119-day settlement period. On what date does it settle?,14 January 2027,15 December 2026,8 December 2026,16 December 2026
+244,3,2026-09-11T22:00:44Z,2026-09-11T23:05:44Z,q0483,"Fixed costs are $10,000.00. Each unit sells for $41.00 with a variable cost of $14.00. How many units must be sold to break even?",714 units,370 units,182 units,244 units
+244,4,2026-09-11T22:00:44Z,2026-09-11T23:05:44Z,q0239,A $780.00 marketing budget is split between two channels in the ratio 4:6. What does the first channel receive?,$520.00,$78.00,$468.00,$312.00
+244,5,2026-09-11T22:00:44Z,2026-09-11T23:05:44Z,q1173,"A $1,260.00 marketing budget is split between two channels in the ratio 2:7. What does the first channel receive?",$280.00,$360.00,$980.00,$140.00
