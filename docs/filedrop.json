@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T20:30:33.154804Z",
+  "generated_at": "2026-09-11T21:00:53.019374Z",
   "model": "file-drop",
-  "latest_round": 242,
+  "latest_round": 243,
   "rounds_closed": 241,
   "students": [
     {
@@ -2917,6 +2917,18 @@
           "n_questions": 5,
           "tampered": false,
           "url": "https://github.com/thisisyourchampion/dso429-hw1-bot/blob/main/answers/round-0242.json"
+        },
+        {
+          "round_id": 243,
+          "status": "open",
+          "closed": false,
+          "released_at": "2026-09-11T21:00:46Z",
+          "deadline_at": "2026-09-11T22:05:46Z",
+          "first_seen_at": null,
+          "n_correct": null,
+          "n_questions": 5,
+          "tampered": false,
+          "url": null
         }
       ]
     },
@@ -5828,6 +5840,18 @@
           "closed": false,
           "released_at": "2026-09-11T20:00:33Z",
           "deadline_at": "2026-09-11T21:05:33Z",
+          "first_seen_at": null,
+          "n_correct": null,
+          "n_questions": 5,
+          "tampered": false,
+          "url": null
+        },
+        {
+          "round_id": 243,
+          "status": "open",
+          "closed": false,
+          "released_at": "2026-09-11T21:00:46Z",
+          "deadline_at": "2026-09-11T22:05:46Z",
           "first_seen_at": null,
           "n_correct": null,
           "n_questions": 5,
@@ -8749,6 +8773,18 @@
           "n_questions": 5,
           "tampered": false,
           "url": null
+        },
+        {
+          "round_id": 243,
+          "status": "open",
+          "closed": false,
+          "released_at": "2026-09-11T21:00:46Z",
+          "deadline_at": "2026-09-11T22:05:46Z",
+          "first_seen_at": null,
+          "n_correct": null,
+          "n_questions": 5,
+          "tampered": false,
+          "url": null
         }
       ]
     },
@@ -11660,6 +11696,18 @@
           "closed": false,
           "released_at": "2026-09-11T20:00:33Z",
           "deadline_at": "2026-09-11T21:05:33Z",
+          "first_seen_at": null,
+          "n_correct": null,
+          "n_questions": 5,
+          "tampered": false,
+          "url": null
+        },
+        {
+          "round_id": 243,
+          "status": "open",
+          "closed": false,
+          "released_at": "2026-09-11T21:00:46Z",
+          "deadline_at": "2026-09-11T22:05:46Z",
           "first_seen_at": null,
           "n_correct": null,
           "n_questions": 5,
