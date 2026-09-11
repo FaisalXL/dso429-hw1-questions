@@ -1129,3 +1129,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 226,3,2026-09-11T04:00:35Z,2026-09-11T05:05:35Z,q1291,"A support queue holds 21 billing tickets, 7 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",77.8%,140.0%,19.4%,58.3%
 226,4,2026-09-11T04:00:35Z,2026-09-11T05:05:35Z,q1008,"A monthly headcount series runs 24, 31, 38, 45, 52. If the pattern continues, what is the next value?",66,73,59,52
 226,5,2026-09-11T04:00:35Z,2026-09-11T05:05:35Z,q1512,A contract signed on 2 November 2026 has a 18-day settlement period. On what date does it settle?,21 November 2026,20 November 2026,13 November 2026,20 December 2026
+227,1,2026-09-11T05:00:30Z,2026-09-11T06:05:30Z,q0704,"Quarterly revenue moved from $2,450.00 to $1,451.00. What is the percentage change?",-68.8%,40.8%,59.2%,-40.8%
+227,2,2026-09-11T05:00:30Z,2026-09-11T06:05:30Z,q1562,A retailer sells 407 units at $41.53 each. What is total revenue?,"$17,318.01","$16,487.41","$16,902.71","$17,309.71"
+227,3,2026-09-11T05:00:30Z,2026-09-11T06:05:30Z,q0258,"Fixed costs are $26,500.00. Each unit sells for $196.00 with a variable cost of $152.00. How many units must be sold to break even?",602 units,76 units,174 units,135 units
+227,4,2026-09-11T05:00:30Z,2026-09-11T06:05:30Z,q1232,"A $1,170.00 marketing budget is split between two channels in the ratio 5:7. What does the first channel receive?",$487.50,$835.71,$682.50,$97.50
+227,5,2026-09-11T05:00:30Z,2026-09-11T06:05:30Z,q0788,"A product line generates $88,250.00 in revenue against $61,219.07 in cost of goods sold. What is the gross margin?",69.4%,30.6%,44.2%,18.1%
