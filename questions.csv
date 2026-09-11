@@ -1104,3 +1104,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 221,3,2026-09-10T23:01:08Z,2026-09-11T00:06:08Z,q0403,A contract signed on 9 May 2026 has a 28-day settlement period. On what date does it settle?,30 May 2026,6 July 2026,6 June 2026,7 June 2026
 221,4,2026-09-10T23:01:08Z,2026-09-11T00:06:08Z,q0200,Region A had 154 orders averaging $91.00; region B had 200 orders averaging $59.00. What is the overall average order value?,72.92,75.00,129.07,77.08
 221,5,2026-09-10T23:01:08Z,2026-09-11T00:06:08Z,q0148,An item listed at $643.83 is discounted by 30%. What is the sale price?,$836.98,$613.83,$193.15,$450.68
+222,1,2026-09-11T00:01:10Z,2026-09-11T01:06:10Z,q0173,"An investment of $42,000.00 grows at 3% compounded annually. What is its value after 4 years?","$47,271.37","$45,894.53","$47,040.00","$5,040.00"
+222,2,2026-09-11T00:01:10Z,2026-09-11T01:06:10Z,q0091,"An invoice for $2,619.43 is settled at an exchange rate of 0.8665. What is the converted amount?","2,007.79","2,269.74","3,023.00","2,531.68"
+222,3,2026-09-11T00:01:10Z,2026-09-11T01:06:10Z,q1162,"A support queue holds 18 billing tickets, 15 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",94.3%,105.9%,42.9%,51.4%
+222,4,2026-09-11T00:01:10Z,2026-09-11T01:06:10Z,q0562,"A product line generates $74,250.00 in revenue against $37,321.45 in cost of goods sold. What is the gross margin?",33.1%,50.3%,49.7%,98.9%
+222,5,2026-09-11T00:01:10Z,2026-09-11T01:06:10Z,q0888,"An invoice for $8,603.45 is settled at an exchange rate of 1.5013. What is the converted amount?","5,730.67","12,916.36","12,056.01","13,776.70"
