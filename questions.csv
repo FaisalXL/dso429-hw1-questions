@@ -1149,3 +1149,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 230,3,2026-09-11T08:00:31Z,2026-09-11T09:05:31Z,q0655,"A support queue holds 25 billing tickets, 11 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",61.0%,87.8%,156.2%,26.8%
 230,4,2026-09-11T08:00:31Z,2026-09-11T09:05:31Z,q1131,"A product line generates $36,250.00 in revenue against $19,650.32 in cost of goods sold. What is the gross margin?",84.5%,54.2%,29.7%,45.8%
 230,5,2026-09-11T08:00:31Z,2026-09-11T09:05:31Z,q1344,"An invoice for $5,265.09 is settled at an exchange rate of 1.6313. What is the converted amount?","9,115.45","8,062.43","3,227.54","8,588.94"
+231,1,2026-09-11T09:00:31Z,2026-09-11T10:05:31Z,q1371,"A $1,350.00 marketing budget is split between two channels in the ratio 4:6. What does the first channel receive?",$900.00,$540.00,$135.00,$810.00
+231,2,2026-09-11T09:00:31Z,2026-09-11T10:05:31Z,q1649,An item listed at $44.96 is discounted by 15%. What is the sale price?,$6.74,$29.96,$51.70,$38.22
+231,3,2026-09-11T09:00:31Z,2026-09-11T10:05:31Z,q1083,"A product line generates $19,000.00 in revenue against $14,057.35 in cost of goods sold. What is the gross margin?",26.0%,15.0%,35.2%,74.0%
+231,4,2026-09-11T09:00:31Z,2026-09-11T10:05:31Z,q0814,"An investment of $40,500.00 grows at 4% compounded annually. What is its value after 6 years?","$50,220.00","$9,720.00","$51,245.42","$49,274.44"
+231,5,2026-09-11T09:00:31Z,2026-09-11T10:05:31Z,q0703,A retailer sells 439 units at $82.77 each. What is total revenue?,"$36,775.03","$37,163.73","$35,508.33","$36,336.03"
