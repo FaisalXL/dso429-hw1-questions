@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-11T06:01:17.258302Z",
+  "generated_at": "2026-09-11T06:30:29.574358Z",
   "model": "file-drop",
   "latest_round": 228,
-  "rounds_closed": 226,
+  "rounds_closed": 227,
   "students": [
     {
       "student_id": "lucky-fd",
       "name": "Lucky Luciano (file-drop)",
       "repo": "thisisyourchampion/dso429-hw1-bot",
-      "hits": 206,
-      "eligible": 226,
+      "hits": 207,
+      "eligible": 227,
       "uptime_pct": 91.2,
       "accuracy_pct": 99.0,
       "tampered_rounds": 0,
@@ -2503,7 +2503,7 @@
         {
           "round_id": 227,
           "status": "hit",
-          "closed": false,
+          "closed": true,
           "deadline_at": "2026-09-11T06:05:30Z",
           "first_seen_at": "2026-09-11T05:30:27.166663Z",
           "n_correct": 5,
@@ -2513,14 +2513,14 @@
         },
         {
           "round_id": 228,
-          "status": "open",
+          "status": "hit",
           "closed": false,
           "deadline_at": "2026-09-11T07:06:07Z",
-          "first_seen_at": null,
-          "n_correct": null,
+          "first_seen_at": "2026-09-11T06:30:27.043588Z",
+          "n_correct": 5,
           "n_questions": 5,
           "tampered": false,
-          "url": null
+          "url": "https://github.com/thisisyourchampion/dso429-hw1-bot/blob/main/answers/round-0228.json"
         }
       ]
     },
@@ -2529,7 +2529,7 @@
       "name": "Demo Student A (punctual)",
       "repo": "FaisalXL/dso429-demo-student-a",
       "hits": 1,
-      "eligible": 226,
+      "eligible": 227,
       "uptime_pct": 0.4,
       "accuracy_pct": 0.2,
       "tampered_rounds": 1,
@@ -5022,8 +5022,8 @@
         },
         {
           "round_id": 227,
-          "status": "open",
-          "closed": false,
+          "status": "missed",
+          "closed": true,
           "deadline_at": "2026-09-11T06:05:30Z",
           "first_seen_at": null,
           "n_correct": null,
@@ -5049,7 +5049,7 @@
       "name": "Demo Student B (late)",
       "repo": "FaisalXL/dso429-demo-student-b",
       "hits": 0,
-      "eligible": 226,
+      "eligible": 227,
       "uptime_pct": 0.0,
       "accuracy_pct": 0.1,
       "tampered_rounds": 0,
@@ -7542,8 +7542,8 @@
         },
         {
           "round_id": 227,
-          "status": "open",
-          "closed": false,
+          "status": "missed",
+          "closed": true,
           "deadline_at": "2026-09-11T06:05:30Z",
           "first_seen_at": null,
           "n_correct": null,
@@ -7569,7 +7569,7 @@
       "name": "Demo Student C (goes dark)",
       "repo": "FaisalXL/dso429-demo-student-c",
       "hits": 0,
-      "eligible": 226,
+      "eligible": 227,
       "uptime_pct": 0.0,
       "accuracy_pct": 0.0,
       "tampered_rounds": 0,
@@ -10062,8 +10062,8 @@
         },
         {
           "round_id": 227,
-          "status": "open",
-          "closed": false,
+          "status": "missed",
+          "closed": true,
           "deadline_at": "2026-09-11T06:05:30Z",
           "first_seen_at": null,
           "n_correct": null,
