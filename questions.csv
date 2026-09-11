@@ -1124,3 +1124,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 225,3,2026-09-11T03:00:25Z,2026-09-11T04:05:25Z,q0711,"A monthly headcount series runs 31, 34, 37, 40, 43. If the pattern continues, what is the next value?",43,49,52,46
 225,4,2026-09-11T03:00:25Z,2026-09-11T04:05:25Z,q1147,"An invoice for $8,147.45 is settled at an exchange rate of 1.0918. What is the converted amount?","7,462.40","8,080.64","8,895.39","9,710.13"
 225,5,2026-09-11T03:00:25Z,2026-09-11T04:05:25Z,q1639,"Fixed costs are $8,500.00. Each unit sells for $168.00 with a variable cost of $61.00. How many units must be sold to break even?",51 units,139 units,79 units,37 units
+226,1,2026-09-11T04:00:35Z,2026-09-11T05:05:35Z,q0097,A retailer sells 354 units at $36.45 each. What is total revenue?,"$13,257.30","$12,903.30","$13,267.80","$12,538.80"
+226,2,2026-09-11T04:00:35Z,2026-09-11T05:05:35Z,q0811,"Quarterly revenue moved from $700.00 to $1,084.00. What is the percentage change?",35.4%,-54.9%,54.9%,154.9%
+226,3,2026-09-11T04:00:35Z,2026-09-11T05:05:35Z,q1291,"A support queue holds 21 billing tickets, 7 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",77.8%,140.0%,19.4%,58.3%
+226,4,2026-09-11T04:00:35Z,2026-09-11T05:05:35Z,q1008,"A monthly headcount series runs 24, 31, 38, 45, 52. If the pattern continues, what is the next value?",66,73,59,52
+226,5,2026-09-11T04:00:35Z,2026-09-11T05:05:35Z,q1512,A contract signed on 2 November 2026 has a 18-day settlement period. On what date does it settle?,21 November 2026,20 November 2026,13 November 2026,20 December 2026
