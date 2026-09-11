@@ -1119,3 +1119,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 224,3,2026-09-11T02:00:33Z,2026-09-11T03:05:33Z,q0527,"A product line generates $36,750.00 in revenue against $24,820.48 in cost of goods sold. What is the gross margin?",32.5%,48.1%,19.4%,67.5%
 224,4,2026-09-11T02:00:33Z,2026-09-11T03:05:33Z,q0597,"Quarterly revenue moved from $1,900.00 to $1,772.00. What is the percentage change?",93.3%,-7.2%,6.7%,-6.7%
 224,5,2026-09-11T02:00:33Z,2026-09-11T03:05:33Z,q0696,"Fixed costs are $52,000.00. Each unit sells for $162.00 with a variable cost of $93.00. How many units must be sold to break even?",204 units,754 units,321 units,559 units
+225,1,2026-09-11T03:00:25Z,2026-09-11T04:05:25Z,q0038,"Quarterly revenue moved from $950.00 to $1,092.00. What is the percentage change?",114.9%,-14.9%,13.0%,14.9%
+225,2,2026-09-11T03:00:25Z,2026-09-11T04:05:25Z,q0780,An invoice for $377.65 is settled at an exchange rate of 1.8412. What is the converted amount?,205.11,695.33,733.09,657.56
+225,3,2026-09-11T03:00:25Z,2026-09-11T04:05:25Z,q0711,"A monthly headcount series runs 31, 34, 37, 40, 43. If the pattern continues, what is the next value?",43,49,52,46
+225,4,2026-09-11T03:00:25Z,2026-09-11T04:05:25Z,q1147,"An invoice for $8,147.45 is settled at an exchange rate of 1.0918. What is the converted amount?","7,462.40","8,080.64","8,895.39","9,710.13"
+225,5,2026-09-11T03:00:25Z,2026-09-11T04:05:25Z,q1639,"Fixed costs are $8,500.00. Each unit sells for $168.00 with a variable cost of $61.00. How many units must be sold to break even?",51 units,139 units,79 units,37 units
