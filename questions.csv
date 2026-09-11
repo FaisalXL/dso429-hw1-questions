@@ -1189,3 +1189,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 238,3,2026-09-11T16:00:32Z,2026-09-11T17:05:32Z,q0742,An item listed at $868.64 is discounted by 10%. What is the sale price?,$86.86,$781.78,$955.50,$858.64
 238,4,2026-09-11T16:00:32Z,2026-09-11T17:05:32Z,q0382,"A support queue holds 11 billing tickets, 15 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",46.9%,81.2%,34.4%,52.4%
 238,5,2026-09-11T16:00:32Z,2026-09-11T17:05:32Z,q0005,"An investment of $29,500.00 grows at 14% compounded annually. What is its value after 2 years?","$38,338.20","$8,260.00","$37,760.00","$33,630.00"
+239,1,2026-09-11T17:00:26Z,2026-09-11T18:05:26Z,q0480,"A product line generates $60,000.00 in revenue against $44,701.38 in cost of goods sold. What is the gross margin?",25.5%,74.5%,14.6%,34.2%
+239,2,2026-09-11T17:00:26Z,2026-09-11T18:05:26Z,q0639,Region A had 169 orders averaging $69.00; region B had 108 orders averaging $67.00. What is the overall average order value?,67.78,68.22,68.00,111.82
+239,3,2026-09-11T17:00:26Z,2026-09-11T18:05:26Z,q0163,"An invoice for $4,139.05 is settled at an exchange rate of 1.0879. What is the converted amount?","4,088.97","4,502.87","3,804.62","4,916.78"
+239,4,2026-09-11T17:00:26Z,2026-09-11T18:05:26Z,q1469,"A product line generates $32,500.00 in revenue against $19,147.37 in cost of goods sold. What is the gross margin?",58.9%,41.1%,69.7%,25.9%
+239,5,2026-09-11T17:00:26Z,2026-09-11T18:05:26Z,q0042,"Fixed costs are $77,500.00. Each unit sells for $32.00 with a variable cost of $15.00. How many units must be sold to break even?","1,649 units","5,167 units","4,559 units","2,422 units"
