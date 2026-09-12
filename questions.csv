@@ -1229,3 +1229,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 246,3,2026-09-12T00:00:45Z,2026-09-12T01:05:45Z,q1106,"Quarterly revenue moved from $3,000.00 to $4,664.00. What is the percentage change?",35.7%,55.5%,-55.5%,155.5%
 246,4,2026-09-12T00:00:45Z,2026-09-12T01:05:45Z,q0822,A retailer sells 980 units at $18.94 each. What is total revenue?,"$19,541.20","$18,561.20","$18,750.60","$18,371.80"
 246,5,2026-09-12T00:00:45Z,2026-09-12T01:05:45Z,q1465,A $630.00 marketing budget is split between two channels in the ratio 4:5. What does the first channel receive?,$70.00,$280.00,$504.00,$350.00
+247,1,2026-09-12T01:00:51Z,2026-09-12T02:05:51Z,q1568,"An invoice for $2,236.23 is settled at an exchange rate of 1.3710. What is the converted amount?","3,289.49","3,065.87","1,631.09","2,842.25"
+247,2,2026-09-12T01:00:51Z,2026-09-12T02:05:51Z,q1321,"An invoice for $7,442.20 is settled at an exchange rate of 1.6242. What is the converted amount?","11,343.40","12,831.84","4,582.07","12,087.62"
+247,3,2026-09-12T01:00:51Z,2026-09-12T02:05:51Z,q1125,"A monthly headcount series runs 23, 35, 47, 59, 71. If the pattern continues, what is the next value?",83,95,71,107
+247,4,2026-09-12T01:00:51Z,2026-09-12T02:05:51Z,q0153,"A monthly headcount series runs 18, 25, 32, 39, 46. If the pattern continues, what is the next value?",60,67,53,46
+247,5,2026-09-12T01:00:51Z,2026-09-12T02:05:51Z,q0693,"Quarterly revenue moved from $4,300.00 to $3,450.00. What is the percentage change?",80.2%,-19.8%,-24.6%,19.8%

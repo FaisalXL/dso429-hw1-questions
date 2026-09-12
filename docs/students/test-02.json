@@ -3767,6 +3767,21 @@
       "n_correct": null,
       "n_questions": 5,
       "wrong": null
+    },
+    {
+      "round_id": 247,
+      "period": "test",
+      "released_at": "2026-09-12T01:00:51Z",
+      "deadline_at": "2026-09-12T02:05:51Z",
+      "closed": false,
+      "voided": false,
+      "status": "open",
+      "submitted_at": null,
+      "reason": "no submission",
+      "attempts": [],
+      "n_correct": null,
+      "n_questions": 5,
+      "wrong": null
     }
   ]
 }
