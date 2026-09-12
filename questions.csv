@@ -1244,3 +1244,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 249,3,2026-09-12T03:00:42Z,2026-09-12T04:05:42Z,q0260,Region A had 190 orders averaging $62.00; region B had 55 orders averaging $91.00. What is the overall average order value?,88.34,84.49,76.50,68.51
 249,4,2026-09-12T03:00:42Z,2026-09-12T04:05:42Z,q0945,An item listed at $560.12 is discounted by 20%. What is the sale price?,$672.14,$112.02,$448.10,$540.12
 249,5,2026-09-12T03:00:42Z,2026-09-12T04:05:42Z,q0653,A contract signed on 28 August 2026 has a 117-day settlement period. On what date does it settle?,24 December 2026,16 December 2026,22 January 2027,23 December 2026
+250,1,2026-09-12T04:00:45Z,2026-09-12T05:05:45Z,q0866,"A monthly headcount series runs 26, 43, 60, 77, 94. If the pattern continues, what is the next value?",145,128,111,94
+250,2,2026-09-12T04:00:45Z,2026-09-12T05:05:45Z,q1388,"An investment of $11,000.00 grows at 6% compounded annually. What is its value after 3 years?","$13,101.18","$12,980.00","$1,980.00","$12,359.60"
+250,3,2026-09-12T04:00:45Z,2026-09-12T05:05:45Z,q1170,Region A had 186 orders averaging $22.00; region B had 70 orders averaging $67.00. What is the overall average order value?,44.50,47.22,54.70,34.30
+250,4,2026-09-12T04:00:45Z,2026-09-12T05:05:45Z,q0936,"An invoice for $4,674.43 is settled at an exchange rate of 1.6589. What is the converted amount?","7,286.97","7,754.41","8,221.85","2,817.79"
+250,5,2026-09-12T04:00:45Z,2026-09-12T05:05:45Z,q0262,A contract signed on 8 March 2026 has a 76-day settlement period. On what date does it settle?,24 May 2026,22 June 2026,16 May 2026,23 May 2026
