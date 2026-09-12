@@ -1274,3 +1274,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 255,3,2026-09-12T09:00:39Z,2026-09-12T10:05:39Z,q0010,A contract signed on 2 August 2026 has a 329-day settlement period. On what date does it settle?,28 June 2027,27 July 2027,27 June 2027,20 June 2027
 255,4,2026-09-12T09:00:39Z,2026-09-12T10:05:39Z,q1079,A contract signed on 2 September 2026 has a 107-day settlement period. On what date does it settle?,17 January 2027,11 December 2026,18 December 2026,19 December 2026
 255,5,2026-09-12T09:00:39Z,2026-09-12T10:05:39Z,q1543,"Fixed costs are $36,000.00. Each unit sells for $130.00 with a variable cost of $49.00. How many units must be sold to break even?",277 units,735 units,444 units,201 units
+256,1,2026-09-12T10:00:41Z,2026-09-12T11:05:41Z,q1467,A retailer sells 363 units at $33.36 each. What is total revenue?,"$11,776.08","$12,472.68","$12,443.28","$12,109.68"
+256,2,2026-09-12T10:00:41Z,2026-09-12T11:05:41Z,q1545,Region A had 41 orders averaging $50.00; region B had 22 orders averaging $44.00. What is the overall average order value?,73.61,46.10,47.00,47.90
+256,3,2026-09-12T10:00:41Z,2026-09-12T11:05:41Z,q0225,"A monthly headcount series runs 14, 29, 44, 59, 74. If the pattern continues, what is the next value?",119,74,104,89
+256,4,2026-09-12T10:00:41Z,2026-09-12T11:05:41Z,q1552,"A product line generates $48,000.00 in revenue against $33,328.33 in cost of goods sold. What is the gross margin?",18.0%,44.0%,30.6%,69.4%
+256,5,2026-09-12T10:00:41Z,2026-09-12T11:05:41Z,q1163,A retailer sells 917 units at $47.96 each. What is total revenue?,"$43,979.32","$43,499.72","$44,458.92","$44,896.32"
