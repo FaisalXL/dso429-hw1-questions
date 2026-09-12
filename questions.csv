@@ -1309,3 +1309,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 262,3,2026-09-12T16:00:42Z,2026-09-12T17:05:42Z,q1616,"An invoice for $2,743.59 is settled at an exchange rate of 0.9876. What is the converted amount?","2,709.57","2,778.04","2,983.93","2,435.21"
 262,4,2026-09-12T16:00:42Z,2026-09-12T17:05:42Z,q0561,"Quarterly revenue moved from $1,950.00 to $1,720.00. What is the percentage change?",88.2%,-13.4%,11.8%,-11.8%
 262,5,2026-09-12T16:00:42Z,2026-09-12T17:05:42Z,q0803,"Fixed costs are $51,000.00. Each unit sells for $42.00 with a variable cost of $5.00. How many units must be sold to break even?","1,085 units","10,200 units","1,214 units","1,378 units"
+263,1,2026-09-12T17:00:38Z,2026-09-12T18:05:38Z,q1078,"A monthly headcount series runs 26, 38, 50, 62, 74. If the pattern continues, what is the next value?",110,74,98,86
+263,2,2026-09-12T17:00:38Z,2026-09-12T18:05:38Z,q1287,Region A had 43 orders averaging $81.00; region B had 184 orders averaging $82.00. What is the overall average order value?,100.93,81.81,81.19,81.50
+263,3,2026-09-12T17:00:38Z,2026-09-12T18:05:38Z,q0896,"A product line generates $11,250.00 in revenue against $8,571.59 in cost of goods sold. What is the gross margin?",76.2%,23.8%,13.5%,31.2%
+263,4,2026-09-12T17:00:38Z,2026-09-12T18:05:38Z,q0174,"Fixed costs are $5,500.00. Each unit sells for $53.00 with a variable cost of $32.00. How many units must be sold to break even?",172 units,65 units,104 units,262 units
+263,5,2026-09-12T17:00:38Z,2026-09-12T18:05:38Z,q1428,"A monthly headcount series runs 15, 19, 23, 27, 31. If the pattern continues, what is the next value?",43,31,35,39
