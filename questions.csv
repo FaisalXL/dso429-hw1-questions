@@ -1324,3 +1324,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 265,3,2026-09-12T19:00:40Z,2026-09-12T20:05:40Z,q1145,"An investment of $13,500.00 grows at 4% compounded annually. What is its value after 3 years?","$14,601.60","$15,120.00","$1,620.00","$15,185.66"
 265,4,2026-09-12T19:00:40Z,2026-09-12T20:05:40Z,q1631,A contract signed on 18 March 2026 has a 95-day settlement period. On what date does it settle?,22 June 2026,14 June 2026,21 July 2026,21 June 2026
 265,5,2026-09-12T19:00:40Z,2026-09-12T20:05:40Z,q0827,"Fixed costs are $5,000.00. Each unit sells for $178.00 with a variable cost of $42.00. How many units must be sold to break even?",119 units,37 units,23 units,28 units
+266,1,2026-09-12T20:00:45Z,2026-09-12T21:05:45Z,q0630,A $780.00 marketing budget is split between two channels in the ratio 7:8. What does the first channel receive?,$364.00,$52.00,$416.00,$682.50
+266,2,2026-09-12T20:00:45Z,2026-09-12T21:05:45Z,q1244,"A $7,980.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$2,660.00","$15,960.00","$1,330.00","$5,320.00"
+266,3,2026-09-12T20:00:45Z,2026-09-12T21:05:45Z,q0971,"An invoice for $2,101.86 is settled at an exchange rate of 1.0624. What is the converted amount?","2,443.20","2,233.02","2,022.83","1,978.41"
+266,4,2026-09-12T20:00:45Z,2026-09-12T21:05:45Z,q1600,"A product line generates $77,500.00 in revenue against $35,954.99 in cost of goods sold. What is the gross margin?",46.4%,36.6%,53.6%,115.5%
+266,5,2026-09-12T20:00:45Z,2026-09-12T21:05:45Z,q1541,An item listed at $534.85 is discounted by 20%. What is the sale price?,$106.97,$514.85,$641.82,$427.88
