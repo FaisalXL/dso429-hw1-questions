@@ -1299,3 +1299,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 260,3,2026-09-12T14:00:41Z,2026-09-12T15:05:41Z,q1018,"An invoice for $8,296.69 is settled at an exchange rate of 0.9639. What is the converted amount?","8,607.42","7,167.51","8,826.85","7,997.18"
 260,4,2026-09-12T14:00:41Z,2026-09-12T15:05:41Z,q0517,"An investment of $29,000.00 grows at 4% compounded annually. What is its value after 5 years?","$35,282.93","$34,800.00","$33,925.90","$5,800.00"
 260,5,2026-09-12T14:00:41Z,2026-09-12T15:05:41Z,q0519,"An invoice for $5,109.31 is settled at an exchange rate of 1.4208. What is the converted amount?","6,748.38","7,259.31","3,596.08","7,770.24"
+261,1,2026-09-12T15:00:39Z,2026-09-12T16:05:39Z,q1015,An item listed at $765.27 is discounted by 15%. What is the sale price?,$880.06,$114.79,$650.48,$750.27
+261,2,2026-09-12T15:00:39Z,2026-09-12T16:05:39Z,q0277,A retailer sells 466 units at $85.20 each. What is total revenue?,"$38,851.20","$39,703.20","$40,169.20","$40,555.20"
+261,3,2026-09-12T15:00:39Z,2026-09-12T16:05:39Z,q0056,Region A had 113 orders averaging $52.00; region B had 64 orders averaging $79.00. What is the overall average order value?,61.76,69.24,96.74,65.50
+261,4,2026-09-12T15:00:39Z,2026-09-12T16:05:39Z,q0167,"A $7,170.00 marketing budget is split between two channels in the ratio 5:2. What does the first channel receive?","$17,925.00","$2,048.57","$5,121.43","$1,024.29"
+261,5,2026-09-12T15:00:39Z,2026-09-12T16:05:39Z,q0536,A retailer sells 223 units at $26.92 each. What is total revenue?,"$5,733.96","$6,226.16","$6,003.16","$6,272.36"
