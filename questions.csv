@@ -1314,3 +1314,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 263,3,2026-09-12T17:00:38Z,2026-09-12T18:05:38Z,q0896,"A product line generates $11,250.00 in revenue against $8,571.59 in cost of goods sold. What is the gross margin?",76.2%,23.8%,13.5%,31.2%
 263,4,2026-09-12T17:00:38Z,2026-09-12T18:05:38Z,q0174,"Fixed costs are $5,500.00. Each unit sells for $53.00 with a variable cost of $32.00. How many units must be sold to break even?",172 units,65 units,104 units,262 units
 263,5,2026-09-12T17:00:38Z,2026-09-12T18:05:38Z,q1428,"A monthly headcount series runs 15, 19, 23, 27, 31. If the pattern continues, what is the next value?",43,31,35,39
+264,1,2026-09-12T18:00:43Z,2026-09-12T19:05:43Z,q0108,"A support queue holds 7 billing tickets, 20 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",21.9%,17.9%,69.2%,51.3%
+264,2,2026-09-12T18:00:43Z,2026-09-12T19:05:43Z,q1063,"Fixed costs are $22,500.00. Each unit sells for $120.00 with a variable cost of $63.00. How many units must be sold to break even?",123 units,395 units,357 units,188 units
+264,3,2026-09-12T18:00:43Z,2026-09-12T19:05:43Z,q0411,"Fixed costs are $30,500.00. Each unit sells for $80.00 with a variable cost of $34.00. How many units must be sold to break even?",268 units,381 units,897 units,663 units
+264,4,2026-09-12T18:00:43Z,2026-09-12T19:05:43Z,q0842,"A monthly headcount series runs 19, 30, 41, 52, 63. If the pattern continues, what is the next value?",74,63,96,85
+264,5,2026-09-12T18:00:43Z,2026-09-12T19:05:43Z,q0006,"Fixed costs are $19,000.00. Each unit sells for $133.00 with a variable cost of $42.00. How many units must be sold to break even?",109 units,143 units,452 units,209 units
