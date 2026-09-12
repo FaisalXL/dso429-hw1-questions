@@ -1294,3 +1294,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 259,3,2026-09-12T13:00:43Z,2026-09-12T14:05:43Z,q1448,"An investment of $46,500.00 grows at 5% compounded annually. What is its value after 3 years?","$6,975.00","$51,266.25","$53,475.00","$53,829.56"
 259,4,2026-09-12T13:00:43Z,2026-09-12T14:05:43Z,q0717,"A product line generates $20,250.00 in revenue against $9,151.58 in cost of goods sold. What is the gross margin?",37.7%,54.8%,45.2%,121.3%
 259,5,2026-09-12T13:00:43Z,2026-09-12T14:05:43Z,q1230,"A monthly headcount series runs 16, 20, 24, 28, 32. If the pattern continues, what is the next value?",40,44,32,36
+260,1,2026-09-12T14:00:41Z,2026-09-12T15:05:41Z,q0426,"A monthly headcount series runs 23, 28, 33, 38, 43. If the pattern continues, what is the next value?",43,58,48,53
+260,2,2026-09-12T14:00:41Z,2026-09-12T15:05:41Z,q0369,"A $8,340.00 marketing budget is split between two channels in the ratio 5:2. What does the first channel receive?","$20,850.00","$5,957.14","$1,191.43","$2,382.86"
+260,3,2026-09-12T14:00:41Z,2026-09-12T15:05:41Z,q1018,"An invoice for $8,296.69 is settled at an exchange rate of 0.9639. What is the converted amount?","8,607.42","7,167.51","8,826.85","7,997.18"
+260,4,2026-09-12T14:00:41Z,2026-09-12T15:05:41Z,q0517,"An investment of $29,000.00 grows at 4% compounded annually. What is its value after 5 years?","$35,282.93","$34,800.00","$33,925.90","$5,800.00"
+260,5,2026-09-12T14:00:41Z,2026-09-12T15:05:41Z,q0519,"An invoice for $5,109.31 is settled at an exchange rate of 1.4208. What is the converted amount?","6,748.38","7,259.31","3,596.08","7,770.24"
