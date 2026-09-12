@@ -1269,3 +1269,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 254,3,2026-09-12T08:00:41Z,2026-09-12T09:05:41Z,q1243,A contract signed on 2 February 2026 has a 137-day settlement period. On what date does it settle?,12 June 2026,20 June 2026,19 July 2026,19 June 2026
 254,4,2026-09-12T08:00:41Z,2026-09-12T09:05:41Z,q1126,A contract signed on 13 May 2026 has a 393-day settlement period. On what date does it settle?,10 June 2027,11 June 2027,10 July 2027,3 June 2027
 254,5,2026-09-12T08:00:41Z,2026-09-12T09:05:41Z,q0900,"An invoice for $6,833.65 is settled at an exchange rate of 0.6821. What is the converted amount?","5,344.60","3,977.87","10,018.55","4,661.23"
+255,1,2026-09-12T09:00:39Z,2026-09-12T10:05:39Z,q0340,"An investment of $31,500.00 grows at 2% compounded annually. What is its value after 6 years?","$34,778.55","$35,280.00","$3,780.00","$35,474.12"
+255,2,2026-09-12T09:00:39Z,2026-09-12T10:05:39Z,q0205,A retailer sells 802 units at $30.36 each. What is total revenue?,"$25,150.72","$24,652.32","$24,348.72","$24,045.12"
+255,3,2026-09-12T09:00:39Z,2026-09-12T10:05:39Z,q0010,A contract signed on 2 August 2026 has a 329-day settlement period. On what date does it settle?,28 June 2027,27 July 2027,27 June 2027,20 June 2027
+255,4,2026-09-12T09:00:39Z,2026-09-12T10:05:39Z,q1079,A contract signed on 2 September 2026 has a 107-day settlement period. On what date does it settle?,17 January 2027,11 December 2026,18 December 2026,19 December 2026
+255,5,2026-09-12T09:00:39Z,2026-09-12T10:05:39Z,q1543,"Fixed costs are $36,000.00. Each unit sells for $130.00 with a variable cost of $49.00. How many units must be sold to break even?",277 units,735 units,444 units,201 units
