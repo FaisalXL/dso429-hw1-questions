@@ -1289,3 +1289,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 258,3,2026-09-12T12:00:41Z,2026-09-12T13:05:41Z,q0339,An item listed at $613.48 is discounted by 40%. What is the sale price?,$368.09,$245.39,$858.87,$573.48
 258,4,2026-09-12T12:00:41Z,2026-09-12T13:05:41Z,q0347,A retailer sells 177 units at $48.18 each. What is total revenue?,"$8,527.86","$9,009.66","$8,704.86","$8,046.06"
 258,5,2026-09-12T12:00:41Z,2026-09-12T13:05:41Z,q1435,An item listed at $565.77 is discounted by 45%. What is the sale price?,$520.77,$254.60,$311.17,$820.37
+259,1,2026-09-12T13:00:43Z,2026-09-12T14:05:43Z,q1511,"A monthly headcount series runs 35, 46, 57, 68, 79. If the pattern continues, what is the next value?",112,101,90,79
+259,2,2026-09-12T13:00:43Z,2026-09-12T14:05:43Z,q1311,Region A had 173 orders averaging $30.00; region B had 73 orders averaging $93.00. What is the overall average order value?,48.70,61.50,74.30,69.24
+259,3,2026-09-12T13:00:43Z,2026-09-12T14:05:43Z,q1448,"An investment of $46,500.00 grows at 5% compounded annually. What is its value after 3 years?","$6,975.00","$51,266.25","$53,475.00","$53,829.56"
+259,4,2026-09-12T13:00:43Z,2026-09-12T14:05:43Z,q0717,"A product line generates $20,250.00 in revenue against $9,151.58 in cost of goods sold. What is the gross margin?",37.7%,54.8%,45.2%,121.3%
+259,5,2026-09-12T13:00:43Z,2026-09-12T14:05:43Z,q1230,"A monthly headcount series runs 16, 20, 24, 28, 32. If the pattern continues, what is the next value?",40,44,32,36

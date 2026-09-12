@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-12T12:41:23.909909Z",
+  "generated_at": "2026-09-12T13:00:50.727997Z",
   "dataset": "live",
   "period": "test",
   "train_rounds": 12,
-  "latest_round": 258,
+  "latest_round": 259,
   "rounds_closed": 257,
   "unregistered_submissions": 3,
   "students": [
