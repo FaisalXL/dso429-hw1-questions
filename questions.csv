@@ -1284,3 +1284,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 257,3,2026-09-12T11:00:40Z,2026-09-12T12:05:40Z,q0805,Region A had 163 orders averaging $62.00; region B had 76 orders averaging $57.00. What is the overall average order value?,58.59,88.58,60.41,59.50
 257,4,2026-09-12T11:00:40Z,2026-09-12T12:05:40Z,q0960,Region A had 132 orders averaging $73.00; region B had 30 orders averaging $49.00. What is the overall average order value?,53.44,84.14,68.56,61.00
 257,5,2026-09-12T11:00:40Z,2026-09-12T12:05:40Z,q0078,"Fixed costs are $24,500.00. Each unit sells for $112.00 with a variable cost of $62.00. How many units must be sold to break even?",490 units,219 units,141 units,395 units
+258,1,2026-09-12T12:00:41Z,2026-09-12T13:05:41Z,q1284,"An investment of $43,000.00 grows at 3% compounded annually. What is its value after 2 years?","$45,618.70","$2,580.00","$45,580.00","$44,290.00"
+258,2,2026-09-12T12:00:41Z,2026-09-12T13:05:41Z,q1508,"Fixed costs are $5,000.00. Each unit sells for $120.00 with a variable cost of $42.00. How many units must be sold to break even?",119 units,31 units,42 units,64 units
+258,3,2026-09-12T12:00:41Z,2026-09-12T13:05:41Z,q0339,An item listed at $613.48 is discounted by 40%. What is the sale price?,$368.09,$245.39,$858.87,$573.48
+258,4,2026-09-12T12:00:41Z,2026-09-12T13:05:41Z,q0347,A retailer sells 177 units at $48.18 each. What is total revenue?,"$8,527.86","$9,009.66","$8,704.86","$8,046.06"
+258,5,2026-09-12T12:00:41Z,2026-09-12T13:05:41Z,q1435,An item listed at $565.77 is discounted by 45%. What is the sale price?,$520.77,$254.60,$311.17,$820.37
