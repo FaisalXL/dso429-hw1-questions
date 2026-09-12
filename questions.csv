@@ -1224,3 +1224,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 245,3,2026-09-11T23:01:19Z,2026-09-12T00:06:19Z,q0482,"An investment of $16,500.00 grows at 15% compounded annually. What is its value after 4 years?","$25,094.44","$26,400.00","$9,900.00","$28,858.60"
 245,4,2026-09-11T23:01:19Z,2026-09-12T00:06:19Z,q0531,"An invoice for $5,982.44 is settled at an exchange rate of 0.9843. What is the converted amount?","5,888.52","6,486.76","6,077.86","5,290.27"
 245,5,2026-09-11T23:01:19Z,2026-09-12T00:06:19Z,q1214,"An investment of $40,000.00 grows at 15% compounded annually. What is its value after 7 years?","$106,400.80","$82,000.00","$42,000.00","$92,522.43"
+246,1,2026-09-12T00:00:45Z,2026-09-12T01:05:45Z,q0921,An item listed at $252.15 is discounted by 20%. What is the sale price?,$50.43,$302.58,$201.72,$232.15
+246,2,2026-09-12T00:00:45Z,2026-09-12T01:05:45Z,q0249,"A monthly headcount series runs 18, 21, 24, 27, 30. If the pattern continues, what is the next value?",36,33,30,39
+246,3,2026-09-12T00:00:45Z,2026-09-12T01:05:45Z,q1106,"Quarterly revenue moved from $3,000.00 to $4,664.00. What is the percentage change?",35.7%,55.5%,-55.5%,155.5%
+246,4,2026-09-12T00:00:45Z,2026-09-12T01:05:45Z,q0822,A retailer sells 980 units at $18.94 each. What is total revenue?,"$19,541.20","$18,561.20","$18,750.60","$18,371.80"
+246,5,2026-09-12T00:00:45Z,2026-09-12T01:05:45Z,q1465,A $630.00 marketing budget is split between two channels in the ratio 4:5. What does the first channel receive?,$70.00,$280.00,$504.00,$350.00
