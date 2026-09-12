@@ -1259,3 +1259,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 252,3,2026-09-12T06:00:42Z,2026-09-12T07:05:42Z,q0666,"A $5,460.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$1,092.00","$3,640.00","$3,276.00","$2,184.00"
 252,4,2026-09-12T06:00:42Z,2026-09-12T07:05:42Z,q1189,An item listed at $315.33 is discounted by 15%. What is the sale price?,$362.63,$47.30,$268.03,$300.33
 252,5,2026-09-12T06:00:42Z,2026-09-12T07:05:42Z,q0739,A retailer sells 954 units at $44.12 each. What is total revenue?,"$41,649.28","$42,531.68","$43,044.48","$42,090.48"
+253,1,2026-09-12T07:00:41Z,2026-09-12T08:05:41Z,q0307,Region A had 125 orders averaging $77.00; region B had 20 orders averaging $83.00. What is the overall average order value?,77.83,90.28,80.00,82.17
+253,2,2026-09-12T07:00:41Z,2026-09-12T08:05:41Z,q1381,"A monthly headcount series runs 8, 12, 16, 20, 24. If the pattern continues, what is the next value?",32,28,36,24
+253,3,2026-09-12T07:00:41Z,2026-09-12T08:05:41Z,q1580,"An invoice for $7,304.81 is settled at an exchange rate of 0.6944. What is the converted amount?","10,519.60","5,802.94","4,341.98","5,072.46"
+253,4,2026-09-12T07:00:41Z,2026-09-12T08:05:41Z,q0292,"An investment of $26,500.00 grows at 10% compounded annually. What is its value after 6 years?","$15,900.00","$42,678.52","$46,946.37","$42,400.00"
+253,5,2026-09-12T07:00:41Z,2026-09-12T08:05:41Z,q0754,An item listed at $460.24 is discounted by 30%. What is the sale price?,$598.31,$430.24,$322.17,$138.07
