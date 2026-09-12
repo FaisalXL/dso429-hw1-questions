@@ -1319,3 +1319,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 264,3,2026-09-12T18:00:43Z,2026-09-12T19:05:43Z,q0411,"Fixed costs are $30,500.00. Each unit sells for $80.00 with a variable cost of $34.00. How many units must be sold to break even?",268 units,381 units,897 units,663 units
 264,4,2026-09-12T18:00:43Z,2026-09-12T19:05:43Z,q0842,"A monthly headcount series runs 19, 30, 41, 52, 63. If the pattern continues, what is the next value?",74,63,96,85
 264,5,2026-09-12T18:00:43Z,2026-09-12T19:05:43Z,q0006,"Fixed costs are $19,000.00. Each unit sells for $133.00 with a variable cost of $42.00. How many units must be sold to break even?",109 units,143 units,452 units,209 units
+265,1,2026-09-12T19:00:40Z,2026-09-12T20:05:40Z,q1573,"A support queue holds 16 billing tickets, 5 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",177.8%,84.0%,20.0%,64.0%
+265,2,2026-09-12T19:00:40Z,2026-09-12T20:05:40Z,q1317,"A product line generates $58,500.00 in revenue against $38,609.03 in cost of goods sold. What is the gross margin?",51.5%,34.0%,66.0%,20.5%
+265,3,2026-09-12T19:00:40Z,2026-09-12T20:05:40Z,q1145,"An investment of $13,500.00 grows at 4% compounded annually. What is its value after 3 years?","$14,601.60","$15,120.00","$1,620.00","$15,185.66"
+265,4,2026-09-12T19:00:40Z,2026-09-12T20:05:40Z,q1631,A contract signed on 18 March 2026 has a 95-day settlement period. On what date does it settle?,22 June 2026,14 June 2026,21 July 2026,21 June 2026
+265,5,2026-09-12T19:00:40Z,2026-09-12T20:05:40Z,q0827,"Fixed costs are $5,000.00. Each unit sells for $178.00 with a variable cost of $42.00. How many units must be sold to break even?",119 units,37 units,23 units,28 units
