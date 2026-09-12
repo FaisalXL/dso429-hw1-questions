@@ -1264,3 +1264,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 253,3,2026-09-12T07:00:41Z,2026-09-12T08:05:41Z,q1580,"An invoice for $7,304.81 is settled at an exchange rate of 0.6944. What is the converted amount?","10,519.60","5,802.94","4,341.98","5,072.46"
 253,4,2026-09-12T07:00:41Z,2026-09-12T08:05:41Z,q0292,"An investment of $26,500.00 grows at 10% compounded annually. What is its value after 6 years?","$15,900.00","$42,678.52","$46,946.37","$42,400.00"
 253,5,2026-09-12T07:00:41Z,2026-09-12T08:05:41Z,q0754,An item listed at $460.24 is discounted by 30%. What is the sale price?,$598.31,$430.24,$322.17,$138.07
+254,1,2026-09-12T08:00:41Z,2026-09-12T09:05:41Z,q1491,A retailer sells 670 units at $14.15 each. What is total revenue?,"$10,150.50","$9,622.00","$9,480.50","$9,339.00"
+254,2,2026-09-12T08:00:41Z,2026-09-12T09:05:41Z,q1570,"A monthly headcount series runs 21, 33, 45, 57, 69. If the pattern continues, what is the next value?",69,93,105,81
+254,3,2026-09-12T08:00:41Z,2026-09-12T09:05:41Z,q1243,A contract signed on 2 February 2026 has a 137-day settlement period. On what date does it settle?,12 June 2026,20 June 2026,19 July 2026,19 June 2026
+254,4,2026-09-12T08:00:41Z,2026-09-12T09:05:41Z,q1126,A contract signed on 13 May 2026 has a 393-day settlement period. On what date does it settle?,10 June 2027,11 June 2027,10 July 2027,3 June 2027
+254,5,2026-09-12T08:00:41Z,2026-09-12T09:05:41Z,q0900,"An invoice for $6,833.65 is settled at an exchange rate of 0.6821. What is the converted amount?","5,344.60","3,977.87","10,018.55","4,661.23"
