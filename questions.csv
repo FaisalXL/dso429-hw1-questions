@@ -1279,3 +1279,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 256,3,2026-09-12T10:00:41Z,2026-09-12T11:05:41Z,q0225,"A monthly headcount series runs 14, 29, 44, 59, 74. If the pattern continues, what is the next value?",119,74,104,89
 256,4,2026-09-12T10:00:41Z,2026-09-12T11:05:41Z,q1552,"A product line generates $48,000.00 in revenue against $33,328.33 in cost of goods sold. What is the gross margin?",18.0%,44.0%,30.6%,69.4%
 256,5,2026-09-12T10:00:41Z,2026-09-12T11:05:41Z,q1163,A retailer sells 917 units at $47.96 each. What is total revenue?,"$43,979.32","$43,499.72","$44,458.92","$44,896.32"
+257,1,2026-09-12T11:00:40Z,2026-09-12T12:05:40Z,q0211,"An invoice for $7,486.70 is settled at an exchange rate of 1.5031. What is the converted amount?","11,253.26","4,980.84","10,504.59","12,001.93"
+257,2,2026-09-12T11:00:40Z,2026-09-12T12:05:40Z,q0542,"An invoice for $2,660.41 is settled at an exchange rate of 1.7149. What is the converted amount?","1,551.35","4,828.38","4,562.34","4,296.30"
+257,3,2026-09-12T11:00:40Z,2026-09-12T12:05:40Z,q0805,Region A had 163 orders averaging $62.00; region B had 76 orders averaging $57.00. What is the overall average order value?,58.59,88.58,60.41,59.50
+257,4,2026-09-12T11:00:40Z,2026-09-12T12:05:40Z,q0960,Region A had 132 orders averaging $73.00; region B had 30 orders averaging $49.00. What is the overall average order value?,53.44,84.14,68.56,61.00
+257,5,2026-09-12T11:00:40Z,2026-09-12T12:05:40Z,q0078,"Fixed costs are $24,500.00. Each unit sells for $112.00 with a variable cost of $62.00. How many units must be sold to break even?",490 units,219 units,141 units,395 units
