@@ -1239,3 +1239,8 @@ round_id,q_index,released_at,deadline_at,question_id,question_text,option_a,opti
 248,3,2026-09-12T02:00:42Z,2026-09-12T03:05:42Z,q0013,A retailer sells 179 units at $11.19 each. What is total revenue?,"$2,003.01","$2,114.91","$1,891.11","$2,182.01"
 248,4,2026-09-12T02:00:42Z,2026-09-12T03:05:42Z,q0929,"A support queue holds 4 billing tickets, 15 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",61.3%,12.9%,48.4%,14.8%
 248,5,2026-09-12T02:00:42Z,2026-09-12T03:05:42Z,q0599,An item listed at $659.00 is discounted by 45%. What is the sale price?,$362.45,$955.55,$614.00,$296.55
+249,1,2026-09-12T03:00:42Z,2026-09-12T04:05:42Z,q0956,An item listed at $255.33 is discounted by 45%. What is the sale price?,$140.43,$114.90,$370.23,$210.33
+249,2,2026-09-12T03:00:42Z,2026-09-12T04:05:42Z,q1614,"An investment of $11,000.00 grows at 6% compounded annually. What is its value after 5 years?","$3,300.00","$14,300.00","$13,887.25","$14,720.48"
+249,3,2026-09-12T03:00:42Z,2026-09-12T04:05:42Z,q0260,Region A had 190 orders averaging $62.00; region B had 55 orders averaging $91.00. What is the overall average order value?,88.34,84.49,76.50,68.51
+249,4,2026-09-12T03:00:42Z,2026-09-12T04:05:42Z,q0945,An item listed at $560.12 is discounted by 20%. What is the sale price?,$672.14,$112.02,$448.10,$540.12
+249,5,2026-09-12T03:00:42Z,2026-09-12T04:05:42Z,q0653,A contract signed on 28 August 2026 has a 117-day settlement period. On what date does it settle?,24 December 2026,16 December 2026,22 January 2027,23 December 2026
